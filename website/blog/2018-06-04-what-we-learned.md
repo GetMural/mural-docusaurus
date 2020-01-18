@@ -6,7 +6,11 @@ authorURL: https://twitter.com/dougiegyro
 
 Mural is a tool for creating visual longform stories. The [Mural software is marking its official launch this week](https://www.getmural.io/), and it’s been a pleasure to work on it as with the support of the Google Digital News Initiative’s Prototype Fund. As our project is open source (AGPL), we figured that it would be good to extend our transparency and share with you some of the things we’ve learned along the way.
 
+<!--truncate-->
+
 A lot of this is technical, but as Father John Culkin once wrote about Marshall McLuhan’s philosophy, “We shape our tools, and thereafter they shape us.” The decisions we made in making Mural, and what we’ve learned in the process, might provide helpful insights for others making and using storytelling tools, as well as for those interested in how Mural was created.
+
+![Screenshot of Mural’s UI as of version 0.2.3](/img/what-we-learned.jpeg)
 
 ### Lesson 1: Get out of the CMS
 
@@ -21,7 +25,9 @@ Mural had its start as a visual theme for a CMS called Newscoop, but to get it t
 The experience led to our first decision: In order to make a tool that truly works with visual content, we had to get away from the mentality that everything an organization does must be in one single CMS.
 
 There are quite a few good CMS themes for outputting big visuals — Snowball for Wordpress is an example — but the problem isn’t with the theme, it’s with the backend. The Wordpress admin interface isn’t really isn’t made for working with visual content, and rearranging content can be tedious. This may change with initiatives like Wordpress’ Gutenberg editor — and we certainly hope so.
+
 This led us to think: If we got away from the CMS, we could better understand the workflow of visual longform projects, which tend to be one-off efforts, assembled once and never updated again.
+
 There was another plus. We could make the longform stories into static files, which would help to simplify things greatly on the technical side. With our output as static files, we wouldn’t need a dynamic server, with all of the overhead that managing one entails. In fact, we could go serverless if we wanted to. With static pages, organizations can publish their stories just about anywhere, and for less money and trouble than a CMS.
 
 To be clear, strong visuals don’t require static pages. But static pages definitely makes the process simpler for less-technical users, and because time is money, we’re saving both.
