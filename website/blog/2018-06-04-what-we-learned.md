@@ -42,22 +42,36 @@ Centred text
 Each of these items can then be used to present content, and the sequence of items can be rearranged by dragging and dropping.
 Lesson 3: Move to the desktop
 When we started work on Mural, we originally intended it as server software. This would let us create a service for authoring content, and would let us use a centralized code base. But then we started thinking about the large amounts of files that would be used by such a service, and the storage and bandwidth implications of that, and we started to think otherwise. Also, there are still enough places in the world that don’t have cheap and plentiful wireless broadband for sending and working with video.
-Luckily, there’s been tremendous progress on an open source project called Electron (https://electronjs.org/), which lets developers create desktop apps using JavaScript, HTML and CSS, and the same code can be used on Mac, Windows and Linux. We considered having both desktop and server versions of Mural, but for now we’ve decided to concentrate on the desktop version, as it solves more of our users’ pain points:
-Low barrier to entry. You don’t need to know how to code to build a rich media site easily. Simply start writing and adding your media and the app will do the rest.
-It’s faster to work with a desktop program, because the user doesn’t have to upload videos to a server before working with the story
-It’s easier to make changes on the desktop version, as there is no lag
-Because Mural outputs HTML, CSS and Javascript, technically-savvy users can make additional changes before uploading by working in your favorite coding environment. We’ve also discussed ways to support code insertion inside the Mural editor, so that a technically savvy user would be able to write (or copy) the code they need
-You have a choice of servers, and all of them are affordable. We’re using a mix of different servers for the stories we make with Mural, and all of them are quite affordable.
-Real world preview. This allows for believable previewing of your work because what you see is being rendered in an actual browser in real time as you work.
-Keep agile. The user can work on the go to build a story with their assets as they create them. No need to wait for phone signal and internet tethering to continue working.
-The backend design we’ve chosen also lets us make a mobile app later on. We’d love to do this right away, but were faced with a very limited budget
+
+Luckily, there’s been tremendous progress on an open source project called [Electron](https://electronjs.org/), which lets developers create desktop apps using JavaScript, HTML and CSS, and the same code can be used on Mac, Windows and Linux. We considered having both desktop and server versions of Mural, but for now we’ve decided to concentrate on the desktop version, as it solves more of our users’ pain points:
+
+- **Low barrier to entry** You don’t need to know how to code to build a rich media site easily. Simply start writing and adding your media and the app will do the rest.
+
+- **It’s faster** to work with a desktop program, because the user doesn’t have to upload videos to a server before working with the story
+
+- **It’s easier to make changes** on the desktop version, as there is no lag
+
+- Because **Mural outputs HTML, CSS and Javascript**, technically-savvy users can make additional changes before uploading by working in your favorite coding environment. We’ve also discussed ways to support code insertion inside the Mural editor, so that a technically savvy user would be able to write (or copy) the code they need
+
+- **You have a choice of servers, and all of them are affordable.** We’re using a mix of different servers for the stories we make with Mural, and all of them are quite affordable.
+
+- **Real world preview.** This allows for believable previewing of your work because what you see is being rendered in an actual browser in real time as you work.
+
+- **Keep agile.** The user can work on the go to build a story with their assets as they create them. No need to wait for phone signal and internet tethering to continue working.
+
+- The backend design we’ve chosen also lets us make a **mobile app later on.** We’d love to do this right away, but were faced with a very limited budget
+
 Lesson 4: Simple things done well
 We understand very well that working with video, especially optimizing video, can take a long time. We had a lot of debates about whether or not to include video conversion functionality in the editor, but decided against this because it would add a lot of complexity to the code. Instead we decided to highlight in our manual a number of different external tools that are already very good at converting video. We would, however, like to make it clearer to the user that they have to optimize their videos themselves, and will improve this in future versions. That said, working with video is definitely an area we’re looking to improve.
 We do plan on adding support to Mural for integrating YouTube and Vimeo videos in a future release, and are interested in embed support for a number of different services — support for data visualization tools like D3 are also on our to-do list. In fact, one of the artists we worked with in testing Mural, Dominic Smith, has created a piece, The Volunteers, in which all of the videos are served from Vimeo.
+
 Lesson 5: Listening to and watching our users
 One of the reasons we made Mural was so that journalists and people working in the arts would have the ability to better convey arts stories, which by their very nature are multimedia. Some of our earliest testers are artists themselves, and they’ve used Mural both as a way to document their work and as an artistic medium in and of itself.
+
 We’ve listened to our users very carefully and have also watched them use Mural, and this has given us much clearer prioritization of our bugs and feature requests. We’re big practitioners of Design Thinking, and we started the project with personae representing types of users, but over time these personae have been replaced with real users and their very real tasks, needs and pain points.
 Design Thinking also helped us to clarify and refine Mural’s features and functionality, and we continue to follow its five primary steps: Empathize, Define, Ideate, Prototype and Test.
 Lesson 6: Trust the community
+
 One of our current discussions has to do with how to make Mural into a viable project that serves its community but also becomes a sustainable business. All of us on the Mural team are strong advocates of open source, and we’re taking a leap of faith in starting a new business while keeping that commitment. We believe that once we get Mural our into users’ hands, they’ll start to get involved in improving it and developing it further, as well as using the services we offer based on the tool.
+
 We plan to offer a number of paid services on top of Mural, including hosting, optimization, and development of new features. We also want to offer consulting and training to show users how to make the most of not only Mural, but also a number of related apps and services. It’s cheesy to end this up this way, but it needs to be said: Get in touch and we can work together to make it easier to tell visual stories!
