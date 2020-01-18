@@ -1,6 +1,6 @@
 {
   "docs": {
-    "Editor": ["metadata"],
+    "Editor": ["metadata, image-background"],
     "Docusaurus": ["doc1"],
     "First Category": ["doc2"],
     "Second Category": ["doc3"]
