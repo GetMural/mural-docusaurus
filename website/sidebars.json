@@ -1,8 +1,7 @@
 {
   "docs": {
     "Intro": ["intro", "how-it-works", "getting-started"],
-    "Mural Items": ["imagebackground"],
-    "Metadata": ["metadata"],
+    "Mural Items": ["metadata", "imagebackground"],
     "Workflow": ["image-workflow"]
   },
   "docs-other": {
