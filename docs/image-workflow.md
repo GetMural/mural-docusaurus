@@ -1,3 +1,9 @@
+---
+id: image-workflow
+title: How to work with images in Mural
+sidebar_label: Image Workflow
+---
+
 # Working with images in Mural
 
 Mural does not have internal image editing functions. This means you have to use an external image editing program such as Photoshop, GIMP or others.
@@ -10,11 +16,11 @@ It's important to put images in all three sizes; if you only put an image in the
 ### 3 sizes: Small, Medium and Large
 Mural's three image sizes are as follows:
 
-- Small: 1080 pixels wide X 1920 pixels high. This is a portrait orientation and assumed for mobile phones in a vertical position
+- Small: 1080 pixels wide X 1920 pixels high. This is a portrait orientation and assumed for mobile phones in a vertical position.
 
-- Medium: 1024 pixels wide X 768 pixels high. This is intended in a landscape orientation for use primarily on tablet devices.
+- Medium: 768 pixels wide X 1024 pixels high. This is a portrait orientation and assumed for tablet devices in a vertical position.
 
-- Large: 1920 pixels wide X 1024 pixels high. This is intended for use on desktop computers.
+- Large: 1920 pixels wide X 1080 pixels high. This is intended for use on desktop computers.
 
 ### Image formats
 Mural works with images in JPEG, GIF (including animations) and PNG formats.

@@ -1,7 +1,7 @@
 ---
 id: imagebackground
-title: Image Background
-sidebar_label: Image Background
+title: The ImageBackground Mural Item
+sidebar_label: ImageBackground
 ---
 
 ## Image Background
