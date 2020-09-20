@@ -110,4 +110,9 @@ const siteConfig = {
   gaTrackingId: 'UA-119779433-1'
 };
 
+// colours
+// red #ff0000
+// yellow #fcd700
+// green #a3e0bb
+
 module.exports = siteConfig;

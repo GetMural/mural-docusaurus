@@ -85,23 +85,14 @@ class Index extends React.Component {
         id={props.id}
         background={props.background}>
         <GridBlock
-          align="center"
+          align="left"
           contents={props.children}
           layout={props.layout}
         />
       </Container>
     );
 
-    const FeatureCallout = () => (
-      <div
-        className="productShowcaseSection paddingBottom"
-        style={{textAlign: 'center'}}>
-        <h2>Feature Callout</h2>
-        <MarkdownBlock>These are features of this project</MarkdownBlock>
-      </div>
-    );
-
-    const TryOut = () => (
+    const Download = () => (
       <Block id="try">
         {[
           {
@@ -110,6 +101,7 @@ class Index extends React.Component {
               '[**unDraw**](https://undraw.co/) which provides you with customizable illustrations which are free to use. ' +
               'The illustrations you see on this page are from unDraw.',
             image: `${baseUrl}img/undraw_code_review.svg`,
+            imageAlt: '',
             imageAlign: 'left',
             title: 'Wonderful SVG Illustrations',
           },
@@ -117,48 +109,46 @@ class Index extends React.Component {
       </Block>
     );
 
-    const Description = () => (
-      <Block background="dark">
-        {[
-          {
-            content:
-              'This is another description of how this project is useful',
-            image: `${baseUrl}img/undraw_note_list.svg`,
-            imageAlign: 'right',
-            title: 'Description',
-          },
-        ]}
-      </Block>
-    );
-
-    const LearnHow = () => (
+    const YourMultimedia = () => (
       <Block background="light">
         {[
           {
             content:
-              'Each new Docusaurus project has **randomly-generated** theme colors.',
-            image: `${baseUrl}img/undraw_youtube_tutorial.svg`,
+              'Mural is a native application (Windows, macOS, Linux) that takes your already curated collection of multimedia and allows you to create rich content for the web without any technical knowledge of html, css, or javascript.',
+            image: `${baseUrl}img/undraw_Multimedia_Files.svg`,
+            imageAlt: 'Man curating his multimedia collection in order to tell his story',
             imageAlign: 'right',
-            title: 'Randomly Generated Theme Colors',
+            title: 'Curate your multimedia files to tell your story',
           },
         ]}
       </Block>
     );
 
-    const Features = () => (
-      <Block layout="fourColumn">
+    const MuralItems = () => (
+      <Block background="light">
         {[
           {
-            content: 'This is the content of my feature',
-            image: `${baseUrl}img/undraw_react.svg`,
-            imageAlign: 'top',
-            title: 'Feature One',
+            content:
+              'The Mural editor\'s main job is to assemble your content as a sequence of Mural Items. Each Mural item has been themed in a way to accentuate your images, videos, and text to better tell your visual story',
+            image: `${baseUrl}img/undraw_Mural_Items.svg`,
+            imageAlt: 'Woman organising her story as a sequence of Mural items',
+            imageAlign: 'left',
+            title: 'Use the Mural editor to assemble your visual story',
           },
+        ]}
+      </Block>
+    );
+
+    const Devices = () => (
+      <Block background="light">
+        {[
           {
-            content: 'The content of my second feature',
-            image: `${baseUrl}img/undraw_operating_system.svg`,
-            imageAlign: 'top',
-            title: 'Feature Two',
+            content:
+              'Mural will create your visual story as a folder of html, css, js, and static multimedia, which will allow you to easily host your created content on any webserver',
+            image: `${baseUrl}img/undraw_Devices.svg`,
+            imageAlt: 'Woman with her content tailored for phone, tablet, and desktop',
+            imageAlign: 'right',
+            title: 'Export your Mural for no hassle hosting on any webserver',
           },
         ]}
       </Block>
@@ -198,12 +188,10 @@ class Index extends React.Component {
       <div>
         <HomeSplash siteConfig={siteConfig} language={language} />
         <div className="mainContainer">
-          <Features />
-          <FeatureCallout />
-          <LearnHow />
-          <TryOut />
-          <Description />
-          <Showcase />
+          <YourMultimedia />
+          <MuralItems />
+          <Devices />
+          {/* <Showcase /> */}
         </div>
       </div>
     );
