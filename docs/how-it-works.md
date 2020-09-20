@@ -4,7 +4,7 @@ title: How Mural Works
 sidebar_label: How Mural works
 ---
 
-Mural is a desktop app created with [Electron](https://www.electronjs.org/). You are able to use the Mural editor completely offline to create rich scrollytelling stories with a simple to use form based interface. If some of your media assets are hosted online in places such as Vimeo or YouTube that is also totally fine as Mural will be able to handle remote images or videos as well - provided you have an internet connection.
+Mural is a desktop app created with <a href="https://www.electronjs.org" target="_blank" rel="noopener noreferrer">Electron</a>. You are able to use the Mural editor completely offline to create rich scrollytelling stories with a simple to use form based interface and your curated multimedia content. If some of your media assets are hosted online in places such as Vimeo or YouTube that is also totally fine as Mural will be able to handle remote images or videos as well - provided you have an internet connection.
 
 ![alt text](assets/how-mural-works/mural_item_pane.png "Mural's item pane")
 
