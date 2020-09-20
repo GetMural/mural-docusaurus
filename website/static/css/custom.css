@@ -11,6 +11,13 @@ cite {
   font-style: italic;
 }
 
+.lead {
+  max-width: 500px;
+  font-size: 125%;
+  text-align: center;
+  margin: 0 auto;
+}
+
 .imageAlignSide {
   align-items: center;
 }

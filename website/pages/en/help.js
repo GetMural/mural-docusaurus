@@ -55,6 +55,13 @@ function Help(props) {
             <br />
           </div>
           <GridBlock contents={supportLinks} layout="threeColumn" />
+          <Container padding={["bottom", "top"]}>
+            You can also hire us to work with you. Mural Software, s.r.o. is a
+            Czech company that serves as the maintainer of the Mural code base,
+            and offers paid services based on the free software. These services
+            include hosting, consulting, custom software development and
+            training.
+          </Container>
         </div>
       </Container>
     </div>

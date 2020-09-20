@@ -207,6 +207,10 @@ class Index extends React.Component {
     return (
       <div>
         <HomeSplash siteConfig={siteConfig} language={language} />
+        <p className="lead">
+          Mural is free and open source, and is licensed under the GNU Affero
+          General Public License (AGPL).
+        </p>
         <div className="mainContainer">
           <YourMultimedia />
           <MuralItems />

@@ -4,20 +4,18 @@ title: The ImageBackground Mural Item
 sidebar_label: ImageBackground
 ---
 
-## Image Background
-
-This editor pane is where you enter information for the Image Background view type.
+This editor pane is where you enter information for the ImageBackground view type.
 
 In it you will find fields for the following:
 
-* Fullpage
-* Navigation Title
-* Title
-* Subtitle
-* Text
-* Offset Portrait Video
-* Image Sources
-* Audio Sources
+- Fullpage
+- Navigation Title
+- Title
+- Subtitle
+- Text
+- Offset Portrait Video
+- Image Sources
+- Audio Sources
 
 ### Fullpage
 
@@ -25,7 +23,7 @@ This checkbox determines whether the final Mural story output will be more focus
 
 ### Navigation Title
 
-This is what the name of this view output will be called in the Mural story navigation menu. This does not have to be the same as the title. 
+This is what the name of this view output will be called in the Mural story navigation menu. This does not have to be the same as the title.
 Navigation is not a mandatory field and it can be left blank (not recommended) but it can also be supressed from the navigation (recommended if the field is blank).
 
 ### Title
@@ -49,9 +47,10 @@ If your background image source is very wide and you are unhappy with the defaul
 This is where you would choose the images to use for the background of the Mural story output. You do not need to have the same image for each dimension of Mural window but the Offset Portrait Image value will be used for all of them.
 
 The width in pixels of each breakpoint of a Mural story window are:
-* 768px
-* 992px
-* 1200px
+
+- 768px
+- 992px
+- 1200px
 
 ### Audio Sources
 
