@@ -99,30 +99,20 @@ class Index extends React.Component {
       <div id="try" className="wrapper">
         <h2>Download the Mural editor</h2>
         <ul role="list">
-          <li class="mac">
-            <a href="Mural-0.3.1-mac.zip" class="mac-osx-download">
-              Mac OSX v0.3.1
-            </a>
+          <li>
+            <a href="Mural-0.3.1-mac.zip">Mac OSX v0.3.1</a>
           </li>
           <li>
-            <a href="Mural-0.3.1-win32-ia32.zip" class="win-32-download">
-              Windows v0.3.1 32 bit
-            </a>
+            <a href="Mural-0.3.1-win32-ia32.zip">Windows v0.3.1 32 bit</a>
           </li>
           <li>
-            <a href="Mural-0.3.1-win32-x64.zip" class="win-64-download">
-              Windows v0.3.1 64 bit
-            </a>
+            <a href="Mural-0.3.1-win32-x64.zip">Windows v0.3.1 64 bit</a>
           </li>
           <li>
-            <a href="Mural-0.3.1-amd64.deb" class="linux-download">
-              Debian v0.3.1 AMD 64
-            </a>
+            <a href="Mural-0.3.1-amd64.deb">Debian v0.3.1 AMD 64</a>
           </li>
           <li>
-            <a href="Mural-0.3.1-i386.deb" class="linux-download">
-              Debian v0.3.1 Intel x86
-            </a>
+            <a href="Mural-0.3.1-i386.deb">Debian v0.3.1 Intel x86</a>
           </li>
         </ul>
         <h2>Download the Mural user manual</h2>
@@ -132,9 +122,7 @@ class Index extends React.Component {
           it and tips on getting the most out of the tool.
         </p>
         <p>
-          <a href="Mural-manual-v0.3.0.pdf" class="manual-download">
-            Mural Manual v0.3.0
-          </a>
+          <a href="Mural-manual-v0.3.0.pdf">Mural Manual v0.3.0</a>
         </p>
       </div>
     );

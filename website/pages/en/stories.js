@@ -179,4 +179,7 @@ function Stories(props) {
   );
 }
 
+Stories.title = "Story Listing";
+Stories.description = "Visual stories created using the Mural editor";
+
 module.exports = Stories;

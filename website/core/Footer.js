@@ -6,6 +6,7 @@
  */
 
 const React = require("react");
+const MailChimpForm = require("./MailChimpForm");
 
 class Footer extends React.Component {
   docUrl(doc) {
@@ -60,6 +61,21 @@ class Footer extends React.Component {
               Facebook
             </a>
           </div>
+          <div>
+            <h5>Contact Us</h5>
+            <address>
+              <strong>Mural Software s.r.o.</strong>
+              <br />
+              Bubenečská 496/53
+              <br />
+              160 00 Prague 6<br />
+              Czech Republic
+              <br />
+              <a href="tel:+420724073364">+420 724 073 364</a>
+              <a href="mailto://info@getmural.io">info@getmural.io</a>
+            </address>
+          </div>
+          <MailChimpForm />
           <div>
             <h5>More</h5>
             <a href={`${this.props.config.baseUrl}blog`}>Blog</a>
