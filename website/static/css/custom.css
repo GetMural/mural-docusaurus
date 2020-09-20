@@ -7,10 +7,28 @@
 
 /* your custom css */
 
+.imageAlignSide {
+  align-items: center;
+}
+
+.imageAlignSide .blockImage {
+  flex: 0 1 350px;
+  max-width: 350px;
+}
+
+#try ul {
+  list-style: none;
+  padding: 0;
+}
+
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
 }
 
 @media only screen and (min-width: 1024px) {
+  .imageAlignSide .blockImage {
+    flex: 0 1 450px;
+    max-width: 450px;
+  }
 }
 
 @media only screen and (max-width: 1023px) {

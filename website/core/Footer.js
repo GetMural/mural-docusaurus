@@ -5,13 +5,13 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-const React = require('react');
+const React = require("react");
 
 class Footer extends React.Component {
   docUrl(doc) {
     const baseUrl = this.props.config.baseUrl;
     const docsUrl = this.props.config.docsUrl;
-    const docsPart = `${docsUrl ? `${docsUrl}/` : ''}`;
+    const docsPart = `${docsUrl ? `${docsUrl}/` : ""}`;
     return `${baseUrl}${docsPart}${doc}`;
   }
 
@@ -31,31 +31,32 @@ class Footer extends React.Component {
           </a>
           <div>
             <h5>Docs</h5>
-            <a href={this.docUrl('how-it-works.html')}>
-              How it Works
-            </a>
-            <a href={this.docUrl('getting-started.html')}>
-              Getting Started
-            </a>
-            <a href={this.docUrl('metadata.html')}>Mural Items</a>
+            <a href={this.docUrl("how-it-works.html")}>How it Works</a>
+            <a href={this.docUrl("getting-started.html")}>Getting Started</a>
+            <a href={this.docUrl("metadata.html")}>Mural Items</a>
           </div>
           <div>
             <h5>Community</h5>
-            <a href={`${this.props.config.baseUrl}users`}>User Showcase</a>
-            <a href={this.props.config.redditUrl}
+            {/* <a href={`${this.props.config.baseUrl}users`}>User Showcase</a> */}
+            <a
+              href={this.props.config.redditUrl}
               target="_blank"
-              rel="noreferrer noopener">
-              Reddit</a>
+              rel="noreferrer noopener"
+            >
+              Reddit
+            </a>
             <a
               href={`https://twitter.com/${this.props.config.twitterUsername}`}
               target="_blank"
-              rel="noreferrer noopener">
+              rel="noreferrer noopener"
+            >
               Twitter
             </a>
             <a
               href={this.props.config.fbPage}
               target="_blank"
-              rel="noreferrer noopener">
+              rel="noreferrer noopener"
+            >
               Facebook
             </a>
           </div>
@@ -70,14 +71,16 @@ class Footer extends React.Component {
               data-count-href="/facebook/docusaurus/stargazers"
               data-show-count="true"
               data-count-aria-label="# stargazers on GitHub"
-              aria-label="Star this project on GitHub">
+              aria-label="Star this project on GitHub"
+            >
               Star
             </a>
             {this.props.config.twitterUsername && (
               <div className="social">
                 <a
                   href={`https://twitter.com/${this.props.config.twitterUsername}`}
-                  className="twitter-follow-button">
+                  className="twitter-follow-button"
+                >
                   Follow @{this.props.config.twitterUsername}
                 </a>
               </div>
