@@ -96,7 +96,7 @@ class Index extends React.Component {
     );
 
     const Download = () => (
-      <div id="try" className="wrapper">
+      <Container id="try" className="wrapper" padding={["bottom", "top"]}>
         <h2>Download the Mural editor</h2>
         <ul role="list">
           <li>
@@ -124,7 +124,7 @@ class Index extends React.Component {
         <p>
           <a href="Mural-manual-v0.3.0.pdf">Mural Manual v0.3.0</a>
         </p>
-      </div>
+      </Container>
     );
 
     const YourMultimedia = () => (

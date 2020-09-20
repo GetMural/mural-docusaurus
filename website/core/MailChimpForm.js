@@ -19,6 +19,7 @@ function MailChimpForm() {
             <input
               type="email"
               defaultValue=""
+              placeholder="your@email.com"
               name="EMAIL"
               className="required email"
               id="mce-EMAIL"

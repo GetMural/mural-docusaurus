@@ -140,7 +140,7 @@ function StoryItem({ title, author, prefix, url, description }) {
     <figure>
       <a href={url} target="_blank" rel="noopener noreferrer">
         <img
-          srcset={`
+          srcSet={`
             img/${prefix}_320.jpg 320w,
             img/${prefix}_640.jpg 640w,
             img/${prefix}_1280.jpg 1280w
@@ -157,15 +157,14 @@ function StoryItem({ title, author, prefix, url, description }) {
   );
 }
 
-function Stories(props) {
+function Stories() {
   return (
     <div className="docMainWrapper wrapper">
       <Container className="mainContainer documentContainer postContainer">
         <h1>Stories created by Mural</h1>
         {stories.map(({ title, author, prefix, url, description }, i) => (
-          <Container padding={["bottom"]}>
+          <Container padding={["bottom"]} key={i}>
             <StoryItem
-              key={i}
               title={title}
               author={author}
               prefix={prefix}
