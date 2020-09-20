@@ -18,7 +18,9 @@ function Cookies() {
         <div className="post">
           <header className="postHeader">
             <h1>Cookies Policy</h1>
-            <small>Last updated: May 30, 2018</small>
+            <small>
+              <time datetime="2018-05-30">Last updated 30 May 2018</time>
+            </small>
           </header>
           <p>
             Mural Software, s.r.o. ("us", "we", or "our") uses cookies on the
@@ -151,5 +153,8 @@ function Cookies() {
     </div>
   );
 }
+
+Cookies.title = "Cookies Policy";
+Cookies.description = "How we use cookies on this website";
 
 module.exports = Cookies;

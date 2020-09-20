@@ -18,7 +18,9 @@ function Privacy() {
         <div className="post">
           <header className="postHeader">
             <h1>Mural Privacy Policy</h1>
-            <small>Last updated 31 May 2018</small>
+            <small>
+              <time datetime="2018-05-31">Last updated 31 May 2018</time>
+            </small>
           </header>
           <p>
             Your privacy is an important factor that Mural Software s.r.o.
@@ -157,5 +159,7 @@ function Privacy() {
     </div>
   );
 }
+
+Privacy.title = "Privacy Policy";
 
 module.exports = Privacy;
