@@ -36,6 +36,10 @@ cite {
   color: #4b9993;
 }
 
+#mc_embed_signup form {
+  padding: 0;
+}
+
 #mc_embed_signup .mc-field-group {
   width: 85%;
 }
