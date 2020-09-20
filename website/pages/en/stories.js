@@ -5,7 +5,7 @@ const CompLibrary = require("../../core/CompLibrary.js");
 const Container = CompLibrary.Container;
 const GridBlock = CompLibrary.GridBlock;
 
-const stores = [
+const stories = [
   {
     url: "https://udn.com/upf/vision/Zoo_of_the_Future/",
     title: "Zoo of the Future",
@@ -141,9 +141,11 @@ function StoryItem({ title, author, prefix, url, description }) {
       <a href={url} target="_blank" rel="noopener noreferrer">
         <img
           srcset={`
-            img/${prefix}_640.jpg,
-            img/${prefix}_1280.jpg 2x
+            img/${prefix}_320.jpg 320w,
+            img/${prefix}_640.jpg 640w,
+            img/${prefix}_1280.jpg 1280w
           `}
+          sizes="(max-width: 650px) 320px, 640px"
           alt={`${title} cover image`}
         />
         <div>
@@ -159,8 +161,19 @@ function Stories(props) {
   return (
     <div className="docMainWrapper wrapper">
       <Container className="mainContainer documentContainer postContainer">
-        <h1>Hello World!</h1>
-        <p>This is my first page!</p>
+        <h1>Stories created by Mural</h1>
+        {stories.map(({ title, author, prefix, url, description }, i) => (
+          <Container padding={["bottom"]}>
+            <StoryItem
+              key={i}
+              title={title}
+              author={author}
+              prefix={prefix}
+              url={url}
+              description={description}
+            />
+          </Container>
+        ))}
       </Container>
     </div>
   );

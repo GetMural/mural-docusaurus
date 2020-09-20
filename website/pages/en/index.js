@@ -125,6 +125,17 @@ class Index extends React.Component {
             </a>
           </li>
         </ul>
+        <h2>Download the Mural user manual</h2>
+        <p>
+          The newest manual is for Mural 0.3.0. It includes information on the
+          features available in Mural, as well as recommended apps to use with
+          it and tips on getting the most out of the tool.
+        </p>
+        <p>
+          <a href="Mural-manual-v0.3.0.pdf" class="manual-download">
+            Mural Manual v0.3.0
+          </a>
+        </p>
       </div>
     );
 
