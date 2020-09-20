@@ -14,41 +14,14 @@ function MailChimpForm() {
         noValidate
       >
         <div id="mc_embed_signup_scroll">
-          <div className="indicates-required">
-            <span className="asterisk">*</span> indicates required
-          </div>
           <div className="mc-field-group">
-            <label htmlFor="mce-EMAIL">
-              Email Address <span className="asterisk">*</span>
-            </label>
+            <label htmlFor="mce-EMAIL">Email Address</label>
             <input
               type="email"
               defaultValue=""
               name="EMAIL"
               className="required email"
               id="mce-EMAIL"
-            />
-          </div>
-          <div className="mc-field-group">
-            <label htmlFor="mce-FNAME">First Name </label>
-            <input
-              type="text"
-              defaultValue=""
-              name="FNAME"
-              className=""
-              id="mce-FNAME"
-            />
-          </div>
-          <div className="mc-field-group">
-            <label htmlFor="mce-LNAME">
-              Last Name <span className="asterisk">*</span>
-            </label>
-            <input
-              type="text"
-              defaultValue=""
-              name="LNAME"
-              className="required"
-              id="mce-LNAME"
             />
           </div>
           <div id="mce-responses" className="clear">
