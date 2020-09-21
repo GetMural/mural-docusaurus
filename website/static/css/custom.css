@@ -36,6 +36,12 @@ cite {
   color: #4b9993;
 }
 
+.nav-footer .sitemap h3 {
+  color: white;
+  font-size: 14px;
+  margin: 0 0 10px;
+}
+
 #mc_embed_signup form {
   padding: 0;
 }

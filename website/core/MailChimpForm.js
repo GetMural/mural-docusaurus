@@ -3,7 +3,7 @@ const React = require("react");
 function MailChimpForm() {
   return (
     <div id="mc_embed_signup">
-      <h5>Mural Newsletter</h5>
+      <h3>Mural Newsletter</h3>
       <form
         action="https://getmural.us18.list-manage.com/subscribe/post?u=adbd68029738fc9b06e630bed&amp;id=c2a3e8ca4c"
         method="post"
