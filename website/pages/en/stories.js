@@ -159,7 +159,7 @@ function StoryItem({ title, author, prefix, url, description }) {
 
 function Stories() {
   return (
-    <div className="docMainWrapper wrapper">
+    <div className="docMainWrapper wrapper" style={{ maxWidth: "640px" }}>
       <Container className="mainContainer documentContainer postContainer">
         <h1>Stories created by Mural</h1>
         {stories.map(({ title, author, prefix, url, description }, i) => (
