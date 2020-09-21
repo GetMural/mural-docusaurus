@@ -31,13 +31,13 @@ class Footer extends React.Component {
             )}
           </a>
           <div>
-            <h3>Docs</h3>
+            <span className="heading">Docs</span>
             <a href={this.docUrl("how-it-works.html")}>How it Works</a>
             <a href={this.docUrl("getting-started.html")}>Getting Started</a>
             <a href={this.docUrl("metadata.html")}>Mural Items</a>
           </div>
           <div>
-            <h3>Community</h3>
+            <span className="heading">Community</span>
             {/* <a href={`${this.props.config.baseUrl}users`}>User Showcase</a> */}
             <a
               href={this.props.config.redditUrl}
@@ -62,7 +62,7 @@ class Footer extends React.Component {
             </a>
           </div>
           <div>
-            <h3>Contact Us</h3>
+            <span className="heading">Contact Us</span>
             <address>
               <strong>Mural Software s.r.o.</strong>
               <br />
@@ -77,7 +77,7 @@ class Footer extends React.Component {
           </div>
           <MailChimpForm />
           <div>
-            <h3>More</h3>
+            <span className="heading">More</span>
             <a href={`${this.props.config.baseUrl}blog`}>Blog</a>
             <a href={this.props.config.repoUrl}>GitHub</a>
             <a href="/privacy">Privacy Policy</a>
