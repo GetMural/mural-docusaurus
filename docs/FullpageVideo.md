@@ -4,20 +4,19 @@ title: The Fullpage Video Mural Item
 sidebar_label: Fullpage Video
 ---
 
-The Fullpage video item refers to a section of your Mural story where there is a video that takes up the entire screen, and which can have video controls. Note: You can have a headline on a fullpage video item, but cannot have body text.
-Fullpage video items have the following fields to work with:
+The Fullpage video item refers to a section of your Mural story where there is a video that takes up the entire screen, and which has a play/pause button.
 
 ## Fullpage
 
-When this is checked, the video takes up the entire page. When it is not checked, the video is displayed at its original size.
+This checkbox determines whether the final Mural story output will be more focused upon the video or the text. If the element is checked then your text will be forced towards the bottom of the Mural story window to allow more space for the video.
 
 ## Title
 
-this is where you write your title for the item, such as a headline.
+This is where you write your title for the item, such as a headline.
 
 ## Text
 
-this is where you write the body text for the page
+This is where you write the body text for the page
 
 ## Video sources
 

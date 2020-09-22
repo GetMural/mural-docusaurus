@@ -4,17 +4,19 @@ title: The Background Video Mural Item
 sidebar_label: Background Video
 ---
 
-As opposed to a Fullpage video item, a Background video item has video that is intended to play behind both headline and body text. Background videos do not have player controls, and by default will loop - automatically play again from the beginning until the user scrolls away from the item.
-
-Background video items have the following fields to work with:
+The Background Video item has video that is intended to play behind headline, subtitle, and/or body text. Background videos do not have player controls, and by default will continuously loop their playback.
 
 ## Fullpage
 
-When this is checked, the video takes up the entire page. When it is not checked, the video is displayed at its original size.
+This checkbox determines whether the final Mural story output will be more focused upon the video or the text. If the element is checked then your text will be forced towards the bottom of the Mural story window to allow more space for the video.
 
 ## Title
 
 This is where you write your title for the item, such as a headline.
+
+## Subtitle
+
+If required you can have a subtitle for the item, such as a subheading.
 
 ## Text
 
