@@ -53,4 +53,12 @@ The width in pixels of each breakpoint of a Mural story window are:
 
 ## Audio Sources
 
-This is where can set an audio file to accompany your Image Background if you wish. The audio file will loop infinitely.
+Both audio formats have a preview window available. At least one format is required - these days all modern browsers play mp3 so ogg is not strictly necessary. The audio file will loop infinitely.
+
+### MP3
+
+This is where you select the sound file you want that is in the MP3 format.
+
+### Ogg
+
+This is where you select the sound file you want that is in the Ogg format.

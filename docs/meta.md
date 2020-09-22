@@ -4,16 +4,7 @@ title: Story Metadata
 sidebar_label: Metadata
 ---
 
-The metadata screen is where the information that describes the story to external sources is presented. These fields include:
-
-- Title
-- Description
-- Author
-- Cononical URI
-- Site name
-- Site image
-
-This information is important to search engines and social media platforms as this is where the short description and image you see on Google and Facebook or Twitter comes from. It is also where you can add your Google Analytics identification number if you want.
+The metadata screen is where the information that describes the story to external sources is presented. This information is important to search engines and social media platforms as this is where the short description and image you see on Google and Facebook or Twitter comes from. It is also where you can add your Google Analytics identification number if you want.
 
 If these fields are left blank they won't be output in the final build of your Mural story.
 
