@@ -4,18 +4,7 @@ title: The Image Background Mural Item
 sidebar_label: Image Background
 ---
 
-This editor pane is where you enter information for the Image Background view type.
-
-In it you will find fields for the following:
-
-- Fullpage
-- Navigation Title
-- Title
-- Subtitle
-- Text
-- Offset Portrait Video
-- Image Sources
-- Audio Sources
+An Image Background item has a still image that takes up the entire screen, but which has title, subtitle, and body text over it as well as the possibility for looping audio. An Image Background item's image remains unmoving when a user scrolls until all of the text has scrolled. Then the story advances to the next item.
 
 ## Fullpage
 
@@ -44,7 +33,17 @@ If your background image source is very wide and you are unhappy with the defaul
 
 ## Image Sources
 
-This is where you would choose the images to use for the background of the Mural story output. You do not need to have the same image for each dimension of Mural window but the Offset Portrait Image value will be used for all of them.
+### Small image
+
+This image is for display on mobile. The small image works best at 1080 x 1920. (mobile portrait)
+
+### Medium image
+
+This image will be for display on older computers with lower-resolution screens or tablets. The medium image works best at 768 x 1024. (tablet portrait)
+
+### Large image
+
+This image will be for display on large and high-resolution screens. The large image works best at 1920 x 1080. (desktop landscape)
 
 The width in pixels of each breakpoint of a Mural story window are:
 
