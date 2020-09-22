@@ -22,7 +22,7 @@ const users = [
 
 const siteConfig = {
   title: "Mural", // Title for your website.
-  tagline: "Visual Storytelling with Mural",
+  tagline: "Visual Storytelling made easy",
   url: "https://www.getmural.io", // Your website URL
   baseUrl: "/", // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -78,8 +78,8 @@ const siteConfig = {
   cleanUrl: true,
 
   // Open Graph and Twitter card images.
-  ogImage: "img/undraw_online.svg",
-  twitterImage: "img/undraw_tweetstorm.svg",
+  ogImage: "uploads/mural_website/photographer_ice_sunrise.jpg",
+  twitterImage: "uploads/mural_website/photographer_ice_sunrise.jpg",
   twitterUsername: "muralstories",
 
   // For sites with a sizable amount of content, set collapsible to true.
