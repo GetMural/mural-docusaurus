@@ -55,23 +55,11 @@ const siteConfig = {
 
   /* Colors for website */
   colors: {
-    primaryColor: "#4b9993",
-    secondaryColor: "#346b66",
+    primaryColor: "#343866",
+    primaryDark: "#05133b",
+    primaryLight: "#616294",
+    secondaryColor: "#44805A",
   },
-
-  /* Custom fonts for website */
-  /*
-  fonts: {
-    myFont: [
-      "Times New Roman",
-      "Serif"
-    ],
-    myOtherFont: [
-      "-apple-system",
-      "system-ui"
-    ]
-  },
-  */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
   copyright: `Copyright © ${new Date().getFullYear()} Mural Software s.r.o.`,
@@ -112,7 +100,7 @@ const siteConfig = {
   gaTrackingId: "UA-119779433-1",
 
   stylesheets: [
-    "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,700",
+    "https://fonts.googleapis.com/css?family=Ubuntu:400,400i,700",
     "https://cdn-images.mailchimp.com/embedcode/classic-10_7.css",
   ],
 };

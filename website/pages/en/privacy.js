@@ -19,7 +19,7 @@ function Privacy() {
           <header className="postHeader">
             <h1>Mural Privacy Policy</h1>
             <small>
-              <time datetime="2018-05-31">Last updated 31 May 2018</time>
+              <time dateTime="2018-05-31">Last updated 31 May 2018</time>
             </small>
           </header>
           <p>

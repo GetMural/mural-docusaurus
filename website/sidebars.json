@@ -1,10 +1,19 @@
 {
   "docs": {
     "Intro": ["intro", "how-it-works", "getting-started"],
-    "Mural Items": ["metadata", "imagebackground"],
+    "Mural Items": [
+      "metadata",
+      "backgroundvideo",
+      "centredtext",
+      "fullpagevideo",
+      "horizontalslideshow",
+      "imageaudio",
+      "imagebackground",
+      "imageparallax",
+      "verticalslideshow",
+      "youtube"
+    ],
     "Workflow": ["image-workflow"]
   },
-  "docs-other": {
-  
-  }
+  "docs-other": {}
 }

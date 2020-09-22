@@ -29,12 +29,6 @@ class HomeSplash extends React.Component {
       </div>
     );
 
-    const Logo = (props) => (
-      <div className="projectLogo">
-        <img src={props.img_src} alt="Project Logo" />
-      </div>
-    );
-
     const ProjectTitle = (props) => (
       <h1 className="projectTitle">
         {props.title}&nbsp;
@@ -60,7 +54,6 @@ class HomeSplash extends React.Component {
 
     return (
       <SplashContainer>
-        <Logo img_src={`${baseUrl}img/logo.svg`} />
         <div className="inner">
           <ProjectTitle tagline={siteConfig.tagline} title={siteConfig.title} />
           <PromoSection>
@@ -210,6 +203,12 @@ class Index extends React.Component {
         <p className="lead">
           Mural is free and open source, and is licensed under the GNU Affero
           General Public License (AGPL).
+          <br />
+          <img
+            src={`${baseUrl}img/logo.svg`}
+            alt="Project Logo"
+            style={{ width: "150px" }}
+          />
         </p>
         <div className="mainContainer">
           <YourMultimedia />

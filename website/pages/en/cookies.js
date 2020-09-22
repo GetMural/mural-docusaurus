@@ -19,7 +19,7 @@ function Cookies() {
           <header className="postHeader">
             <h1>Cookies Policy</h1>
             <small>
-              <time datetime="2018-05-30">Last updated 30 May 2018</time>
+              <time dateTime="2018-05-30">Last updated 30 May 2018</time>
             </small>
           </header>
           <p>

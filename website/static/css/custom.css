@@ -7,6 +7,10 @@
 
 /* your custom css */
 
+body {
+  font-family: "Ubuntu", -apple-system, system-ui;
+}
+
 cite {
   font-style: italic;
 }
@@ -25,6 +29,11 @@ cite {
 .imageAlignSide .blockImage {
   flex: 0 1 350px;
   max-width: 350px;
+  text-align: center;
+}
+
+.imageAlignSide .blockImage img {
+  max-height: 300px;
 }
 
 #try ul {
@@ -33,7 +42,7 @@ cite {
 }
 
 .nav-footer {
-  color: #4b9993;
+  color: #a3e0bb;
 }
 
 .heading {
