@@ -21,15 +21,15 @@ this is where you write the body text for the page
 
 ## Video sources
 
+Both video formats have a preview window available. At least one format is required - these days all modern browsers play mp4 so webm is not strictly necessary.
+
 ### MP4
 
-this is where you input your MP4 video file
+This is where you input your MP4 video file
 
 ### Webm
 
-this is where you input your uploaded Webm file
-
-Both video formats have a preview window available.
+This is where you input your Webm video file
 
 ## Poster Image
 
