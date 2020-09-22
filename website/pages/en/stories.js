@@ -141,9 +141,9 @@ function StoryItem({ title, author, prefix, url, description }) {
       <a href={url} target="_blank" rel="noopener noreferrer">
         <img
           srcSet={`
-            img/stories/${prefix}_320.jpg 320w,
-            img/stories/${prefix}_640.jpg 640w,
-            img/stories/${prefix}_1280.jpg 1280w
+            /img/stories/${prefix}_320.jpg 320w,
+            /img/stories/${prefix}_640.jpg 640w,
+            /img/stories/${prefix}_1280.jpg 1280w
           `}
           sizes="(max-width: 650px) 320px, 640px"
           alt={`${title} cover image`}
