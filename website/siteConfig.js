@@ -22,7 +22,7 @@ const users = [
 
 const siteConfig = {
   title: "Mural", // Title for your website.
-  tagline: "Visual Storytelling made easy",
+  tagline: "Visual storytelling made easy",
   url: "https://www.getmural.io", // Your website URL
   baseUrl: "/", // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:

@@ -220,4 +220,9 @@ class Index extends React.Component {
   }
 }
 
+Index.title = "Visual storytelling made easy";
+
+Index.description =
+  "Mural is a software tool to make visual stories. Combine videos, images, sounds and text in full screen and with full impact. Find out more and download Mural now!";
+
 module.exports = Index;
