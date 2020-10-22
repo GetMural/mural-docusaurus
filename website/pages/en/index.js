@@ -196,7 +196,7 @@ class Index extends React.Component {
     };
 
     return (
-      <div>
+      <div className="center">
         <HomeSplash siteConfig={siteConfig} language={language} />
         <p className="lead">
           Mural is free and open source, and is licensed under the GNU Affero
@@ -208,6 +208,16 @@ class Index extends React.Component {
             style={{ width: "150px" }}
           />
         </p>
+        <iframe
+          src="https://docs.google.com/forms/d/e/1FAIpQLSeucd5KbGjGFTpNk8mCvnfJL8mFBYCoz2-1b19l7MyAR9jyYA/viewform?embedded=true"
+          width="640"
+          height="1320"
+          frameBorder="0"
+          marginHeight="0"
+          marginWidth="0"
+        >
+          Loading…
+        </iframe>
         <div className="mainContainer">
           <YourMultimedia />
           <MuralItems />
