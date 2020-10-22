@@ -210,7 +210,7 @@ class Index extends React.Component {
         </p>
         <iframe
           src="https://docs.google.com/forms/d/e/1FAIpQLSeucd5KbGjGFTpNk8mCvnfJL8mFBYCoz2-1b19l7MyAR9jyYA/viewform?embedded=true"
-          width="640"
+          width="100%"
           height="1320"
           frameBorder="0"
           marginHeight="0"
