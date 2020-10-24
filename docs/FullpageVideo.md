@@ -6,6 +6,12 @@ sidebar_label: Fullpage Video
 
 The Fullpage video item refers to a section of your Mural story where there is a video that takes up the entire screen, and which has a play/pause button.
 
+![Mural's Fullpage Video item on phone](assets/output/VideoFullpage-phone.png "Mural's Fullpage Video item on phone")
+
+![Mural's Fullpage Video item on tablet](assets/output/VideoFullpage-tablet.png "Mural's Fullpage Video item on tablet")
+
+![Mural's Fullpage Video item on desktop](assets/output/VideoFullpage-desktop.png "Mural's Fullpage Video item on desktop")
+
 ## Fullpage
 
 This checkbox determines whether the final Mural story output will be more focused upon the video or the text. If the element is checked then your text will be forced towards the bottom of the Mural story window to allow more space for the video.

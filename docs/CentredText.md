@@ -6,6 +6,12 @@ sidebar_label: Centred Text
 
 A Centred text item handles a large amount of text, laid out in the center of the screen, and can have images on left, right, or middle of the text column. This is good for the parts of your story which have long texts.
 
+![Mural's Centred Text item on phone](assets/output/CentredText-phone.png "Mural's Centred Text item on phone")
+
+![Mural's Centred Text item on tablet](assets/output/CentredText-tablet.png "Mural's Centred Text item on tablet")
+
+![Mural's Centred Text item on desktop](assets/output/CentredText-desktop.png "Mural's Centred Text item on desktop")
+
 ## Light
 
 This makes the text dark on a light background when checked, or light on a dark background when it is not checked.
