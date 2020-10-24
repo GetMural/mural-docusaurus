@@ -6,6 +6,12 @@ sidebar_label: Background Video
 
 The Background Video item has video that is intended to play behind headline, subtitle, and/or body text. Background videos do not have player controls, and by default will continuously loop their playback.
 
+![Mural's BackgroundVideo item on phone](assets/output/BackgroundVideo-phone.png "Mural's BackgroundVideo item on phone")
+
+![Mural's BackgroundVideo item on tablet](assets/output/BackgroundVideo-tablet.png "Mural's BackgroundVideo item on tablet")
+
+![Mural's BackgroundVideo item on desktop](assets/output/BackgroundVideo-desktop.png "Mural's BackgroundVideo item on desktop")
+
 ## Fullpage
 
 This checkbox determines whether the final Mural story output will be more focused upon the video or the text. If the element is checked then your text will be forced towards the bottom of the Mural story window to allow more space for the video.

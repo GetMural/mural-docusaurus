@@ -6,7 +6,7 @@ authorURL: https://twitter.com/dougiegyro
 
 Mural has been selected as a <a href="https://www.grantfortheweb.org/blog/2020-mid-grantees" target="_blank" rel="noopener noreferrer">Mid Level Grantee</a> in the <a href="https://www.grantfortheweb.org" target="_blank" rel="noopener nofollow noreferrer">Grant for the Web</a> program, jointly administered by Mozilla, Creative Commons and Coil.
 
-Our project, titled "Web Monetization in the Arts" seeks to implement support for the emerging Web Monetization Protocol in Mural, as well as doing outreach work to people in the arts community. We also plan to greatly improve the Mural editor, as well as to implement various improvements as suggested by the Mural community (you can help by giving us feedback in the user survey on our <a href="/">homepage</a>.
+Our project, titled "Web Monetization in the Arts" seeks to implement support for the emerging Web Monetization Protocol in Mural, as well as doing outreach work to people in the arts community. We also plan to greatly improve the Mural editor, as well as to implement various improvements as suggested by the Mural community (you can help by giving us feedback in the user survey on our <a href="/">homepage</a>).
 
 <!--truncate-->
 

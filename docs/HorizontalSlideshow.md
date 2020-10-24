@@ -6,6 +6,12 @@ sidebar_label: Horizontal Slideshow
 
 A Horizontal slideshow item refers to a collection of images that can be displayed in a slideshow with controls on the left and right, and where the images advance horizontally when a user clicks on the control.
 
+![Mural's Horizontal Slideshow item on phone](assets/output/HorizontalSlideshow-phone.png "Mural's Horizontal Slideshow item on phone")
+
+![Mural's Horizontal Slideshow item on tablet](assets/output/HorizontalSlideshow-tablet.png "Mural's Horizontal Slideshow item on tablet")
+
+![Mural's Horizontal Slideshow item on desktop](assets/output/HorizontalSlideshow-desktop.png "Mural's Horizontal Slideshow item on desktop")
+
 `Slide [+]` Clicking this adds another slide to the slideshow. You can have as many slides in the slideshow as you want. For optimal results large slideshows are discouraged as currently all images for a slideshow are bulk loaded as a set.
 
 ## Title

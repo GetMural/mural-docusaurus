@@ -6,6 +6,12 @@ sidebar_label: Image Audio
 
 An Image Audio item is a still image that can play audio in the background. This is useful for ambient, environmental sound, or for sound material with images attached. An audio file attached to an Image Audio item will loop until the user scrolls away to advance to the next item.
 
+![Mural's Image Audio item on phone](assets/output/ImageAudio-phone.png "Mural's Image Audio item on phone")
+
+![Mural's Image Audio item on tablet](assets/output/ImageAudio-tablet.png "Mural's Image Audio item on tablet")
+
+![Mural's Image Audio item on desktop](assets/output/ImageAudio-desktop.png "Mural's Image Audio item on desktop")
+
 ## Image Sources
 
 ### Small image

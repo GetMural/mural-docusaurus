@@ -6,6 +6,12 @@ sidebar_label: Image Parallax
 
 A Parallax image with text item has a still image with text that has a parallax scrolling effect, meaning that the text seems to move at a different speed than the image behind it. Select your image and input the text you want to display with it.
 
+![Mural's Image Parallax item on phone](assets/output/ImageParallax-phone.png "Mural's Image Parallax item on phone")
+
+![Mural's Image Parallax item on tablet](assets/output/ImageParallax-tablet.png "Mural's Image Parallax item on tablet")
+
+![Mural's Image Parallax item on desktop](assets/output/ImageParallax-desktop.png "Mural's Image Parallax item on desktop")
+
 ## Title
 
 This is where you write your title for the item, such as a headline.
