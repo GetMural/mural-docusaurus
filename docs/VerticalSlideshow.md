@@ -6,6 +6,12 @@ sidebar_label: Vertical Slideshow
 
 A Vertical slideshow item refers to a collection of images with captions that can be scrolled through in a set - each slide "sticking" to the top of the screen until the following slide replaces it.
 
+![Mural's Vertical Slideshow item on phone](assets/output/VerticalSlideshow-phone.png "Mural's Vertical Slideshow item on phone")
+
+![Mural's Vertical Slideshow item on tablet](assets/output/VerticalSlideshow-tablet.png "Mural's Vertical Slideshow item on tablet")
+
+![Mural's Vertical Slideshow item on desktop](assets/output/VerticalSlideshow-desktop.png "Mural's Vertical Slideshow item on desktop")
+
 `Slide [+]` Clicking this adds another slide to the slideshow. You can have as many slides in the slideshow as you want. For optimal results large slideshows are discouraged as currently all images for a slideshow are bulk loaded as a set.
 
 ## Title
