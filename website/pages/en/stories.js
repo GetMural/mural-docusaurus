@@ -7,6 +7,14 @@ const GridBlock = CompLibrary.GridBlock;
 
 const stories = [
   {
+    url: "https://stories.getmural.io/millroad-halloween-2020/",
+    title: "Halloween in Romsey Town | Mill Road 2020",
+    author: "Naomi Aro",
+    prefix: "halloween",
+    description:
+      "Wandering around Mill Road and Romsey Town to see the Halloween pumpkins and atmosphere in 2020.",
+  },
+  {
     url: "https://udn.com/upf/vision/Zoo_of_the_Future/",
     title: "Zoo of the Future",
     author: "Guo Xiuzhen",
