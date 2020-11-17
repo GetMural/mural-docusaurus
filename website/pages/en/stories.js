@@ -7,6 +7,14 @@ const GridBlock = CompLibrary.GridBlock;
 
 const stories = [
   {
+    url: "https://stories.getmural.io/in-flanders-fields-by-john-mccrae/",
+    title: "In Flanders Fields",
+    author: "John McCrae, assembled by Naomi Aro",
+    prefix: "flanders",
+    description:
+      "The infamous poem In Flanders Fields has been assembeled to be set to visuals and read by scroll point. Subtitles are included using audio text tracks",
+  },
+  {
     url: "https://stories.getmural.io/millroad-halloween-2020/",
     title: "Halloween in Romsey Town | Mill Road 2020",
     author: "Naomi Aro",
@@ -168,7 +176,7 @@ function StoryItem({ title, author, prefix, url, description }) {
 function Stories() {
   return (
     <div className="docMainWrapper wrapper" style={{ maxWidth: "640px" }}>
-      <Container className="mainContainer documentContainer postContainer">
+      <Container className="mainContainer documentContainer postContainer storiesContainer">
         <h1>Stories created by Mural</h1>
         {stories.map(({ title, author, prefix, url, description }, i) => (
           <Container padding={["bottom"]} key={i}>

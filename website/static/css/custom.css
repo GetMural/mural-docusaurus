@@ -88,9 +88,6 @@ cite {
   color: #0b0c0c;
 }
 
-@media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
-}
-
 @media only screen and (min-width: 1024px) {
   .imageAlignSide .blockImage {
     flex: 0 1 450px;
@@ -98,11 +95,6 @@ cite {
   }
 }
 
-@media only screen and (max-width: 1023px) {
-}
-
-@media only screen and (min-width: 1400px) {
-}
-
-@media only screen and (min-width: 1500px) {
+.storiesContainer a {
+  text-decoration: underline;
 }
