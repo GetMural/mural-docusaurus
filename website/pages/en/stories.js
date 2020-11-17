@@ -12,7 +12,7 @@ const stories = [
     author: "John McCrae, assembled by Naomi Aro",
     prefix: "flanders",
     description:
-      "The infamous poem In Flanders Fields has been assembeled to be set to visuals and read by scroll point. Subtitles are included using audio text tracks",
+      "The infamous poem In Flanders Fields has been assembled to be set to visuals and read by scroll point. Subtitles are included using audio text tracks.",
   },
   {
     url: "https://stories.getmural.io/millroad-halloween-2020/",
