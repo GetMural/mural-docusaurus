@@ -24,7 +24,7 @@ Once WP File Manager is installed, our suggestion is to create a `stories` folde
 
 Upload a Mural .zip file into the `/stories` directory. You can extract the files by right-clicking on the .zip file and selecting `Extract files from archive -> New folder`. Give your new directory a name and it will extract all the files from inside the Mural .zip file into that directory.
 
-![Screenshot of WP File Manager](assets/wp-selection-info.jpg)
+![Screenshot of WP File Manager's selection info popup](assets/wp-selection-info.jpg)
 
 Optionally, you can copy the directory's URL by right-clicking your directory and selecting the last item, `Get info & Share`, which opens up a window called Selection Info. There you can copy the path to your directory.
 
@@ -34,11 +34,11 @@ Now we have to install <a href="https://wordpress.org/plugins/page-links-to/" ta
 
 Once `Page Links To` is installed, you'll want to advertise your new Mural story to your audience.  The way to doing that is to create a normal blog post by going to `Blog Posts -> Add New`. Add a featured image that you'd like to represent your new content in your site's post or blog list. Don't forget to write a short introductory text to your new content which will also display.
 
-![Screenshot of WP File Manager](assets/wp-page-links-to.jpg)
+![Screenshot of Page Links To](assets/wp-page-links-to.jpg)
 
-Finally paste the link you saved above into the `Page Links to` field in your post editor. Mural stories use a custom URL, so select `A custom URL` and then paste the URL in the field.
+Finally paste the link you saved above into the `Page Links to` field in your post editor. Mural stories use a custom URL, so select `A custom URL` and then paste the URL in the field.  The `Page Links To` plugin replaces the usual Wordpress blog post with the URL you specified, but keeps all the other fields for things like the front page.
 
-Publish your post. Now when you visit your site you should see your new post title, image, and description as per normal but when you click on the entry will be taken to your Mural story. `Page Links To` also handles your blog post forwarding so you don't need to worry about anybody accidentally ending up at your placeholder post.
+Publish your post. Now when you visit your site you should see your new post title, image, and description as per normal on pages like the front page, but when you click on the entry will be taken to your Mural story. `Page Links To` also handles your blog post forwarding so you don't need to worry about anybody accidentally ending up at your placeholder post.
 
 Finally don't forget to turn on the auto update for your new plugins to ensure your site's security.
 
