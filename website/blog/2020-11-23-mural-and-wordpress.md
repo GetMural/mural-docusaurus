@@ -38,9 +38,9 @@ Once `Page Links To` is installed, you'll want to advertise your new Mural story
 
 Finally paste the link you saved above into the `Page Links to` field in your post editor. Mural stories use a custom URL, so select `A custom URL` and then paste the URL in the field.  The `Page Links To` plugin replaces the usual Wordpress blog post with the URL you specified, but keeps all the other fields for things like the front page.
 
-Publish your post. Now when you visit your site you should see your new post title, image, and description as per normal on pages like the front page, but when you click on the entry will be taken to your Mural story. `Page Links To` also handles your blog post forwarding so you don't need to worry about anybody accidentally ending up at your placeholder post.
-
 ![Screenshot of a our sample Wordpress front page](assets/wp-front-page-screenshot.jpg)
+
+Publish your post. Now when you visit your site you should see your new post title, image, and description as per normal on pages like the front page, but when you click on the entry will be taken to your Mural story. `Page Links To` also handles your blog post forwarding so you don't need to worry about anybody accidentally ending up at your placeholder post.
 
 Finally don't forget to turn on the auto update for your new plugins to ensure your site's security.
 
