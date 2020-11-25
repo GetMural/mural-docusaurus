@@ -57,7 +57,9 @@ class HomeSplash extends React.Component {
         <div className="inner">
           <ProjectTitle tagline={siteConfig.tagline} title={siteConfig.title} />
           <PromoSection>
-            <Button href="#try">Download Mural</Button>
+            <Button href={`${baseUrl}${langPart}download`}>
+              Download Mural
+            </Button>
             <Button href={docUrl("how-it-works")}>How Mural Works</Button>
             <Button href={docUrl("getting-started")}>Getting Started</Button>
           </PromoSection>
@@ -83,38 +85,6 @@ class Index extends React.Component {
           contents={props.children}
           layout={props.layout}
         />
-      </Container>
-    );
-
-    const Download = () => (
-      <Container id="try" className="wrapper" padding={["bottom", "top"]}>
-        <h2>Download the Mural editor</h2>
-        <ul role="list">
-          <li>
-            <a href="Mural-0.3.1-mac.zip">Mac OSX v0.3.1</a>
-          </li>
-          <li>
-            <a href="Mural-0.3.1-win32-ia32.zip">Windows v0.3.1 32 bit</a>
-          </li>
-          <li>
-            <a href="Mural-0.3.1-win32-x64.zip">Windows v0.3.1 64 bit</a>
-          </li>
-          <li>
-            <a href="Mural-0.3.1-amd64.deb">Debian v0.3.1 AMD 64</a>
-          </li>
-          <li>
-            <a href="Mural-0.3.1-i386.deb">Debian v0.3.1 Intel x86</a>
-          </li>
-        </ul>
-        <h2>Download the Mural user manual</h2>
-        <p>
-          The newest manual is for Mural 0.3.0. It includes information on the
-          features available in Mural, as well as recommended apps to use with
-          it and tips on getting the most out of the tool.
-        </p>
-        <p>
-          <a href="Mural-manual-v0.3.0.pdf">Mural Manual v0.3.0</a>
-        </p>
       </Container>
     );
 
@@ -222,7 +192,6 @@ class Index extends React.Component {
           <YourMultimedia />
           <MuralItems />
           <Devices />
-          <Download />
           {/* <Showcase /> */}
         </div>
       </div>
