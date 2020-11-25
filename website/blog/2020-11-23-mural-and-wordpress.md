@@ -40,6 +40,8 @@ Finally paste the link you saved above into the `Page Links to` field in your po
 
 Publish your post. Now when you visit your site you should see your new post title, image, and description as per normal on pages like the front page, but when you click on the entry will be taken to your Mural story. `Page Links To` also handles your blog post forwarding so you don't need to worry about anybody accidentally ending up at your placeholder post.
 
+![Screenshot of a our sample Wordpress front page](assets/wp-front-page-image.jpg)
+
 Finally don't forget to turn on the auto update for your new plugins to ensure your site's security.
 
 It really is as easy as that.
