@@ -172,22 +172,14 @@ class Index extends React.Component {
           Mural is free and open source, and is licensed under the GNU Affero
           General Public License (AGPL).
           <br />
+          <p><a className="cta-link wiggle" href="https://docs.google.com/forms/d/1kWT6JPKlb66s5lSShvizYo5TdzYpEWwxdMERRl-HeoE/viewform">Take the Mural User Experience Survey 2021</a></p>
           <img
             src={`${baseUrl}img/logo.svg`}
             alt="Project Logo"
             style={{ width: "150px" }}
           />
         </p>
-        <iframe
-          src="https://docs.google.com/forms/d/e/1FAIpQLSeucd5KbGjGFTpNk8mCvnfJL8mFBYCoz2-1b19l7MyAR9jyYA/viewform?embedded=true"
-          width="100%"
-          height="1455"
-          frameBorder="0"
-          marginHeight="0"
-          marginWidth="0"
-        >
-          Loading…
-        </iframe>
+
         <div className="mainContainer">
           <YourMultimedia />
           <MuralItems />
