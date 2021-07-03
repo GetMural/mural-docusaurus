@@ -49,7 +49,7 @@ function Download(props) {
           <a href="Mural-manual-v0.3.0.pdf">Mural Manual v0.3.0</a>
         </p>
         <hr />
-        <h2>Download the Mural 0.4.0 Beta 2</h2>
+        <h2>Download the Mural 0.4.0 Beta 3</h2>
         <p>
           Feeling adventurous? Help us improve Mural by trying new features
           ahead of time! These releases could still contain bugs, but please
@@ -67,13 +67,13 @@ function Download(props) {
         </p>
         <ul role="list">
           <li>
-            <a href="beta-releases/Mural-darwin-x64-0.4.0-beta2.zip">MacOS</a>
+            <a href="beta-releases/Mural-darwin-x64-0.4.0-beta3.zip">MacOS</a>
           </li>
           <li>
-            <a href="beta-releases/Mural-0.4.0-Setup-beta2.exe">Windows x64</a>
+            <a href="beta-releases/Mural-0.4.0-Setup-beta3.exe">Windows x64</a>
           </li>
           <li>
-            <a href="beta-releases/mural_0.4.0_amd64-beta2.deb">
+            <a href="beta-releases/mural_0.4.0_amd64-beta3.deb">
               Debian AMD 64
             </a>
           </li>
