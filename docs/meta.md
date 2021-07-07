@@ -46,7 +46,7 @@ The author field is where the author of the Mural story's name is entered.
 <meta name="author" content="Douglas Arellanes" />
 ```
 
-### Cononical URI
+### Canonical URI
 
 If you know the final website address of your Mural story then this is where to enter that information.
 
