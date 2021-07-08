@@ -27,7 +27,7 @@ The title metadata field is also responsible for the `og` (Open Graph) `og:title
 
 ### Description
 
-The description metadata field is where you should desribe your Mural story in between 120 to 158 characters. This length may seem arbitrary (and in some ways it is) - but this is ideal length of a string of text when displayed by search engines likesuch as Google or Duck Duck Go and Social media platforms such as Facebook, Twitter, or Mastodon.
+The description metadata field is where you should describe your Mural story in between 120 to 158 characters. This length may seem arbitrary (and in some ways it is) - but this is ideal length of a string of text when displayed by search engines likesuch as Google or Duck Duck Go and Social media platforms such as Facebook, Twitter, or Mastodon.
 
 ```html
 <meta
@@ -46,7 +46,7 @@ The author field is where the author of the Mural story's name is entered.
 <meta name="author" content="Douglas Arellanes" />
 ```
 
-### Cononical URI
+### Canonical URL
 
 If you know the final website address of your Mural story then this is where to enter that information.
 
