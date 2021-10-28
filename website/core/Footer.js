@@ -118,6 +118,15 @@ class Footer extends React.Component {
             )}
           </div>
         </section>
+        <section className="sponsor">
+          <iframe
+            src="https://github.com/sponsors/muraldouglas/card"
+            title="Sponsor Mural"
+            height="300"
+            width="375"
+            style={{ border: 0 }}
+          ></iframe>
+        </section>
         <section className="copyright">{this.props.config.copyright}</section>
       </footer>
     );

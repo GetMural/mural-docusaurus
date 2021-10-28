@@ -49,6 +49,10 @@ cite {
   color: #a3e0bb;
 }
 
+.nav-footer .sponsor {
+  text-align: center;
+}
+
 .heading {
   color: white;
   font-size: 14px;
@@ -63,54 +67,17 @@ cite {
   width: 85%;
 }
 
-@keyframes wiggle {
-  0% {
-    -webkit-transform: rotate(0deg);
-  }
-  2% {
-    -webkit-transform: rotate(-1deg);
-  }
-  3.5% {
-    -webkit-transform: rotate(1deg);
-  }
-  5% {
-    -webkit-transform: rotate(0deg);
-  }
-  100% {
-    -webkit-transform: rotate(0deg);
-  }
-}
-
-.wiggle {
-  display: inline-block;
-  animation: wiggle 2.5s infinite;
-}
-
-.wiggle:hover {
-  animation: none;
-}
-
-.cta-link {
-  font-size: 2rem;
-  margin: 1rem;
-}
-
-.cta-link:link, .post-content>div:first-child a:link, .post>div a:link {
+.post-content>div:first-child a:link, .post>div a:link {
   color: #1d70b8;
   text-decoration: underline;
 }
 
-.cta-link:visited, .post-content>div:first-child a:visited, .post>div a:visited {
+.post-content>div:first-child a:visited, .post>div a:visited {
   color: #4c2c92;
   text-decoration: underline;
 }
 
-/* .cta-link a:link, .post-content>div:first-child a:link, .post>div a:link {
-  color: #005ea5;
-  text-decoration: underline;
-} */
-
-.cta-link:focus, .post-content>div:first-child a:focus, .post>div a:focus {
+.post-content>div:first-child a:focus, .post>div a:focus {
   outline: 3px solid transparent;
   background-color: #fcd700;
   box-shadow: 0 -2px #fcd700, 0 2px #0b0c0c;
