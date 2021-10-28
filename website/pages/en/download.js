@@ -21,49 +21,11 @@ function Download(props) {
   return (
     <div className="docMainWrapper wrapper">
       <Container id="try" className="wrapper post" padding={["bottom", "top"]}>
-        <h1>Download the Mural editor</h1>
-        <ul role="list">
-          <li>
-            <a href="Mural-0.3.1-mac.zip">Mac OSX v0.3.1</a>
-          </li>
-          <li>
-            <a href="Mural-0.3.1-win32-ia32.zip">Windows v0.3.1 32 bit</a>
-          </li>
-          <li>
-            <a href="Mural-0.3.1-win32-x64.zip">Windows v0.3.1 64 bit</a>
-          </li>
-          <li>
-            <a href="Mural-0.3.1-amd64.deb">Debian v0.3.1 AMD 64</a>
-          </li>
-          <li>
-            <a href="Mural-0.3.1-i386.deb">Debian v0.3.1 Intel x86</a>
-          </li>
-        </ul>
-        <h2>Download the Mural user manual</h2>
+        <h1>Download the Mural editor 0.4.0</h1>
         <p>
-          The newest manual is for Mural 0.3.0. It includes information on the
-          features available in Mural, as well as recommended apps to use with
-          it and tips on getting the most out of the tool.
-        </p>
-        <p>
-          <a href="Mural-manual-v0.3.0.pdf">Mural Manual v0.3.0</a>
-        </p>
-        <hr />
-        <h2>Download the Mural 0.4.0 Beta 3</h2>
-        <p>
-          Feeling adventurous? Help us improve Mural by trying new features
-          ahead of time! These releases could still contain bugs, but please
-          help us find them earlier and report any problems by{" "}
-          <a href="https://github.com/GetMural/Mural/issues/new">
-            creating a new issue on Github
+          <a href="https://github.com/GetMural/Mural/blob/master/CHANGELOG.md">
+            Release notes
           </a>
-          .
-          <br />
-          <div>
-            <a href="https://github.com/GetMural/Mural/blob/master/CHANGELOG.md">
-              Release notes
-            </a>
-          </div>
         </p>
         <ul role="list">
           <li>
@@ -78,6 +40,15 @@ function Download(props) {
             </a>
           </li>
         </ul>
+        <h2>Download the Mural user manual</h2>
+        <p>
+          The newest manual is for Mural 0.3.0. It includes information on the
+          features available in Mural, as well as recommended apps to use with
+          it and tips on getting the most out of the tool.
+        </p>
+        <p>
+          <a href="Mural-manual-v0.3.0.pdf">Mural Manual v0.3.0+</a>
+        </p>
       </Container>
     </div>
   );
