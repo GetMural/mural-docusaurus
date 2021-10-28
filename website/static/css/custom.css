@@ -49,8 +49,9 @@ cite {
   color: #a3e0bb;
 }
 
-.nav-footer .sponsor {
+.sponsor {
   text-align: center;
+  background: white;
 }
 
 .heading {
