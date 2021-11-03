@@ -28,7 +28,8 @@ function Help(props) {
     },
     {
       content: `Hop on over to the <a href="https://www.reddit.com/r/getmural/" target="_blank"
-      rel="noreferrer noopener">Mural subreddit!</a>`,
+      rel="noreferrer noopener">Mural subreddit!</a><br/>Fancy Discord? <a href="https://discord.gg/KVwhfjHunE" target="_blank"
+      rel="noreferrer noopener">Join our Discord server</a>`,
       title: "Join the community",
     },
     {

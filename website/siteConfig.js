@@ -95,6 +95,7 @@ const siteConfig = {
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
   repoUrl: "https://github.com/GetMural/Mural",
+  discordUrl: "https://discord.gg/KVwhfjHunE",
   redditUrl: "https://www.reddit.com/r/getmural",
   fbPage: "https://www.facebook.com/getmural",
   gaTrackingId: "UA-119779433-1",
