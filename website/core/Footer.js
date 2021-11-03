@@ -48,7 +48,13 @@ class Footer extends React.Component {
             </div>
             <div>
               <span className="heading">Community</span>
-              {/* <a href={`${this.props.config.baseUrl}users`}>User Showcase</a> */}
+              <a
+                href={this.props.config.discordUrl}
+                target="_blank"
+                rel="noreferrer noopener"
+              >
+                Discord
+              </a>
               <a
                 href={this.props.config.redditUrl}
                 target="_blank"
