@@ -31,6 +31,14 @@ const stories = [
       "A journey into Taiwan's agriculture labour shortages and the illegal agricultural migrants who keep the country's system going.",
   },
   {
+    url: "https://stories.getmural.io/an-ai-christmas-carol/",
+    title: "An AI Christmas Carol",
+    author: "Naomi Aro",
+    prefix: "cbc",
+    description:
+      "A Reading of CBC Radio's A Christmas Carol done purely with text to speech British accent voices.",
+  },
+  {
     url: "https://stories.getmural.io/millroad-halloween-2020/",
     title: "Halloween in Romsey Town | Mill Road 2020",
     author: "Naomi Aro",
