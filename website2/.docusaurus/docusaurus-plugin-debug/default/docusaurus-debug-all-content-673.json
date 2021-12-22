@@ -715,6 +715,11 @@
         "type": "jsx",
         "permalink": "/",
         "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/stories",
+        "source": "@site/src/pages/stories.js"
       }
     ]
   },

@@ -12,6 +12,14 @@ ul {
   list-style: none;
 }
 
+.main-wrapper a {
+  text-decoration: underline;
+}
+
+.story-container {
+  max-width: 640px;
+}
+
 .unsplash-img {
   max-height: 180px;
 }
