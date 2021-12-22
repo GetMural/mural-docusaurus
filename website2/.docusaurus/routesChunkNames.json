@@ -82,11 +82,15 @@
   },
   "/download-344": {
     "component": "component---site-src-pages-download-jsf-15-069",
-    "config": "config---5-e-9-4f3"
+    "config": "config---download-5-e-9-a88"
+  },
+  "/help-416": {
+    "component": "component---site-src-pages-help-js-7-e-3-222",
+    "config": "config---download-5-e-9-a88"
   },
   "/stories-534": {
     "component": "component---site-src-pages-stories-js-3-f-5-90f",
-    "config": "config---5-e-9-4f3"
+    "config": "config---download-5-e-9-a88"
   },
   "/docs-61e": {
     "component": "component---theme-doc-page-1-be-9be",
@@ -150,6 +154,6 @@
   },
   "/-deb": {
     "component": "component---site-src-pages-index-jsc-4-f-f99",
-    "config": "config---5-e-9-4f3"
+    "config": "config---download-5-e-9-a88"
   }
 }

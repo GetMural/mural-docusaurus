@@ -12,12 +12,17 @@ ul {
   list-style: none;
 }
 
-.main-wrapper a {
+main a {
   text-decoration: underline;
 }
 
 .story-container {
   max-width: 640px;
+}
+
+.twitter {
+  font-weight: bold;
+  color: #fcd700 !important;
 }
 
 .unsplash-img {

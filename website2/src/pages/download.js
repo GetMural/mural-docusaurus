@@ -37,7 +37,7 @@ function Download() {
                   Release notes
                 </a>
               </p>
-              <ul role="list" className="column">
+              <ul role="list">
                 {downloads.map(({ title, link }, idx) => (
                   <li key={idx}>
                     <a href={link}>{title}</a>

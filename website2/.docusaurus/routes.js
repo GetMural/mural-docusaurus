@@ -84,6 +84,11 @@ export default [
     exact: true
   },
   {
+    path: '/help',
+    component: ComponentCreator('/help','416'),
+    exact: true
+  },
+  {
     path: '/stories',
     component: ComponentCreator('/stories','534'),
     exact: true
