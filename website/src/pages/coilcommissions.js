@@ -146,7 +146,10 @@ function CoilCommissions() {
   return (
     <Layout title={siteConfig.title} description={siteConfig.tagline}>
       <main>
-        <section className="margin-vert--md padding--none container coilgallery">
+        <section
+          className="margin-vert--md padding--none container coilgallery"
+          style={{ maxWidth: "800px" }}
+        >
           <h1>Coil Commission Stories</h1>
           <p>
             From its inception Mural has been developed in close collaboration
