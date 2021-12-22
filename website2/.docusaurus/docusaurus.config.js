@@ -17,12 +17,7 @@ export default {
     }
   ],
   "favicon": "img/favicon.ico",
-  "customFields": {
-    "repoUrl": "https://github.com/GetMural/Mural",
-    "discordUrl": "https://discord.gg/KVwhfjHunE",
-    "redditUrl": "https://www.reddit.com/r/getmural",
-    "fbPage": "https://www.facebook.com/getmural"
-  },
+  "customFields": {},
   "onBrokenLinks": "log",
   "onBrokenMarkdownLinks": "log",
   "presets": [
@@ -58,11 +53,6 @@ export default {
           "position": "left"
         },
         {
-          "to": "/coilcommisions",
-          "label": "Coil Commissions",
-          "position": "left"
-        },
-        {
           "to": "/stories",
           "label": "Stories",
           "position": "left"
@@ -84,11 +74,73 @@ export default {
     "footer": {
       "links": [
         {
+          "title": "Docs",
+          "items": [
+            {
+              "label": "How it works",
+              "to": "docs/how-it-works"
+            },
+            {
+              "label": "Getting Started",
+              "to": "docs/getting-started"
+            },
+            {
+              "label": "Mural Items",
+              "to": "docs/metadata"
+            }
+          ]
+        },
+        {
           "title": "Community",
           "items": [
             {
+              "label": "Discord",
+              "to": "https://discord.gg/KVwhfjHunE"
+            },
+            {
+              "label": "Reddit",
+              "to": "https://www.reddit.com/r/getmural"
+            },
+            {
               "label": "Twitter",
               "to": "https://twitter.com/muralstories"
+            },
+            {
+              "label": "Facebook",
+              "to": "https://www.facebook.com/getmural"
+            }
+          ]
+        },
+        {
+          "title": "Contact Us",
+          "items": [
+            {
+              "html": "<address><strong>Mural Software s.r.o.</strong><br/>Bubenečská 496/53<br/>160 00 Prague 6<br/>Czech Republic</address>"
+            },
+            {
+              "label": "+420 724 073 364",
+              "to": "tel:+420724073364"
+            },
+            {
+              "label": "info@getmural.io",
+              "to": "mailto://info@getmural.io"
+            }
+          ]
+        },
+        {
+          "title": "More",
+          "items": [
+            {
+              "label": "Github",
+              "to": "https://github.com/GetMural/Mural"
+            },
+            {
+              "label": "Privacy Policy",
+              "to": "privacy"
+            },
+            {
+              "label": "Cookies Policy",
+              "to": "cookies"
             }
           ]
         }
