@@ -104,7 +104,7 @@ function Download() {
     >
       <main>
         <div className="container">
-          <h1 className="margin-top--xl">
+          <h1 className="margin-top--md">
             Showcase stories created with Mural
           </h1>
           {stories.map(({ title, author, prefix, url, description }, i) => (

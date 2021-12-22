@@ -29,7 +29,7 @@ function Download() {
         {downloads && (
           <section>
             <div className="container">
-              <h1 className="margin-top--xl">
+              <h1 className="margin-top--md">
                 Download the Mural editor 0.4.0
               </h1>
               <p>

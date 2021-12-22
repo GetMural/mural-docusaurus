@@ -65,6 +65,11 @@ module.exports = {
           label: "Help",
           position: "left",
         },
+        {
+          to: "/blog",
+          label: "Blog",
+          position: "left",
+        },
       ],
     },
     image: "uploads/mural_website/photographer_ice_sunrise.jpg",

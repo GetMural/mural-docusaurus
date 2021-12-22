@@ -66,6 +66,11 @@ export default {
           "to": "/help",
           "label": "Help",
           "position": "left"
+        },
+        {
+          "to": "/blog",
+          "label": "Blog",
+          "position": "left"
         }
       ],
       "hideOnScroll": false
