@@ -36,6 +36,9 @@ export default {
         },
         "theme": {
           "customCss": "../src/css/customTheme.css"
+        },
+        "googleAnalytics": {
+          "trackingID": "UA-119779433-1"
         }
       }
     ]
@@ -161,9 +164,6 @@ export default {
         "src": "img/logo_small.svg"
       },
       "style": "light"
-    },
-    "gtag": {
-      "trackingID": "UA-119779433-1"
     },
     "colorMode": {
       "defaultMode": "light",

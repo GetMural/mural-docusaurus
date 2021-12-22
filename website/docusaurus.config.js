@@ -35,6 +35,9 @@ module.exports = {
         theme: {
           customCss: "../src/css/customTheme.css",
         },
+        googleAnalytics: {
+          trackingID: "UA-119779433-1",
+        },
       },
     ],
   ],
@@ -157,9 +160,6 @@ module.exports = {
       logo: {
         src: "img/logo_small.svg",
       },
-    },
-    gtag: {
-      trackingID: "UA-119779433-1",
     },
   },
 };
