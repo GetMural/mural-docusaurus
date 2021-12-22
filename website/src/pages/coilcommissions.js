@@ -82,35 +82,35 @@ const VimeoAutoplayWithCustomThumbs = () => {
         muted={true}
         key="melanie"
         url="https://vimeo.com/651937446"
-        thumbnail="https://i.vimeocdn.com/video/1316862895-72cadea71e415b8ac88b6f994be7ab99f2cd1d3ae1119c0858a30780b76a0160-d_472x266"
+        thumbnail={useBaseUrl("img/coil/melanie_200.jpg")}
       />
       <VimeoSlide
         volume={1}
         muted={false}
         key="olga"
         url="https://vimeo.com/652499841"
-        thumbnail="https://i.vimeocdn.com/video/1316862895-72cadea71e415b8ac88b6f994be7ab99f2cd1d3ae1119c0858a30780b76a0160-d_472x266"
+        thumbnail={useBaseUrl("img/coil/olga_200.jpg")}
       />
       <VimeoSlide
         volume={1}
         muted={false}
         key="colin"
         url="https://vimeo.com/651603357"
-        thumbnail="https://i.vimeocdn.com/video/1316862895-72cadea71e415b8ac88b6f994be7ab99f2cd1d3ae1119c0858a30780b76a0160-d_472x266"
+        thumbnail={useBaseUrl("img/coil/colin_200.jpg")}
       />
       <VimeoSlide
         volume={1}
         muted={false}
         key="louise"
         url="https://vimeo.com/658647662"
-        thumbnail="https://i.vimeocdn.com/video/1316862895-72cadea71e415b8ac88b6f994be7ab99f2cd1d3ae1119c0858a30780b76a0160-d_472x266"
+        thumbnail={useBaseUrl("img/coil/louise_200.jpg")}
       />
       <VimeoSlide
         volume={1}
         muted={false}
         key="ronan"
         url="https://vimeo.com/652599810"
-        thumbnail="https://i.vimeocdn.com/video/1316862895-72cadea71e415b8ac88b6f994be7ab99f2cd1d3ae1119c0858a30780b76a0160-d_472x266"
+        thumbnail={useBaseUrl("img/coil/ronan_200.jpg")}
       />
     </Carousel>
   );
