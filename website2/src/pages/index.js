@@ -58,7 +58,7 @@ function Home() {
           <div class="row">
             <Link
               className="button button--secondary button--lg"
-              to={useBaseUrl("docs/how-it-works")}
+              to={useBaseUrl("download")}
             >
               Download
             </Link>
