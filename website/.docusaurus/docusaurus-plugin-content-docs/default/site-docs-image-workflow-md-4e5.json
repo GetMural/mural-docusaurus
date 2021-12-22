@@ -1,0 +1,25 @@
+{
+  "unversionedId": "image-workflow",
+  "id": "image-workflow",
+  "title": "How to work with images in Mural",
+  "description": "Mural does not have internal image editing functions. This means you have to use an external image editing program such as Photoshop, GIMP or others.",
+  "source": "@site/../docs/image-workflow.md",
+  "sourceDirName": ".",
+  "slug": "/image-workflow",
+  "permalink": "/docs/image-workflow",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "naomiaro",
+  "lastUpdatedAt": 1600631907,
+  "formattedLastUpdatedAt": "9/20/2020",
+  "frontMatter": {
+    "id": "image-workflow",
+    "title": "How to work with images in Mural",
+    "sidebar_label": "Image Workflow"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Youtube",
+    "permalink": "/docs/youtube"
+  }
+}

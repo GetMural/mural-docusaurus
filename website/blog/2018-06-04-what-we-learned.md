@@ -1,7 +1,7 @@
 ---
 title: What We've Learned Making Mural
 author: Douglas Arellanes
-authorURL: https://twitter.com/dougiegyro
+authorURL: "https://twitter.com/dougiegyro"
 ---
 
 Mural is a tool for creating visual longform stories. The [Mural software is marking its official launch this week](https://www.getmural.io/), and it’s been a pleasure to work on it as with the support of the Google Digital News Initiative’s Prototype Fund. As our project is open source (AGPL), we figured that it would be good to extend our transparency and share with you some of the things we’ve learned along the way.
@@ -10,7 +10,7 @@ Mural is a tool for creating visual longform stories. The [Mural software is mar
 
 A lot of this is technical, but as Father John Culkin once wrote about Marshall McLuhan’s philosophy, “We shape our tools, and thereafter they shape us.” The decisions we made in making Mural, and what we’ve learned in the process, might provide helpful insights for others making and using storytelling tools, as well as for those interested in how Mural was created.
 
-![Screenshot of Mural’s UI as of version 0.2.3](assets/what-we-learned.jpeg)
+![Screenshot of Mural’s UI as of version 0.2.3](./assets/what-we-learned.jpeg)
 
 ### Lesson 1: Get out of the CMS
 

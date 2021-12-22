@@ -68,25 +68,22 @@ cite {
   width: 85%;
 }
 
-.post-content > div:first-child a:link,
-.post > div a:link {
+.post-content>div:first-child a:link, .post>div a:link {
   color: #1d70b8;
   text-decoration: underline;
 }
 
-.post-content > div:first-child a:visited,
-.post > div a:visited {
+.post-content>div:first-child a:visited, .post>div a:visited {
   color: #4c2c92;
   text-decoration: underline;
 }
 
-.post-content > div:first-child a:focus,
-.post > div a:focus {
+.post-content>div:first-child a:focus, .post>div a:focus {
   outline: 3px solid transparent;
   background-color: #fcd700;
   box-shadow: 0 -2px #fcd700, 0 2px #0b0c0c;
   text-decoration: none;
-  color: #fcd700;
+  color: #0b0c0c;
 }
 
 @media only screen and (min-width: 1024px) {

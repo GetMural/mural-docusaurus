@@ -1,0 +1,145 @@
+{
+  "/blog-ef8": {
+    "component": "a6aa9e1f",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "3ebd6eda"
+      },
+      {
+        "content": "8f6c4fb4"
+      },
+      {
+        "content": "7a9b440f"
+      },
+      {
+        "content": "1ded6e6d"
+      },
+      {
+        "content": "1ebc7294"
+      },
+      {
+        "content": "be162dd5"
+      }
+    ],
+    "metadata": "b2b675dd"
+  },
+  "/blog/2017/07/06/introducing-mural-029": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "a042fa34"
+  },
+  "/blog/2018/06/04/what-we-learned-e35": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "60b058f3"
+  },
+  "/blog/2019/10/27/mozfest-2019-95f": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "da78a363"
+  },
+  "/blog/2020/09/23/media-party-2020-ed3": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "90b6a867"
+  },
+  "/blog/2020/10/24/grant-for-the-web-faf": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "1130ce56"
+  },
+  "/blog/2020/11/23/mural-and-wordpress-b81": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "d4b2a223"
+  },
+  "/blog/archive-f4c": {
+    "component": "9e4087bc",
+    "archive": "b2f554cd"
+  },
+  "/cookies-dcd": {
+    "component": "7f00623e",
+    "config": "5e9f5e1a"
+  },
+  "/download-344": {
+    "component": "f15f6e84",
+    "config": "5e9f5e1a"
+  },
+  "/help-416": {
+    "component": "7e37206e",
+    "config": "5e9f5e1a"
+  },
+  "/privacy-b45": {
+    "component": "e0d07498",
+    "config": "5e9f5e1a"
+  },
+  "/stories-534": {
+    "component": "3f5b7a6e",
+    "config": "5e9f5e1a"
+  },
+  "/docs-61e": {
+    "component": "1be78505",
+    "versionMetadata": "935f2afb"
+  },
+  "/docs/backgroundvideo-0ed": {
+    "component": "17896441",
+    "content": "f2866f83"
+  },
+  "/docs/centredtext-1ed": {
+    "component": "17896441",
+    "content": "c7aedd49"
+  },
+  "/docs/fullpagevideo-fd2": {
+    "component": "17896441",
+    "content": "acf19f19"
+  },
+  "/docs/getting-started-0ee": {
+    "component": "17896441",
+    "content": "8d0344ba"
+  },
+  "/docs/horizontalslideshow-c69": {
+    "component": "17896441",
+    "content": "19e044ce"
+  },
+  "/docs/how-it-works-402": {
+    "component": "17896441",
+    "content": "5cc1c77f"
+  },
+  "/docs/image-workflow-d5c": {
+    "component": "17896441",
+    "content": "4e555b1c"
+  },
+  "/docs/imageaudio-021": {
+    "component": "17896441",
+    "content": "2509d01c"
+  },
+  "/docs/imagebackground-d76": {
+    "component": "17896441",
+    "content": "5b73639a"
+  },
+  "/docs/imageparallax-cd7": {
+    "component": "17896441",
+    "content": "0b3b56cf"
+  },
+  "/docs/intro-a16": {
+    "component": "17896441",
+    "content": "f6d69ff8"
+  },
+  "/docs/metadata-066": {
+    "component": "17896441",
+    "content": "182adbc3"
+  },
+  "/docs/verticalslideshow-bee": {
+    "component": "17896441",
+    "content": "1deebc0a"
+  },
+  "/docs/youtube-7d9": {
+    "component": "17896441",
+    "content": "5a8123fc"
+  },
+  "/-deb": {
+    "component": "c4f5d8e4",
+    "config": "5e9f5e1a"
+  }
+}

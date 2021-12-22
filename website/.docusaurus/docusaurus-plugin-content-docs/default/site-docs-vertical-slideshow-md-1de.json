@@ -1,0 +1,29 @@
+{
+  "unversionedId": "verticalslideshow",
+  "id": "verticalslideshow",
+  "title": "The Vertical Slideshow Mural Item",
+  "description": "A Vertical slideshow item refers to a collection of images with captions that can be scrolled through in a set - each slide \"sticking\" to the top of the screen until the following slide replaces it.",
+  "source": "@site/../docs/VerticalSlideshow.md",
+  "sourceDirName": ".",
+  "slug": "/verticalslideshow",
+  "permalink": "/docs/verticalslideshow",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Naomi",
+  "lastUpdatedAt": 1603561501,
+  "formattedLastUpdatedAt": "10/24/2020",
+  "frontMatter": {
+    "id": "verticalslideshow",
+    "title": "The Vertical Slideshow Mural Item",
+    "sidebar_label": "Vertical Slideshow"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Image Parallax",
+    "permalink": "/docs/imageparallax"
+  },
+  "next": {
+    "title": "Youtube",
+    "permalink": "/docs/youtube"
+  }
+}
