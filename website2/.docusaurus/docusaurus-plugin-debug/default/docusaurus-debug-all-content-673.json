@@ -708,6 +708,11 @@
     "default": [
       {
         "type": "jsx",
+        "permalink": "/download",
+        "source": "@site/src/pages/download.js"
+      },
+      {
+        "type": "jsx",
         "permalink": "/",
         "source": "@site/src/pages/index.js"
       }

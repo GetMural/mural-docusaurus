@@ -79,6 +79,11 @@ export default [
     exact: true
   },
   {
+    path: '/download',
+    component: ComponentCreator('/download','344'),
+    exact: true
+  },
+  {
     path: '/docs',
     component: ComponentCreator('/docs','61e'),
     routes: [

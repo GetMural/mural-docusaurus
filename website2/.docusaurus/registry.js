@@ -1,6 +1,7 @@
 export default {
   'allContent---docusaurus-debug-content-246-9aa': [() => import(/* webpackChunkName: 'allContent---docusaurus-debug-content-246-9aa' */ "~debug/default/docusaurus-debug-all-content-673.json"), "~debug/default/docusaurus-debug-all-content-673.json", require.resolveWeak("~debug/default/docusaurus-debug-all-content-673.json")],
   'archive---blog-archiveb-2-f-393': [() => import(/* webpackChunkName: 'archive---blog-archiveb-2-f-393' */ "~blog/default/blog-archive-80c.json"), "~blog/default/blog-archive-80c.json", require.resolveWeak("~blog/default/blog-archive-80c.json")],
+  'component---site-src-pages-download-jsf-15-069': [() => import(/* webpackChunkName: 'component---site-src-pages-download-jsf-15-069' */ "@site/src/pages/download.js"), "@site/src/pages/download.js", require.resolveWeak("@site/src/pages/download.js")],
   'component---site-src-pages-index-jsc-4-f-f99': [() => import(/* webpackChunkName: 'component---site-src-pages-index-jsc-4-f-f99' */ "@site/src/pages/index.js"), "@site/src/pages/index.js", require.resolveWeak("@site/src/pages/index.js")],
   'component---theme-blog-archive-page-9-e-4-1d8': [() => import(/* webpackChunkName: 'component---theme-blog-archive-page-9-e-4-1d8' */ "@theme/BlogArchivePage"), "@theme/BlogArchivePage", require.resolveWeak("@theme/BlogArchivePage")],
   'component---theme-blog-list-pagea-6-a-7ba': [() => import(/* webpackChunkName: 'component---theme-blog-list-pagea-6-a-7ba' */ "@theme/BlogListPage"), "@theme/BlogListPage", require.resolveWeak("@theme/BlogListPage")],

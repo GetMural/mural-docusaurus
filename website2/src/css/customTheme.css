@@ -8,6 +8,10 @@
   --ifm-color-primary-darkest: #242747;
 }
 
+ul {
+  list-style: none;
+}
+
 .unsplash-img {
   max-height: 180px;
 }
