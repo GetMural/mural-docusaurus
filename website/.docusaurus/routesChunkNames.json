@@ -1,5 +1,5 @@
 {
-  "/blog-ef8": {
+  "/blog/-0a6": {
     "component": "a6aa9e1f",
     "sidebar": "814f3328",
     "items": [
@@ -24,121 +24,121 @@
     ],
     "metadata": "b2b675dd"
   },
-  "/blog/2017/07/06/introducing-mural-029": {
+  "/blog/2017/07/06/introducing-mural/-2de": {
     "component": "ccc49370",
     "sidebar": "814f3328",
     "content": "a042fa34"
   },
-  "/blog/2018/06/04/what-we-learned-e35": {
+  "/blog/2018/06/04/what-we-learned/-a70": {
     "component": "ccc49370",
     "sidebar": "814f3328",
     "content": "60b058f3"
   },
-  "/blog/2019/10/27/mozfest-2019-95f": {
+  "/blog/2019/10/27/mozfest-2019/-0b5": {
     "component": "ccc49370",
     "sidebar": "814f3328",
     "content": "da78a363"
   },
-  "/blog/2020/09/23/media-party-2020-ed3": {
+  "/blog/2020/09/23/media-party-2020/-d83": {
     "component": "ccc49370",
     "sidebar": "814f3328",
     "content": "90b6a867"
   },
-  "/blog/2020/10/24/grant-for-the-web-faf": {
+  "/blog/2020/10/24/grant-for-the-web/-5c1": {
     "component": "ccc49370",
     "sidebar": "814f3328",
     "content": "1130ce56"
   },
-  "/blog/2020/11/23/mural-and-wordpress-b81": {
+  "/blog/2020/11/23/mural-and-wordpress/-37e": {
     "component": "ccc49370",
     "sidebar": "814f3328",
     "content": "d4b2a223"
   },
-  "/blog/archive-f4c": {
+  "/blog/archive/-38a": {
     "component": "9e4087bc",
     "archive": "b2f554cd"
   },
-  "/coilcommissions-f17": {
+  "/coilcommissions/-a81": {
     "component": "130749be",
     "config": "5e9f5e1a"
   },
-  "/cookies-dcd": {
+  "/cookies/-94a": {
     "component": "7f00623e",
     "config": "5e9f5e1a"
   },
-  "/download-344": {
+  "/download/-4f7": {
     "component": "f15f6e84",
     "config": "5e9f5e1a"
   },
-  "/help-416": {
+  "/help/-4ff": {
     "component": "7e37206e",
     "config": "5e9f5e1a"
   },
-  "/privacy-b45": {
+  "/privacy/-cdf": {
     "component": "e0d07498",
     "config": "5e9f5e1a"
   },
-  "/stories-534": {
+  "/stories/-f02": {
     "component": "3f5b7a6e",
     "config": "5e9f5e1a"
   },
-  "/docs-61e": {
+  "/docs/-25b": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
   },
-  "/docs/backgroundvideo-0ed": {
+  "/docs/backgroundvideo/-299": {
     "component": "17896441",
     "content": "f2866f83"
   },
-  "/docs/centredtext-1ed": {
+  "/docs/centredtext/-234": {
     "component": "17896441",
     "content": "c7aedd49"
   },
-  "/docs/fullpagevideo-fd2": {
+  "/docs/fullpagevideo/-6b2": {
     "component": "17896441",
     "content": "acf19f19"
   },
-  "/docs/getting-started-0ee": {
+  "/docs/getting-started/-26e": {
     "component": "17896441",
     "content": "8d0344ba"
   },
-  "/docs/horizontalslideshow-c69": {
+  "/docs/horizontalslideshow/-8e7": {
     "component": "17896441",
     "content": "19e044ce"
   },
-  "/docs/how-it-works-402": {
+  "/docs/how-it-works/-b9c": {
     "component": "17896441",
     "content": "5cc1c77f"
   },
-  "/docs/image-workflow-d5c": {
+  "/docs/image-workflow/-7f6": {
     "component": "17896441",
     "content": "4e555b1c"
   },
-  "/docs/imageaudio-021": {
+  "/docs/imageaudio/-c2b": {
     "component": "17896441",
     "content": "2509d01c"
   },
-  "/docs/imagebackground-d76": {
+  "/docs/imagebackground/-1ca": {
     "component": "17896441",
     "content": "5b73639a"
   },
-  "/docs/imageparallax-cd7": {
+  "/docs/imageparallax/-73e": {
     "component": "17896441",
     "content": "0b3b56cf"
   },
-  "/docs/intro-a16": {
+  "/docs/intro/-8f4": {
     "component": "17896441",
     "content": "f6d69ff8"
   },
-  "/docs/metadata-066": {
+  "/docs/metadata/-941": {
     "component": "17896441",
     "content": "182adbc3"
   },
-  "/docs/verticalslideshow-bee": {
+  "/docs/verticalslideshow/-fba": {
     "component": "17896441",
     "content": "1deebc0a"
   },
-  "/docs/youtube-7d9": {
+  "/docs/youtube/-8f2": {
     "component": "17896441",
     "content": "5a8123fc"
   },

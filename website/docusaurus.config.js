@@ -15,6 +15,7 @@ module.exports = {
     },
   ],
   favicon: "img/favicon.ico",
+  trailingSlash: true,
   customFields: {},
   onBrokenLinks: "log",
   onBrokenMarkdownLinks: "log",
