@@ -740,6 +740,11 @@
         "type": "jsx",
         "permalink": "/stories",
         "source": "@site/src/pages/stories.js"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/webmonetization",
+        "source": "@site/src/pages/webmonetization.js"
       }
     ]
   },

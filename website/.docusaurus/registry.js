@@ -36,6 +36,7 @@ export default {
   'c4f5d8e4': [() => import(/* webpackChunkName: 'c4f5d8e4' */ "@site/src/pages/index.js"), "@site/src/pages/index.js", require.resolveWeak("@site/src/pages/index.js")],
   'c7aedd49': [() => import(/* webpackChunkName: 'c7aedd49' */ "@site/../docs/CentredText.md"), "@site/../docs/CentredText.md", require.resolveWeak("@site/../docs/CentredText.md")],
   'ccc49370': [() => import(/* webpackChunkName: 'ccc49370' */ "@theme/BlogPostPage"), "@theme/BlogPostPage", require.resolveWeak("@theme/BlogPostPage")],
+  'd1ed7352': [() => import(/* webpackChunkName: 'd1ed7352' */ "@site/src/pages/webmonetization.js"), "@site/src/pages/webmonetization.js", require.resolveWeak("@site/src/pages/webmonetization.js")],
   'd4b2a223': [() => import(/* webpackChunkName: 'd4b2a223' */ "@site/blog/2020-11-23-mural-and-wordpress.md"), "@site/blog/2020-11-23-mural-and-wordpress.md", require.resolveWeak("@site/blog/2020-11-23-mural-and-wordpress.md")],
   'da78a363': [() => import(/* webpackChunkName: 'da78a363' */ "@site/blog/2019-10-27-mozfest-2019.md"), "@site/blog/2019-10-27-mozfest-2019.md", require.resolveWeak("@site/blog/2019-10-27-mozfest-2019.md")],
   'e0d07498': [() => import(/* webpackChunkName: 'e0d07498' */ "@site/src/pages/privacy.js"), "@site/src/pages/privacy.js", require.resolveWeak("@site/src/pages/privacy.js")],

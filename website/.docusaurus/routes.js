@@ -74,6 +74,11 @@ export default [
     exact: true
   },
   {
+    path: '/webmonetization/',
+    component: ComponentCreator('/webmonetization/','980'),
+    exact: true
+  },
+  {
     path: '/docs/',
     component: ComponentCreator('/docs/','25b'),
     routes: [
