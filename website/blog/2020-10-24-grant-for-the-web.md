@@ -1,7 +1,7 @@
 ---
 title: Mural selected for Grant for the Web funding
 author: Douglas Arellanes
-authorURL: https://twitter.com/dougiegyro
+authorURL: "https://twitter.com/dougiegyro"
 ---
 
 Mural has been selected as a <a href="https://www.grantfortheweb.org/blog/2020-mid-grantees" target="_blank" rel="noopener noreferrer">Mid Level Grantee</a> in the <a href="https://www.grantfortheweb.org" target="_blank" rel="noopener nofollow noreferrer">Grant for the Web</a> program, jointly administered by Mozilla, Creative Commons and Coil.

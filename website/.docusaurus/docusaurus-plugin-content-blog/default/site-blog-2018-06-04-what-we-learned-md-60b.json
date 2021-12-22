@@ -1,0 +1,25 @@
+{
+  "permalink": "/blog/2018/06/04/what-we-learned",
+  "source": "@site/blog/2018-06-04-what-we-learned.md",
+  "title": "What We've Learned Making Mural",
+  "description": "Mural is a tool for creating visual longform stories. The Mural software is marking its official launch this week, and it’s been a pleasure to work on it as with the support of the Google Digital News Initiative’s Prototype Fund. As our project is open source (AGPL), we figured that it would be good to extend our transparency and share with you some of the things we’ve learned along the way.",
+  "date": "2018-06-04T00:00:00.000Z",
+  "formattedDate": "June 4, 2018",
+  "tags": [],
+  "readingTime": 9.775,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Douglas Arellanes",
+      "url": "https://twitter.com/dougiegyro"
+    }
+  ],
+  "prevItem": {
+    "title": "Mural at Mozfest 2019",
+    "permalink": "/blog/2019/10/27/mozfest-2019"
+  },
+  "nextItem": {
+    "title": "Introducing Mural",
+    "permalink": "/blog/2017/07/06/introducing-mural"
+  }
+}

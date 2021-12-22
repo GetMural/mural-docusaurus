@@ -1,0 +1,21 @@
+{
+  "permalink": "/blog/2020/11/23/mural-and-wordpress",
+  "source": "@site/blog/2020-11-23-mural-and-wordpress.md",
+  "title": "Mural and Wordpress",
+  "description": "A question we get asked about on a fairly regular basis is \"how on earth do I make Mural play nicely with Wordpress?\"",
+  "date": "2020-11-23T00:00:00.000Z",
+  "formattedDate": "November 23, 2020",
+  "tags": [],
+  "readingTime": 3.38,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Pete Haughie",
+      "url": "https://twitter.com/petehaughie"
+    }
+  ],
+  "nextItem": {
+    "title": "Mural selected for Grant for the Web funding",
+    "permalink": "/blog/2020/10/24/grant-for-the-web"
+  }
+}

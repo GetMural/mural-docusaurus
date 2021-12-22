@@ -1,0 +1,29 @@
+{
+  "unversionedId": "imageparallax",
+  "id": "imageparallax",
+  "title": "The Image Parallax Mural Item",
+  "description": "A Parallax image with text item has a still image with text that has a parallax scrolling effect, meaning that the text seems to move at a different speed than the image behind it. Select your image and input the text you want to display with it.",
+  "source": "@site/../docs/ImageParallax.md",
+  "sourceDirName": ".",
+  "slug": "/imageparallax",
+  "permalink": "/docs/imageparallax",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Naomi",
+  "lastUpdatedAt": 1603561501,
+  "formattedLastUpdatedAt": "10/24/2020",
+  "frontMatter": {
+    "id": "imageparallax",
+    "title": "The Image Parallax Mural Item",
+    "sidebar_label": "Image Parallax"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Image Background",
+    "permalink": "/docs/imagebackground"
+  },
+  "next": {
+    "title": "Vertical Slideshow",
+    "permalink": "/docs/verticalslideshow"
+  }
+}
