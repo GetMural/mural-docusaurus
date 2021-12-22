@@ -8,7 +8,7 @@ Imagine the scene: Two friends, Douglas Arellanes, (that’s me) and Pete Haughi
 
 <!--truncate-->
 
-![Great Eagle St London UK Mural](assets/introducing-mural.jpeg)
+![Great Eagle St London UK Mural](./assets/introducing-mural.jpeg)
 
 For quite some time, we’d been hearing that longform articles, and especially longform multimedia articles would be a crucial selling point for news organizations seeking to make their work stand out. The wave of hype surrounding projects like New York Times’ <a href="http://www.nytimes.com/projects/2012/snow-fall/index.html#/?part=tunnel-creek" target="_blank" rel="noopener noreferrer">_Snowfall_</a> and <a href="http://www.nytimes.com/newsgraphics/2013/10/27/south-china-sea/index.html" target="_blank" rel="noopener noreferrer">_Shark and Minnow_</a> and The Guardian’s <a href="https://www.theguardian.com/world/interactive/2013/may/26/firestorm-bushfire-dunalley-holmes-family" target="_blank" rel="noopener noreferrer">_Firestorm_</a> has come and gone, and it’s becoming fairly clear that only the biggest news organizations, with the technical capacity and budget to build multimedia projects from scratch, are able to do this on a regular basis. Some of the traditionally big digital players have tried with varying degrees of success to do longform digital media format. The BBC’s <a href="https://www.bbc.co.uk/news/resources/idt-sh/the_reykjavik_confessions" target="_blank" rel="noopener noreferrer">_The Reykjavik Confessions_</a> being a standout example of great content let down by less-than-great delivery.
 
