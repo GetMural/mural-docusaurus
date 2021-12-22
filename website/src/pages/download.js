@@ -24,7 +24,7 @@ function Download() {
   const { siteConfig = {} } = context;
 
   return (
-    <Layout title={siteConfig.title} description={siteConfig.tagline}>
+    <Layout title="Download" description={siteConfig.tagline}>
       <main>
         {downloads && (
           <section>

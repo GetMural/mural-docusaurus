@@ -8,7 +8,10 @@ function Webmonetization() {
   const { siteConfig = {} } = context;
 
   return (
-    <Layout title={siteConfig.title} description={siteConfig.tagline}>
+    <Layout
+      title="Mural's Webmonetization Support"
+      description={siteConfig.tagline}
+    >
       <main>
         <section className="container margin-vert--md">
           <h1>Mural's Webmonetization Support</h1>

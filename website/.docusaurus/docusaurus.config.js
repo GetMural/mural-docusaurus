@@ -9,7 +9,6 @@ export default {
     "https://buttons.github.io/buttons.js"
   ],
   "stylesheets": [
-    "https://fonts.googleapis.com/css?family=Ubuntu:400,400i,700",
     "https://cdn-images.mailchimp.com/embedcode/classic-10_7.css",
     {
       "href": "/css/carousel.min.css",

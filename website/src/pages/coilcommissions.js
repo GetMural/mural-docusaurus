@@ -191,7 +191,10 @@ function CoilCommissions() {
   const [artist, setArtist] = useState(commissions[0]);
 
   return (
-    <Layout title={siteConfig.title} description={siteConfig.tagline}>
+    <Layout
+      title="Mural Artist Commissions"
+      description="We are immensely proud to have worked with artists Melanie King, Louise O'Boyle, Olga Suchanova, Ronan Devlin, and Colin Frank."
+    >
       <main>
         <section className="container margin-vert--md">
           <h1>Mural Artist Commissions</h1>
