@@ -1,0 +1,25 @@
+{
+  "permalink": "/blog/2020/09/23/media-party-2020",
+  "source": "@site/blog/2020-09-23-media-party-2020.md",
+  "title": "Mural at Media Party 2020",
+  "description": "Recently Mural was just at Media Party 2020 where our own Douglas Arellanes was holding the session Building visual stories without a CMS using Mural, while I was manning the chat answering all text based questions you had about Mural!",
+  "date": "2020-09-23T00:00:00.000Z",
+  "formattedDate": "September 23, 2020",
+  "tags": [],
+  "readingTime": 0.795,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Naomi Aro",
+      "url": "https://twitter.com/naomiaro"
+    }
+  ],
+  "prevItem": {
+    "title": "Mural selected for Grant for the Web funding",
+    "permalink": "/blog/2020/10/24/grant-for-the-web"
+  },
+  "nextItem": {
+    "title": "Mural at Mozfest 2019",
+    "permalink": "/blog/2019/10/27/mozfest-2019"
+  }
+}

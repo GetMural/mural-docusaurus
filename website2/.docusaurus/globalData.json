@@ -1,0 +1,88 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "backgroundvideo",
+              "path": "/docs/backgroundvideo",
+              "sidebar": "docs"
+            },
+            {
+              "id": "centredtext",
+              "path": "/docs/centredtext",
+              "sidebar": "docs"
+            },
+            {
+              "id": "fullpagevideo",
+              "path": "/docs/fullpagevideo",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started",
+              "path": "/docs/getting-started",
+              "sidebar": "docs"
+            },
+            {
+              "id": "horizontalslideshow",
+              "path": "/docs/horizontalslideshow",
+              "sidebar": "docs"
+            },
+            {
+              "id": "how-it-works",
+              "path": "/docs/how-it-works",
+              "sidebar": "docs"
+            },
+            {
+              "id": "image-workflow",
+              "path": "/docs/image-workflow",
+              "sidebar": "docs"
+            },
+            {
+              "id": "imageaudio",
+              "path": "/docs/imageaudio",
+              "sidebar": "docs"
+            },
+            {
+              "id": "imagebackground",
+              "path": "/docs/imagebackground",
+              "sidebar": "docs"
+            },
+            {
+              "id": "imageparallax",
+              "path": "/docs/imageparallax",
+              "sidebar": "docs"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "docs"
+            },
+            {
+              "id": "metadata",
+              "path": "/docs/metadata",
+              "sidebar": "docs"
+            },
+            {
+              "id": "verticalslideshow",
+              "path": "/docs/verticalslideshow",
+              "sidebar": "docs"
+            },
+            {
+              "id": "youtube",
+              "path": "/docs/youtube",
+              "sidebar": "docs"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

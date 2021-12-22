@@ -11,5 +11,8 @@
   "devDependencies": {
     "docusaurus": "^1.14.7"
   },
-  "dependencies": {}
+  "dependencies": {
+    "react-player": "^2.9.0",
+    "react-responsive-carousel": "^3.2.22"
+  }
 }

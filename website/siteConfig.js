@@ -8,18 +8,6 @@
 // See https://docusaurus.io/docs/site-config for all the possible
 // site configuration options.
 
-// List of projects/orgs using your project for the users page.
-const users = [
-  {
-    caption: "User1",
-    // You will need to prepend the image path with your baseUrl
-    // if it is not '/', like: '/test-site/img/image.jpg'.
-    image: "/img/undraw_open_source.svg",
-    infoLink: "https://www.facebook.com",
-    pinned: true,
-  },
-];
-
 const siteConfig = {
   title: "Mural", // Title for your website.
   tagline: "Visual storytelling made easy",
@@ -39,14 +27,12 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     { page: "download", label: "Download" },
+    { page: "coilcommisions", label: "Coil Commissions" },
     { page: "stories", label: "Stories" },
     { doc: "intro", label: "Docs" },
     { page: "help", label: "Help" },
     { blog: true, label: "Blog" },
   ],
-
-  // If you have users set above, you add it here:
-  users,
 
   /* path to images for header/footer */
   headerIcon: "img/logo_small.svg",
@@ -103,6 +89,10 @@ const siteConfig = {
   stylesheets: [
     "https://fonts.googleapis.com/css?family=Ubuntu:400,400i,700",
     "https://cdn-images.mailchimp.com/embedcode/classic-10_7.css",
+    {
+      href: "/css/carousel.min.css",
+      type: "text/css",
+    },
   ],
 };
 

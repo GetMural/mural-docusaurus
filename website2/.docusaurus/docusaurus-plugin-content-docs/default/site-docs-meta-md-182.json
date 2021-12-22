@@ -1,0 +1,29 @@
+{
+  "unversionedId": "metadata",
+  "id": "metadata",
+  "title": "Story Metadata",
+  "description": "The metadata screen is where the information that describes the story to external sources is presented. This information is important to search engines and social media platforms as this is where the short description and image you see on Google and Facebook or Twitter comes from. It is also where you can add your Google Analytics identification number if you want.",
+  "source": "@site/../docs/meta.md",
+  "sourceDirName": ".",
+  "slug": "/metadata",
+  "permalink": "/docs/metadata",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "metadata",
+    "title": "Story Metadata",
+    "sidebar_label": "Metadata"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/getting-started"
+  },
+  "next": {
+    "title": "Background Video",
+    "permalink": "/docs/backgroundvideo"
+  }
+}

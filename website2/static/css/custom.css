@@ -1,0 +1,98 @@
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/* your custom css */
+
+body {
+  font-family: "Ubuntu", -apple-system, system-ui;
+}
+
+cite {
+  font-style: italic;
+}
+
+.center {
+  text-align: center;
+}
+
+.lead {
+  max-width: 500px;
+  font-size: 125%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.imageAlignSide {
+  align-items: center;
+}
+
+.imageAlignSide .blockImage {
+  flex: 0 1 350px;
+  max-width: 350px;
+  text-align: center;
+}
+
+.imageAlignSide .blockImage img {
+  max-height: 300px;
+}
+
+#try ul {
+  list-style: none;
+  padding: 0;
+}
+
+.nav-footer {
+  color: #a3e0bb;
+}
+
+.sponsor {
+  text-align: center;
+  background: white;
+}
+
+.heading {
+  color: white;
+  font-size: 14px;
+  margin: 0 0 10px;
+}
+
+#mc_embed_signup form {
+  padding: 0;
+}
+
+#mc_embed_signup .mc-field-group {
+  width: 85%;
+}
+
+.post-content>div:first-child a:link, .post>div a:link {
+  color: #1d70b8;
+  text-decoration: underline;
+}
+
+.post-content>div:first-child a:visited, .post>div a:visited {
+  color: #4c2c92;
+  text-decoration: underline;
+}
+
+.post-content>div:first-child a:focus, .post>div a:focus {
+  outline: 3px solid transparent;
+  background-color: #fcd700;
+  box-shadow: 0 -2px #fcd700, 0 2px #0b0c0c;
+  text-decoration: none;
+  color: #0b0c0c;
+}
+
+@media only screen and (min-width: 1024px) {
+  .imageAlignSide .blockImage {
+    flex: 0 1 450px;
+    max-width: 450px;
+  }
+}
+
+.storiesContainer a {
+  text-decoration: underline;
+}
