@@ -70,6 +70,11 @@ module.exports = {
           label: "Blog",
           position: "left",
         },
+        {
+          to: "/coilcommissions",
+          label: "Artist Commissions",
+          position: "left",
+        },
       ],
     },
     image: "uploads/mural_website/photographer_ice_sunrise.jpg",

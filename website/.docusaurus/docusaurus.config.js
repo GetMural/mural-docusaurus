@@ -71,6 +71,11 @@ export default {
           "to": "/blog",
           "label": "Blog",
           "position": "left"
+        },
+        {
+          "to": "/coilcommissions",
+          "label": "Artist Commissions",
+          "position": "left"
         }
       ],
       "hideOnScroll": false
