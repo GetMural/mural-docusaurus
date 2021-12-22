@@ -32,3 +32,11 @@ main a {
 .mailchimp {
   max-width: 600px;
 }
+
+.coilgallery {
+  max-width: 640px;
+}
+
+.coilgallery .carousel .slide iframe {
+  margin: 0;
+}
