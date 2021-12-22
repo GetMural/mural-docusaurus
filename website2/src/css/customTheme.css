@@ -26,5 +26,9 @@ main a {
 }
 
 .unsplash-img {
-  max-height: 180px;
+  height: 180px;
+}
+
+.mailchimp {
+  max-width: 600px;
 }

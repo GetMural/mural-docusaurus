@@ -3,6 +3,7 @@ import Layout from "@theme/Layout";
 import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import useBaseUrl from "@docusaurus/useBaseUrl";
+import MailChimpForm from "../components/MailChimpForm";
 
 const features = [
   {
@@ -94,7 +95,7 @@ function Home() {
                           />
                         </div>
                       )}
-                      <h3>{title}</h3>
+                      <h2>{title}</h2>
                       <p>{description}</p>
                     </div>
                   )
@@ -103,6 +104,11 @@ function Home() {
             </div>
           </section>
         )}
+        <section>
+          <div className="container margin-vert--xl mailchimp">
+            <MailChimpForm />
+          </div>
+        </section>
       </main>
     </Layout>
   );
