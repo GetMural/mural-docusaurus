@@ -97,20 +97,18 @@ const commissions = [
 
 const Artist = ({ title, artist, story, bio, img, website }) => {
   return (
-    <div className="col col--4">
-      <div className="card">
-        <div className="card__content padding--md">
-          <h3>{title}</h3>
-          <h4>{artist}</h4>
-          <img src={useBaseUrl(img)}></img>
-          <p>{bio}</p>
-          <p>
-            <Link to={website}>{website}</Link>
-          </p>
-          <p>
-            <Link to={story}>View the story</Link>
-          </p>
-        </div>
+    <div className="card">
+      <div className="card__content padding--md">
+        <h3>{title}</h3>
+        <h4>{artist}</h4>
+        <img src={useBaseUrl(img)}></img>
+        <p>{bio}</p>
+        <p>
+          <Link to={website}>{website}</Link>
+        </p>
+        <p>
+          <Link to={story}>View the story</Link>
+        </p>
       </div>
     </div>
   );
@@ -126,7 +124,6 @@ const VimeoSlide = ({ url, isSelected, volume, muted }) => {
       muted={muted}
       loop={true}
       controls={true}
-      vimeo={{ autoplay: false }}
     />
   );
 };
@@ -218,12 +215,15 @@ function CoilCommissions() {
             the use of web monetization.
           </p>
         </section>
-        <section
-          className="margin-vert--md padding--none container coilgallery"
-          style={{ maxWidth: "800px" }}
-        >
-          <VimeoAutoplayWithCustomThumbs onSlideChange={setArtist} />
-          <Artist {...artist}></Artist>
+        <section className="margin-vert--md padding--none container">
+          <div className="row">
+            <div className="col col--7" style={{ margin: "auto 0" }}>
+              <VimeoAutoplayWithCustomThumbs onSlideChange={setArtist} />
+            </div>
+            <div className="col col--5">
+              <Artist {...artist}></Artist>
+            </div>
+          </div>
         </section>
         <section className="container margin-vert--md">
           <h2>About the Mural artist commissions</h2>
