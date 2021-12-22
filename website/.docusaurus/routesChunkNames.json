@@ -1,171 +1,149 @@
 {
-  "/__docusaurus/debug-3d6": {
-    "component": "component---theme-debug-config-23-a-2ff"
-  },
-  "/__docusaurus/debug/config-914": {
-    "component": "component---theme-debug-config-23-a-2ff"
-  },
-  "/__docusaurus/debug/content-c28": {
-    "component": "component---theme-debug-contentba-8-ce7",
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
-  },
-  "/__docusaurus/debug/globalData-3cf": {
-    "component": "component---theme-debug-global-dataede-0fa"
-  },
-  "/__docusaurus/debug/metadata-31b": {
-    "component": "component---theme-debug-site-metadata-68-e-3d4"
-  },
-  "/__docusaurus/debug/registry-0da": {
-    "component": "component---theme-debug-registry-679-501"
-  },
-  "/__docusaurus/debug/routes-244": {
-    "component": "component---theme-debug-routes-946-699"
-  },
   "/blog-ef8": {
-    "component": "component---theme-blog-list-pagea-6-a-7ba",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "a6aa9e1f",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-3-eb-f06"
+        "content": "3ebd6eda"
       },
       {
-        "content": "content---blog-8-f-6-8eb"
+        "content": "8f6c4fb4"
       },
       {
-        "content": "content---blog-7-a-9-617"
+        "content": "7a9b440f"
       },
       {
-        "content": "content---blog-1-de-f58"
+        "content": "1ded6e6d"
       },
       {
-        "content": "content---blog-1-eb-173"
+        "content": "1ebc7294"
       },
       {
-        "content": "content---blogbe-1-c6b"
+        "content": "be162dd5"
       }
     ],
-    "metadata": "metadata---blogb-2-b-df1"
+    "metadata": "b2b675dd"
   },
   "/blog/2017/07/06/introducing-mural-029": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2017-07-06-introducing-murala-04-a45"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "a042fa34"
   },
   "/blog/2018/06/04/what-we-learned-e35": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2018-06-04-what-we-learned-60-b-e90"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "60b058f3"
   },
   "/blog/2019/10/27/mozfest-2019-95f": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2019-10-27-mozfest-2019-da-7-8f3"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "da78a363"
   },
   "/blog/2020/09/23/media-party-2020-ed3": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2020-09-23-media-party-202090-b-0c3"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "90b6a867"
   },
   "/blog/2020/10/24/grant-for-the-web-faf": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2020-10-24-grant-for-the-web-113-256"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "1130ce56"
   },
   "/blog/2020/11/23/mural-and-wordpress-b81": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2020-11-23-mural-and-wordpressd-4-b-1dc"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "d4b2a223"
   },
   "/blog/archive-f4c": {
-    "component": "component---theme-blog-archive-page-9-e-4-1d8",
-    "archive": "archive---blog-archiveb-2-f-393"
+    "component": "9e4087bc",
+    "archive": "b2f554cd"
   },
   "/coilcommissions-f17": {
-    "component": "component---site-src-pages-coilcommissions-js-130-dcc",
-    "config": "config---coilcommissions-5-e-9-847"
+    "component": "130749be",
+    "config": "5e9f5e1a"
   },
   "/cookies-dcd": {
-    "component": "component---site-src-pages-cookies-js-7-f-0-165",
-    "config": "config---coilcommissions-5-e-9-847"
+    "component": "7f00623e",
+    "config": "5e9f5e1a"
   },
   "/download-344": {
-    "component": "component---site-src-pages-download-jsf-15-069",
-    "config": "config---coilcommissions-5-e-9-847"
+    "component": "f15f6e84",
+    "config": "5e9f5e1a"
   },
   "/help-416": {
-    "component": "component---site-src-pages-help-js-7-e-3-222",
-    "config": "config---coilcommissions-5-e-9-847"
+    "component": "7e37206e",
+    "config": "5e9f5e1a"
   },
   "/privacy-b45": {
-    "component": "component---site-src-pages-privacy-jse-0-d-82a",
-    "config": "config---coilcommissions-5-e-9-847"
+    "component": "e0d07498",
+    "config": "5e9f5e1a"
   },
   "/stories-534": {
-    "component": "component---site-src-pages-stories-js-3-f-5-90f",
-    "config": "config---coilcommissions-5-e-9-847"
+    "component": "3f5b7a6e",
+    "config": "5e9f5e1a"
   },
   "/docs-61e": {
-    "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---docs-935-398"
+    "component": "1be78505",
+    "versionMetadata": "935f2afb"
   },
   "/docs/backgroundvideo-0ed": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-backgroundvideof-28-1c6"
+    "component": "17896441",
+    "content": "f2866f83"
   },
   "/docs/centredtext-1ed": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-centredtextc-7-a-1e5"
+    "component": "17896441",
+    "content": "c7aedd49"
   },
   "/docs/fullpagevideo-fd2": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-fullpagevideoacf-71b"
+    "component": "17896441",
+    "content": "acf19f19"
   },
   "/docs/getting-started-0ee": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-getting-started-8-d-0-4ab"
+    "component": "17896441",
+    "content": "8d0344ba"
   },
   "/docs/horizontalslideshow-c69": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-horizontalslideshow-19-e-5a3"
+    "component": "17896441",
+    "content": "19e044ce"
   },
   "/docs/how-it-works-402": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-how-it-works-5-cc-470"
+    "component": "17896441",
+    "content": "5cc1c77f"
   },
   "/docs/image-workflow-d5c": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-image-workflow-4-e-5-283"
+    "component": "17896441",
+    "content": "4e555b1c"
   },
   "/docs/imageaudio-021": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-imageaudio-250-2e8"
+    "component": "17896441",
+    "content": "2509d01c"
   },
   "/docs/imagebackground-d76": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-imagebackground-5-b-7-f4d"
+    "component": "17896441",
+    "content": "5b73639a"
   },
   "/docs/imageparallax-cd7": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-imageparallax-0-b-3-306"
+    "component": "17896441",
+    "content": "0b3b56cf"
   },
   "/docs/intro-a16": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-introf-6-d-274"
+    "component": "17896441",
+    "content": "f6d69ff8"
   },
   "/docs/metadata-066": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-metadata-182-01c"
+    "component": "17896441",
+    "content": "182adbc3"
   },
   "/docs/verticalslideshow-bee": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-verticalslideshow-1-de-b05"
+    "component": "17896441",
+    "content": "1deebc0a"
   },
   "/docs/youtube-7d9": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-youtube-5-a-8-ac1"
+    "component": "17896441",
+    "content": "5a8123fc"
   },
   "/-deb": {
-    "component": "component---site-src-pages-index-jsc-4-f-f99",
-    "config": "config---coilcommissions-5-e-9-847"
+    "component": "c4f5d8e4",
+    "config": "5e9f5e1a"
   }
 }
