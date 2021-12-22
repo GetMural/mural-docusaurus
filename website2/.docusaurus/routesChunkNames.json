@@ -80,17 +80,25 @@
     "component": "component---theme-blog-archive-page-9-e-4-1d8",
     "archive": "archive---blog-archiveb-2-f-393"
   },
+  "/cookies-dcd": {
+    "component": "component---site-src-pages-cookies-js-7-f-0-165",
+    "config": "config---cookies-5-e-9-e52"
+  },
   "/download-344": {
     "component": "component---site-src-pages-download-jsf-15-069",
-    "config": "config---download-5-e-9-a88"
+    "config": "config---cookies-5-e-9-e52"
   },
   "/help-416": {
     "component": "component---site-src-pages-help-js-7-e-3-222",
-    "config": "config---download-5-e-9-a88"
+    "config": "config---cookies-5-e-9-e52"
+  },
+  "/privacy-b45": {
+    "component": "component---site-src-pages-privacy-jse-0-d-82a",
+    "config": "config---cookies-5-e-9-e52"
   },
   "/stories-534": {
     "component": "component---site-src-pages-stories-js-3-f-5-90f",
-    "config": "config---download-5-e-9-a88"
+    "config": "config---cookies-5-e-9-e52"
   },
   "/docs-61e": {
     "component": "component---theme-doc-page-1-be-9be",
@@ -154,6 +162,6 @@
   },
   "/-deb": {
     "component": "component---site-src-pages-index-jsc-4-f-f99",
-    "config": "config---download-5-e-9-a88"
+    "config": "config---cookies-5-e-9-e52"
   }
 }

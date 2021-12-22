@@ -708,6 +708,11 @@
     "default": [
       {
         "type": "jsx",
+        "permalink": "/cookies",
+        "source": "@site/src/pages/cookies.js"
+      },
+      {
+        "type": "jsx",
         "permalink": "/download",
         "source": "@site/src/pages/download.js"
       },
@@ -720,6 +725,11 @@
         "type": "jsx",
         "permalink": "/",
         "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/privacy",
+        "source": "@site/src/pages/privacy.js"
       },
       {
         "type": "jsx",

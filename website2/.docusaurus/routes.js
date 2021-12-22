@@ -79,6 +79,11 @@ export default [
     exact: true
   },
   {
+    path: '/cookies',
+    component: ComponentCreator('/cookies','dcd'),
+    exact: true
+  },
+  {
     path: '/download',
     component: ComponentCreator('/download','344'),
     exact: true
@@ -86,6 +91,11 @@ export default [
   {
     path: '/help',
     component: ComponentCreator('/help','416'),
+    exact: true
+  },
+  {
+    path: '/privacy',
+    component: ComponentCreator('/privacy','b45'),
     exact: true
   },
   {

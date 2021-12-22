@@ -8,7 +8,7 @@
   --ifm-color-primary-darkest: #242747;
 }
 
-ul {
+ul[role] {
   list-style: none;
 }
 
