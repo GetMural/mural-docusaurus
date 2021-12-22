@@ -3,7 +3,6 @@ name: Production S3
 on:
   push:
     branches: [main]
-    paths: [website/**]
 
 jobs:
   deploy:
