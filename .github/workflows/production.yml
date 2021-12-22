@@ -3,26 +3,21 @@ name: Production S3
 on:
   push:
     branches: [main]
+    paths: [website/**]
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [14.x]
     steps:
       - uses: actions/checkout@v2
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v2
+      - uses: actions/setup-node@v2
         with:
-          node-version: ${{ matrix.node-version }}
-      - name: NPM Install
-        working-directory: ./website
+          node-version: 14.x
+          cache: npm
+      - name: Build website
+        working-directory: website
         run: |
           npm ci
-      - name: Production Build
-        working-directory: ./website
-        run: |
           npm run build
       - name: Deploy to S3
         uses: jakejarvis/s3-sync-action@master
