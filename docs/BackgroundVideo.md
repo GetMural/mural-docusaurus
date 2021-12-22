@@ -6,11 +6,11 @@ sidebar_label: Background Video
 
 The Background Video item has video that is intended to play behind headline, subtitle, and/or body text. Background videos do not have player controls, and by default will continuously loop their playback.
 
-![Mural's BackgroundVideo item on phone](assets/output/BackgroundVideo-phone.png "Mural's BackgroundVideo item on phone")
+![Mural's BackgroundVideo item on phone](./assets/output/BackgroundVideo-phone.png "Mural's BackgroundVideo item on phone")
 
-![Mural's BackgroundVideo item on tablet](assets/output/BackgroundVideo-tablet.png "Mural's BackgroundVideo item on tablet")
+![Mural's BackgroundVideo item on tablet](./assets/output/BackgroundVideo-tablet.png "Mural's BackgroundVideo item on tablet")
 
-![Mural's BackgroundVideo item on desktop](assets/output/BackgroundVideo-desktop.png "Mural's BackgroundVideo item on desktop")
+![Mural's BackgroundVideo item on desktop](./assets/output/BackgroundVideo-desktop.png "Mural's BackgroundVideo item on desktop")
 
 ## Fullpage
 
@@ -62,7 +62,7 @@ lets you set an arbitrary value for your offset. This may take some trial and er
 
 ## Background Text Box
 
-![alt text](assets/BackgroundTextBox.png "Background Text Box")
+![alt text](./assets/BackgroundTextBox.png "Background Text Box")
 
 You can set the colour and opacity of the text background box. This is especially helpful for improving text readability for videos where the colour includes both light and dark areas. By picking a background colour and opacity level, you can have a more consistent background for your text. The text box colour and opacity can be set when the `Active` checkbox is ticked.
 

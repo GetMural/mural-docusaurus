@@ -6,11 +6,11 @@ sidebar_label: Image Background
 
 An Image Background item has a still image that takes up the entire screen, but which has title, subtitle, and body text over it as well as the possibility for looping audio. An Image Background item's image remains unmoving when a user scrolls until all of the text has scrolled. Then the story advances to the next item.
 
-![Mural's Image Background item on phone](assets/output/ImageBackground-phone.png "Mural's Image Background item on phone")
+![Mural's Image Background item on phone](./assets/output/ImageBackground-phone.png "Mural's Image Background item on phone")
 
-![Mural's Image Background item on tablet](assets/output/ImageBackground-tablet.png "Mural's Image Background item on tablet")
+![Mural's Image Background item on tablet](./assets/output/ImageBackground-tablet.png "Mural's Image Background item on tablet")
 
-![Mural's Image Background item on desktop](assets/output/ImageBackground-desktop.png "Mural's Image Background item on desktop")
+![Mural's Image Background item on desktop](./assets/output/ImageBackground-desktop.png "Mural's Image Background item on desktop")
 
 ## Fullpage
 

@@ -6,11 +6,11 @@ sidebar_label: Centred Text
 
 A Centred text item handles a large amount of text, laid out in the center of the screen, and can have images on left, right, or middle of the text column. This is good for the parts of your story which have long texts.
 
-![Mural's Centred Text item on phone](assets/output/CentredText-phone.png "Mural's Centred Text item on phone")
+![Mural's Centred Text item on phone](./assets/output/CentredText-phone.png "Mural's Centred Text item on phone")
 
-![Mural's Centred Text item on tablet](assets/output/CentredText-tablet.png "Mural's Centred Text item on tablet")
+![Mural's Centred Text item on tablet](./assets/output/CentredText-tablet.png "Mural's Centred Text item on tablet")
 
-![Mural's Centred Text item on desktop](assets/output/CentredText-desktop.png "Mural's Centred Text item on desktop")
+![Mural's Centred Text item on desktop](./assets/output/CentredText-desktop.png "Mural's Centred Text item on desktop")
 
 ## Light
 
@@ -52,7 +52,7 @@ This is where your body text goes, until you decide to add another content block
 
 You can embed other content into the text area. To do so, click the Code View `</>` button in the browser to see the HTML code, as is seen below:
 
-![alt text](assets/centredtext_embed.png "Google maps embed iframe")
+![alt text](./assets/centredtext_embed.png "Google maps embed iframe")
 
 Paste your embed code where you want it to be placed in the text. When you click the Code View `</>` button again, the text window will be back in WYSIWYG mode, and you should be able to see your embed. **CAUTION** you must switch back to WYSIWYG view after a code edit to make the changes take effect.
 

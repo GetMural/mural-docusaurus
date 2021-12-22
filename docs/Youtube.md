@@ -6,11 +6,11 @@ sidebar_label: Youtube
 
 A YouTube item sets a YouTube video to play in a full frame in a Mural story. Playback is triggered automatically by scrolling down into the item, or by the user clicking on the YouTube “play” button in the center of the video.
 
-![Mural's Youtube item on phon](assets/output/Youtube-phone.png "Mural's Youtube item on phone")
+![Mural's Youtube item on phon](./assets/output/Youtube-phone.png "Mural's Youtube item on phone")
 
-![Mural's Youtube item on tablet](assets/output/Youtube-tablet.png "Mural's Youtube item on tablet")
+![Mural's Youtube item on tablet](./assets/output/Youtube-tablet.png "Mural's Youtube item on tablet")
 
-![Mural's Youtube item on desktop](assets/output/Youtube-desktop.png "Mural's Youtube item on desktop")
+![Mural's Youtube item on desktop](./assets/output/Youtube-desktop.png "Mural's Youtube item on desktop")
 
 ## YouTube ID
 
@@ -27,4 +27,4 @@ When this switch is selected, YouTube’s controls (for things like play/pause, 
 When this switch is selected, the item will automatically scroll to the next item when the video playback is finished.
 **NOTE**: Certain YouTube videos - especially music videos managed by Vevo - are not allowed to be used outside the YouTube site. This is specified by the video’s copyright holder and is outside our control. In such an event YouTube will display an error and you will have to use another piece of content for your story.
 
-![alt text](assets/youtube_editor.png "Mural's Youtube item")
+![alt text](./assets/youtube_editor.png "Mural's Youtube item")
