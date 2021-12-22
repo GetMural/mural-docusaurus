@@ -297,6 +297,19 @@ function CoilCommissions() {
             approximately USD $0.34 per hour - enough to make it affordable for
             users.
           </p>
+          <p>
+            A key point for our involvement with Coil is their use of a
+            cryptocurrency called XRP. As opposed to currencies like Bitcoin and
+            Ethereum, Coil uses XRP, which uses a system called ‘proof of stake’
+            for preparing its blockchain. This is a system that has considerably
+            better environmental implications than Ethereum - the main
+            blockchain used when creating NFTs - because it uses far less
+            computing resources.
+          </p>
+          <p>
+            We’re grateful to Grant for the Web and its community for their
+            support during the “Web monetization and the arts” project.
+          </p>
         </section>
       </main>
     </Layout>
