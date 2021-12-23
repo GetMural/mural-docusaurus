@@ -58,3 +58,12 @@ html[data-theme="light"]
   .control-prev.control-arrow:before {
   border-right: 8px solid #000;
 }
+
+html[data-theme="dark"] .carousel .thumb {
+  border: 3px solid #000;
+}
+
+html[data-theme="dark"] .carousel .thumb.selected,
+html[data-theme="dark"] .carousel .thumb:hover {
+  border: 3px solid #fcd700;
+}
