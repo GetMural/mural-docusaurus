@@ -64,21 +64,20 @@ function Help() {
             This project is maintained by a dedicated group of people.
           </p>
           <ul role="list">
-            {/* <Link to="https://twitter.com/dougiegyro">@dougiegyro</Link> */}
             <li>
-              <a href="https://twitter.com/dougiegyro" className="twitter">
+              <Link className="twitter" to="https://twitter.com/dougiegyro">
                 @dougiegyro
-              </a>
+              </Link>
             </li>
             <li>
-              <a href="https://twitter.com/PeteHaughie" className="twitter">
+              <Link className="twitter" to="https://twitter.com/PeteHaughie">
                 @petehaughie
-              </a>
+              </Link>
             </li>
             <li>
-              <a href="https://twitter.com/naomiaro" className="twitter">
+              <Link className="twitter" to="https://twitter.com/naomiaro">
                 @naomiaro
-              </a>
+              </Link>
             </li>
           </ul>
         </div>
