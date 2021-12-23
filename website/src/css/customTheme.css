@@ -41,10 +41,20 @@ main a {
   max-width: 600px;
 }
 
-.coilgallery {
-  max-width: 800px;
-}
-
 .coilgallery .carousel .slide iframe {
   margin: 0;
+}
+
+html[data-theme="light"]
+  .carousel
+  .thumbs-wrapper
+  .control-next.control-arrow:before {
+  border-left: 8px solid #000;
+}
+
+html[data-theme="light"]
+  .carousel
+  .thumbs-wrapper
+  .control-prev.control-arrow:before {
+  border-right: 8px solid #000;
 }

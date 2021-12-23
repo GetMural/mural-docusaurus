@@ -147,6 +147,7 @@ const VimeoAutoplayWithCustomThumbs = ({ onSlideChange }) => {
       thumbWidth={200}
       infiniteLoop={true}
       onChange={(index) => onSlideChange(commissions[index])}
+      className="coilgallery"
     >
       <VimeoSlide
         volume={0}
