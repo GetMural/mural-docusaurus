@@ -201,7 +201,8 @@ function CoilCommissions() {
           <p>
             The latest version of Mural has been made possible as part of a
             project called “Web monetization and the arts,” which has been
-            generously supported by Grant for the Web.{" "}
+            generously supported by{" "}
+            <Link to="http://www.grantfortheweb.org">Grant for the Web.</Link>
           </p>
           <p>
             With the latest version of Mural, we also wanted to work with
@@ -246,8 +247,11 @@ function CoilCommissions() {
             Each commission is available for you to view below. You can see most
             of each artwork for free, but you can also support the artist and
             see additional material if you have a Coil wallet. If you would like
-            to set up a Coil wallet to see the full pieces, go here and follow
-            the instructions.
+            to set up a Coil wallet to see the full pieces,{" "}
+            <Link to="https://help.coil.com/docs/membership/get-membership/index.html">
+              go here and follow the instructions
+            </Link>
+            .
           </p>
           <p>
             Our heartfelt thanks go to the artists and development team who
@@ -279,15 +283,15 @@ function CoilCommissions() {
           </p>
           <p>
             Web monetization streams micropayments directly from web users to
-            content creators. You can find out more about web{" "}
-            <Link to="http://www.webmonetization.org">monetization</Link> and
-            the <Link to="http://interledger.org">Interledger</Link> protocol
-            that underpins it.{" "}
+            content creators. You can find out more about{" "}
+            <Link to="http://www.webmonetization.org">web monetization</Link>{" "}
+            and the <Link to="http://interledger.org">Interledger</Link>{" "}
+            protocol that underpins it.{" "}
           </p>
           <p>
             Two things have to happen in order for the web monetization to work.
             On the user side, people sign up for a service that supports web
-            monetization - currently that’s Coil. Coil users pay $5 USD per
+            monetization - currently that's Coil. Coil users pay $5 USD per
             month into their Coil wallet - which is stored securely in a plugin
             on their browser - which is paid directly to the creators in the
             form of a cryptocurrency called XRP.
@@ -303,14 +307,14 @@ function CoilCommissions() {
           <p>
             A key point for our involvement with Coil is their use of a
             cryptocurrency called XRP. As opposed to currencies like Bitcoin and
-            Ethereum, Coil uses XRP, which uses a system called ‘proof of stake’
+            Ethereum, Coil uses XRP, which uses a system called 'proof of stake'
             for preparing its blockchain. This is a system that has considerably
             better environmental implications than Ethereum - the main
             blockchain used when creating NFTs - because it uses far less
             computing resources.
           </p>
           <p>
-            We’re grateful to Grant for the Web and its community for their
+            We're grateful to Grant for the Web and its community for their
             support during the “Web monetization and the arts” project.
           </p>
         </section>
