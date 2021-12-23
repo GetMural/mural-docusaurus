@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import Layout from "@theme/Layout";
 import Link from "@docusaurus/Link";
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import useBaseUrl from "@docusaurus/useBaseUrl";
 import ReactPlayer from "react-player/vimeo";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
@@ -25,6 +24,9 @@ const commissions = [
     ),
     img: "img/coil/melanie_640.jpg",
     website: "https://www.melaniek.co.uk",
+    thumbnail: "img/coil/melanie_200.jpg",
+    video: "https://vimeo.com/651937446",
+    key: "melanie",
   },
 
   {
@@ -43,6 +45,9 @@ const commissions = [
     ),
     img: "img/coil/olga_640.jpg",
     website: "https://www.instagram.com/olgasuchanova01",
+    thumbnail: "img/coil/olga_200.jpg",
+    video: "https://vimeo.com/652499841",
+    key: "olga",
   },
   {
     title: "Transforming Discarded Objects",
@@ -60,6 +65,9 @@ const commissions = [
     ),
     img: "img/coil/colin_640.jpg",
     website: "http://www.colinfranksounding.com/",
+    thumbnail: "img/coil/colin_200.jpg",
+    video: "https://vimeo.com/651603357",
+    key: "colin",
   },
   {
     title: "Breathe",
@@ -67,7 +75,7 @@ const commissions = [
     story: "https://stories.getmural.io/artists/o-boyle/breathe/",
     bio: (
       <>
-        Louise O’Boyle is an Artist, Educator and Researcher. Their arts
+        Louise O'Boyle is an Artist, Educator and Researcher. Their arts
         practice focuses on the relationship between arts, health and wellbeing.
         Current work includes challenging attitudes towards mental ill health,
         the promotion of emotional wellbeing and our connections to our
@@ -77,6 +85,9 @@ const commissions = [
     ),
     img: "img/coil/louise_640.jpg",
     website: "https://www.louiseoboyle.com/",
+    thumbnail: "img/coil/louise_200.jpg",
+    video: "https://vimeo.com/658647662",
+    key: "louise",
   },
   {
     title: "Phosphenes",
@@ -92,17 +103,22 @@ const commissions = [
     ),
     img: "img/coil/ronan_640.jpg",
     website: "https://ronandevlin.com/",
+    thumbnail: "img/coil/ronan_200.jpg",
+    video: "https://vimeo.com/652599810",
+    key: "ronan",
   },
 ];
 
 const Artist = ({ title, artist, story, bio, img, website }) => {
+  const url = useBaseUrl(img);
+
   return (
     <div className="card">
       <div className="card__content padding--md">
         <h3>{title}</h3>
         <h4>{artist}</h4>
         <Link to={story}>
-          <img src={useBaseUrl(img)}></img>
+          <img src={url}></img>
         </Link>
         <p>{bio}</p>
         <p>
@@ -116,19 +132,17 @@ const Artist = ({ title, artist, story, bio, img, website }) => {
   );
 };
 
-const VimeoSlide = ({ url, isSelected, volume, muted }) => {
-  return (
-    <ReactPlayer
-      width="100%"
-      url={url}
-      playing={isSelected}
-      volume={volume}
-      muted={muted}
-      loop={true}
-      controls={true}
-    />
-  );
-};
+const VimeoSlide = ({ url, isSelected }) => (
+  <ReactPlayer
+    width="100%"
+    url={url}
+    playing={isSelected}
+    loop={true}
+    controls={true}
+    volume={0}
+    muted={true}
+  />
+);
 
 const VimeoAutoplayWithCustomThumbs = ({ onSlideChange }) => {
   const customRenderItem = (item, props) => {
@@ -149,48 +163,14 @@ const VimeoAutoplayWithCustomThumbs = ({ onSlideChange }) => {
       onChange={(index) => onSlideChange(commissions[index])}
       className="coilgallery"
     >
-      <VimeoSlide
-        volume={0}
-        muted={true}
-        key="melanie"
-        url="https://vimeo.com/651937446"
-        thumbnail={useBaseUrl("img/coil/melanie_200.jpg")}
-      />
-      <VimeoSlide
-        volume={0}
-        muted={true}
-        key="olga"
-        url="https://vimeo.com/652499841"
-        thumbnail={useBaseUrl("img/coil/olga_200.jpg")}
-      />
-      <VimeoSlide
-        volume={0}
-        muted={true}
-        key="colin"
-        url="https://vimeo.com/651603357"
-        thumbnail={useBaseUrl("img/coil/colin_200.jpg")}
-      />
-      <VimeoSlide
-        volume={0}
-        muted={true}
-        key="louise"
-        url="https://vimeo.com/658647662"
-        thumbnail={useBaseUrl("img/coil/louise_200.jpg")}
-      />
-      <VimeoSlide
-        volume={0}
-        muted={true}
-        key="ronan"
-        url="https://vimeo.com/652599810"
-        thumbnail={useBaseUrl("img/coil/ronan_200.jpg")}
-      />
+      {commissions.map(({ key, video, thumbnail }) => (
+        <VimeoSlide key={key} url={video} thumbnail={useBaseUrl(thumbnail)} />
+      ))}
     </Carousel>
   );
 };
 
 function CoilCommissions() {
-  const context = useDocusaurusContext();
-  const { siteConfig = {} } = context;
   const [artist, setArtist] = useState(commissions[0]);
 
   return (
@@ -217,14 +197,14 @@ function CoilCommissions() {
           </p>
           <p>
             We are immensely proud to have worked with artists Melanie King,
-            Louise O’Boyle, Olga Suchanova, Ronan Devlin and Colin Frank. They
+            Louise O'Boyle, Olga Suchanova, Ronan Devlin and Colin Frank. They
             have made a series of fascinating and moving works that also include
             the use of web monetization.
           </p>
         </section>
         <section className="margin-vert--md padding--none container">
           <div className="row">
-            <div className="col col--7" style={{ margin: "auto 0" }}>
+            <div className="col col--7 padding-top--lg">
               <VimeoAutoplayWithCustomThumbs onSlideChange={setArtist} />
             </div>
             <div className="col col--5">
