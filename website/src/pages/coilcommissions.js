@@ -101,7 +101,9 @@ const Artist = ({ title, artist, story, bio, img, website }) => {
       <div className="card__content padding--md">
         <h3>{title}</h3>
         <h4>{artist}</h4>
-        <img src={useBaseUrl(img)}></img>
+        <Link to={story}>
+          <img src={useBaseUrl(img)}></img>
+        </Link>
         <p>{bio}</p>
         <p>
           <Link to={website}>{website}</Link>
