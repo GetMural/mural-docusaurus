@@ -1,10 +1,10 @@
 ---
-id: youtube
-title: The Youtube Mural Item
-sidebar_label: Youtube
+id: embed
+title: The Embed Video Mural Item
+sidebar_label: embed
 ---
 
-A YouTube item sets a YouTube video to play in a full frame in a Mural story. Playback is triggered automatically by scrolling down into the item, or by the user clicking on the YouTube “play” button in the center of the video.
+A Video Embed item sets a video from YouTube, Vimeo or Daily Motion to play in a full frame in a Mural story. Playback is triggered automatically by scrolling down into the item, or by the user clicking on the YouTube “play” button in the center of the video.
 
 ![Mural's Youtube item on phon](./assets/output/Youtube-phone.png "Mural's Youtube item on phone")
 
@@ -12,15 +12,15 @@ A YouTube item sets a YouTube video to play in a full frame in a Mural story. Pl
 
 ![Mural's Youtube item on desktop](./assets/output/Youtube-desktop.png "Mural's Youtube item on desktop")
 
-## YouTube ID
+## Embed Link 
 
-The code YouTube uses for a video. If a video has a URL of https://www.youtube.com/watch?v=jCK44VKzeS4, you would disregard everything before the equals sign, and input `jCK44VKzeS4`
+The URL of the YouTube, Vimeo or Daily Motion video. The Embed Video item uses the entire URL. IF the URL is read correctly, a preview of the video will appear below the Embed Link field.
 
 ## Options
 
-### Controls
+### Show controls
 
-When this switch is selected, YouTube’s controls (for things like play/pause, share and timeline) are visible. When the switch is off, only the minimum controls required by YouTube are displayed.
+When this switch is selected, the video platform’s controls (for things like play/pause, share and timeline) are visible. When the switch is off, only the minimum controls required by the video platform are displayed.
 
 ### Auto-advance
 
