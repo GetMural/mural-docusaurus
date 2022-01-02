@@ -12,29 +12,33 @@ A Horizontal slideshow item refers to a collection of images that can be display
 
 ![Mural's Horizontal Slideshow item on desktop](./assets/output/HorizontalSlideshow-desktop.png "Mural's Horizontal Slideshow item on desktop")
 
-`Slide [+]` Clicking this adds another slide to the slideshow. You can have as many slides in the slideshow as you want. For optimal results large slideshows are discouraged as currently all images for a slideshow are bulk loaded as a set.
+`Add item` Clicking this button adds another slide to the slideshow. You can have as many slides in the slideshow as you want. For optimal results long slideshows are discouraged as currently all images for a slideshow are bulk loaded as a set.
 
-## Title
+## Slideshow Title
 
-This is for the title of the individual slide
+This is for the title of the entire slideshow.
 
-## Credits
+## Navigation
 
-This is for the image credit
+This is where you write the text you want to appear in the story's navigation menu.
 
-## Image Sources
+## Items
 
-### Small image
+### Upload image
 
-This image is for display on mobile. The small image works best at 1080 x 1920. (mobile portrait)
+This is where you select the image to be uploaded. Images can be in common formats such as .gif and .jpg. Images for the slideshows must be uploaded from your computer's file system - you cannot use image URLs in the horizontal slideshow.
 
-### Medium image
+### Slide title
 
-This image will be for display on older computers with lower-resolution screens or tablets. The medium image works best at 768 x 1024. (tablet portrait)
+This is where you write the text for the individual slide. 
 
-### Large image
+### Slide credits
 
-This image will be for display on large and high-resolution screens. The large image works best at 1920 x 1080. (desktop landscape)
+This is where you write the text for the image credit, should you choose to use it.
+
+### Image alt text
+
+This is where you write the alt text for the individual slide.
 
 The width in pixels of each breakpoint of a Mural story window are:
 
