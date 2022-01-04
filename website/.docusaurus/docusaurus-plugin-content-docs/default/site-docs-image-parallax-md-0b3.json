@@ -1,29 +1,29 @@
 {
   "unversionedId": "imageparallax",
   "id": "imageparallax",
-  "title": "The Image Parallax Mural Item",
-  "description": "A Parallax image with text item has a still image with text that has a parallax scrolling effect, meaning that the text seems to move at a different speed than the image behind it. Select your image and input the text you want to display with it.",
+  "title": "The Parallax Image Mural Item",
+  "description": "A Parallax image with text item has a still image with text that has a parallax scrolling effect, meaning that the text seems to move at a different speed than the image behind it. Select your image and input the text you want to display with it. The Parallax Image item is not intended for large amounts of text; for longer texts, consider using the Image Background item instead.",
   "source": "@site/../docs/ImageParallax.md",
   "sourceDirName": ".",
   "slug": "/imageparallax",
-  "permalink": "/docs/imageparallax",
+  "permalink": "/docs/2.0.0/imageparallax",
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "Naomi Aro",
-  "lastUpdatedAt": 1640164423,
-  "formattedLastUpdatedAt": "12/22/2021",
+  "lastUpdatedBy": "Douglas Arellanes",
+  "lastUpdatedAt": 1641146759,
+  "formattedLastUpdatedAt": "1/2/2022",
   "frontMatter": {
     "id": "imageparallax",
-    "title": "The Image Parallax Mural Item",
-    "sidebar_label": "Image Parallax"
+    "title": "The Parallax Image Mural Item",
+    "sidebar_label": "Parallax Image"
   },
   "sidebar": "docs",
   "previous": {
     "title": "Image Background",
-    "permalink": "/docs/imagebackground"
+    "permalink": "/docs/2.0.0/imagebackground"
   },
   "next": {
     "title": "Vertical Slideshow",
-    "permalink": "/docs/verticalslideshow"
+    "permalink": "/docs/2.0.0/verticalslideshow"
   }
 }

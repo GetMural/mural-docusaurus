@@ -1,0 +1,29 @@
+{
+  "unversionedId": "fullpagevideo",
+  "id": "version-0.4.0/fullpagevideo",
+  "title": "The Fullpage Video Mural Item",
+  "description": "The Fullpage video item refers to a section of your Mural story where there is a video that takes up the entire screen, and which has a play/pause button.",
+  "source": "@site/versioned_docs/version-0.4.0/FullpageVideo.md",
+  "sourceDirName": ".",
+  "slug": "/fullpagevideo",
+  "permalink": "/docs/0.4.0/fullpagevideo",
+  "tags": [],
+  "version": "0.4.0",
+  "lastUpdatedBy": "Naomi Aro",
+  "lastUpdatedAt": 1640890617,
+  "formattedLastUpdatedAt": "12/30/2021",
+  "frontMatter": {
+    "id": "fullpagevideo",
+    "title": "The Fullpage Video Mural Item",
+    "sidebar_label": "Fullpage Video"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Centred Text",
+    "permalink": "/docs/0.4.0/centredtext"
+  },
+  "next": {
+    "title": "Horizontal Slideshow",
+    "permalink": "/docs/0.4.0/horizontalslideshow"
+  }
+}

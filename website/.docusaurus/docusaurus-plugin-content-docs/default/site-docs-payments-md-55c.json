@@ -1,0 +1,20 @@
+{
+  "unversionedId": "payments",
+  "id": "payments",
+  "title": "The Mural Payments Menu",
+  "description": "The Payments menu in Mural 2",
+  "source": "@site/../docs/payments.md",
+  "sourceDirName": ".",
+  "slug": "/payments",
+  "permalink": "/docs/2.0.0/payments",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Douglas Arellanes",
+  "lastUpdatedAt": 1641152215,
+  "formattedLastUpdatedAt": "1/2/2022",
+  "frontMatter": {
+    "id": "payments",
+    "title": "The Mural Payments Menu",
+    "sidebar_label": "Payments Menu"
+  }
+}

@@ -27,6 +27,18 @@ module.exports = {
           showLastUpdateTime: true,
           path: "../docs",
           sidebarPath: "../website/sidebars.json",
+          lastVersion: "current",
+          versions: {
+            current: {
+              label: "2.0.0",
+              path: "2.0.0",
+            },
+            "0.4.0": {
+              label: "0.4.0",
+              path: "0.4.0",
+              banner: "unmaintained",
+            },
+          },
         },
         blog: {
           path: "blog",
@@ -59,7 +71,7 @@ module.exports = {
           position: "left",
         },
         {
-          to: "docs/intro",
+          to: "docs/2.0.0/intro",
           label: "Docs",
           position: "left",
         },
@@ -77,6 +89,10 @@ module.exports = {
           to: "/coilcommissions",
           label: "Artist Commissions",
           position: "left",
+        },
+        {
+          type: "docsVersionDropdown",
+          position: "right",
         },
       ],
     },

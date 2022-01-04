@@ -11,7 +11,7 @@
       "imagebackground",
       "imageparallax",
       "verticalslideshow",
-      "youtube"
+      "embed"
     ],
     "Workflow": ["image-workflow"]
   },

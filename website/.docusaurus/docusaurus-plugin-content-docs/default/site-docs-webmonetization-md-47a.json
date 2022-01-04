@@ -1,0 +1,20 @@
+{
+  "unversionedId": "webmonetization",
+  "id": "webmonetization",
+  "title": "What is web monetization?",
+  "description": "Support for web monetization in Mural",
+  "source": "@site/../docs/webmonetization.md",
+  "sourceDirName": ".",
+  "slug": "/webmonetization",
+  "permalink": "/docs/2.0.0/webmonetization",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Douglas Arellanes",
+  "lastUpdatedAt": 1641149732,
+  "formattedLastUpdatedAt": "1/2/2022",
+  "frontMatter": {
+    "id": "webmonetization",
+    "title": "What is web monetization?",
+    "sidebar_label": "What is web monetization?"
+  }
+}

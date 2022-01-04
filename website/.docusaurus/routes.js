@@ -79,92 +79,192 @@ export default [
     exact: true
   },
   {
-    path: '/docs/',
-    component: ComponentCreator('/docs/','25b'),
+    path: '/docs/0.4.0/',
+    component: ComponentCreator('/docs/0.4.0/','61a'),
     routes: [
       {
-        path: '/docs/backgroundvideo/',
-        component: ComponentCreator('/docs/backgroundvideo/','299'),
+        path: '/docs/0.4.0/backgroundvideo/',
+        component: ComponentCreator('/docs/0.4.0/backgroundvideo/','2d7'),
         exact: true,
         'sidebar': "docs"
       },
       {
-        path: '/docs/centredtext/',
-        component: ComponentCreator('/docs/centredtext/','234'),
+        path: '/docs/0.4.0/centredtext/',
+        component: ComponentCreator('/docs/0.4.0/centredtext/','aa6'),
         exact: true,
         'sidebar': "docs"
       },
       {
-        path: '/docs/fullpagevideo/',
-        component: ComponentCreator('/docs/fullpagevideo/','6b2'),
+        path: '/docs/0.4.0/fullpagevideo/',
+        component: ComponentCreator('/docs/0.4.0/fullpagevideo/','9f2'),
         exact: true,
         'sidebar': "docs"
       },
       {
-        path: '/docs/getting-started/',
-        component: ComponentCreator('/docs/getting-started/','26e'),
+        path: '/docs/0.4.0/getting-started/',
+        component: ComponentCreator('/docs/0.4.0/getting-started/','193'),
         exact: true,
         'sidebar': "docs"
       },
       {
-        path: '/docs/horizontalslideshow/',
-        component: ComponentCreator('/docs/horizontalslideshow/','8e7'),
+        path: '/docs/0.4.0/horizontalslideshow/',
+        component: ComponentCreator('/docs/0.4.0/horizontalslideshow/','769'),
         exact: true,
         'sidebar': "docs"
       },
       {
-        path: '/docs/how-it-works/',
-        component: ComponentCreator('/docs/how-it-works/','b9c'),
+        path: '/docs/0.4.0/how-it-works/',
+        component: ComponentCreator('/docs/0.4.0/how-it-works/','519'),
         exact: true,
         'sidebar': "docs"
       },
       {
-        path: '/docs/image-workflow/',
-        component: ComponentCreator('/docs/image-workflow/','7f6'),
+        path: '/docs/0.4.0/image-workflow/',
+        component: ComponentCreator('/docs/0.4.0/image-workflow/','206'),
         exact: true,
         'sidebar': "docs"
       },
       {
-        path: '/docs/imageaudio/',
-        component: ComponentCreator('/docs/imageaudio/','c2b'),
+        path: '/docs/0.4.0/imageaudio/',
+        component: ComponentCreator('/docs/0.4.0/imageaudio/','984'),
         exact: true,
         'sidebar': "docs"
       },
       {
-        path: '/docs/imagebackground/',
-        component: ComponentCreator('/docs/imagebackground/','1ca'),
+        path: '/docs/0.4.0/imagebackground/',
+        component: ComponentCreator('/docs/0.4.0/imagebackground/','502'),
         exact: true,
         'sidebar': "docs"
       },
       {
-        path: '/docs/imageparallax/',
-        component: ComponentCreator('/docs/imageparallax/','73e'),
+        path: '/docs/0.4.0/imageparallax/',
+        component: ComponentCreator('/docs/0.4.0/imageparallax/','bc1'),
         exact: true,
         'sidebar': "docs"
       },
       {
-        path: '/docs/intro/',
-        component: ComponentCreator('/docs/intro/','8f4'),
+        path: '/docs/0.4.0/intro/',
+        component: ComponentCreator('/docs/0.4.0/intro/','2fc'),
         exact: true,
         'sidebar': "docs"
       },
       {
-        path: '/docs/metadata/',
-        component: ComponentCreator('/docs/metadata/','941'),
+        path: '/docs/0.4.0/metadata/',
+        component: ComponentCreator('/docs/0.4.0/metadata/','dd9'),
         exact: true,
         'sidebar': "docs"
       },
       {
-        path: '/docs/verticalslideshow/',
-        component: ComponentCreator('/docs/verticalslideshow/','fba'),
+        path: '/docs/0.4.0/verticalslideshow/',
+        component: ComponentCreator('/docs/0.4.0/verticalslideshow/','46f'),
         exact: true,
         'sidebar': "docs"
       },
       {
-        path: '/docs/youtube/',
-        component: ComponentCreator('/docs/youtube/','8f2'),
+        path: '/docs/0.4.0/youtube/',
+        component: ComponentCreator('/docs/0.4.0/youtube/','829'),
         exact: true,
         'sidebar': "docs"
+      }
+    ]
+  },
+  {
+    path: '/docs/2.0.0/',
+    component: ComponentCreator('/docs/2.0.0/','966'),
+    routes: [
+      {
+        path: '/docs/2.0.0/backgroundvideo/',
+        component: ComponentCreator('/docs/2.0.0/backgroundvideo/','24e'),
+        exact: true,
+        'sidebar': "docs"
+      },
+      {
+        path: '/docs/2.0.0/centredtext/',
+        component: ComponentCreator('/docs/2.0.0/centredtext/','43b'),
+        exact: true,
+        'sidebar': "docs"
+      },
+      {
+        path: '/docs/2.0.0/embed/',
+        component: ComponentCreator('/docs/2.0.0/embed/','52d'),
+        exact: true,
+        'sidebar': "docs"
+      },
+      {
+        path: '/docs/2.0.0/fullpagevideo/',
+        component: ComponentCreator('/docs/2.0.0/fullpagevideo/','902'),
+        exact: true,
+        'sidebar': "docs"
+      },
+      {
+        path: '/docs/2.0.0/getting-started/',
+        component: ComponentCreator('/docs/2.0.0/getting-started/','68d'),
+        exact: true,
+        'sidebar': "docs"
+      },
+      {
+        path: '/docs/2.0.0/horizontalslideshow/',
+        component: ComponentCreator('/docs/2.0.0/horizontalslideshow/','4f7'),
+        exact: true,
+        'sidebar': "docs"
+      },
+      {
+        path: '/docs/2.0.0/how-it-works/',
+        component: ComponentCreator('/docs/2.0.0/how-it-works/','1c6'),
+        exact: true,
+        'sidebar': "docs"
+      },
+      {
+        path: '/docs/2.0.0/image-workflow/',
+        component: ComponentCreator('/docs/2.0.0/image-workflow/','a2f'),
+        exact: true,
+        'sidebar': "docs"
+      },
+      {
+        path: '/docs/2.0.0/imageaudio/',
+        component: ComponentCreator('/docs/2.0.0/imageaudio/','197'),
+        exact: true,
+        'sidebar': "docs"
+      },
+      {
+        path: '/docs/2.0.0/imagebackground/',
+        component: ComponentCreator('/docs/2.0.0/imagebackground/','3b5'),
+        exact: true,
+        'sidebar': "docs"
+      },
+      {
+        path: '/docs/2.0.0/imageparallax/',
+        component: ComponentCreator('/docs/2.0.0/imageparallax/','0ae'),
+        exact: true,
+        'sidebar': "docs"
+      },
+      {
+        path: '/docs/2.0.0/intro/',
+        component: ComponentCreator('/docs/2.0.0/intro/','517'),
+        exact: true,
+        'sidebar': "docs"
+      },
+      {
+        path: '/docs/2.0.0/metadata/',
+        component: ComponentCreator('/docs/2.0.0/metadata/','e0e'),
+        exact: true,
+        'sidebar': "docs"
+      },
+      {
+        path: '/docs/2.0.0/payments/',
+        component: ComponentCreator('/docs/2.0.0/payments/','103'),
+        exact: true
+      },
+      {
+        path: '/docs/2.0.0/verticalslideshow/',
+        component: ComponentCreator('/docs/2.0.0/verticalslideshow/','7b4'),
+        exact: true,
+        'sidebar': "docs"
+      },
+      {
+        path: '/docs/2.0.0/webmonetization/',
+        component: ComponentCreator('/docs/2.0.0/webmonetization/','16c'),
+        exact: true
       }
     ]
   },

@@ -1,0 +1,29 @@
+{
+  "unversionedId": "how-it-works",
+  "id": "version-0.4.0/how-it-works",
+  "title": "How Mural Works",
+  "description": "alt text",
+  "source": "@site/versioned_docs/version-0.4.0/how-it-works.md",
+  "sourceDirName": ".",
+  "slug": "/how-it-works",
+  "permalink": "/docs/0.4.0/how-it-works",
+  "tags": [],
+  "version": "0.4.0",
+  "lastUpdatedBy": "Naomi Aro",
+  "lastUpdatedAt": 1640890617,
+  "formattedLastUpdatedAt": "12/30/2021",
+  "frontMatter": {
+    "id": "how-it-works",
+    "title": "How Mural Works",
+    "sidebar_label": "How Mural works"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Intro",
+    "permalink": "/docs/0.4.0/intro"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/docs/0.4.0/getting-started"
+  }
+}

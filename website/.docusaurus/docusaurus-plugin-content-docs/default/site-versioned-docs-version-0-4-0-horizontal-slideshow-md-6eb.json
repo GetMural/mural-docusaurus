@@ -1,0 +1,29 @@
+{
+  "unversionedId": "horizontalslideshow",
+  "id": "version-0.4.0/horizontalslideshow",
+  "title": "The Horizontal Slideshow Mural Item",
+  "description": "A Horizontal slideshow item refers to a collection of images that can be displayed in a slideshow with controls on the left and right, and where the images advance horizontally when a user clicks on the control.",
+  "source": "@site/versioned_docs/version-0.4.0/HorizontalSlideshow.md",
+  "sourceDirName": ".",
+  "slug": "/horizontalslideshow",
+  "permalink": "/docs/0.4.0/horizontalslideshow",
+  "tags": [],
+  "version": "0.4.0",
+  "lastUpdatedBy": "Naomi Aro",
+  "lastUpdatedAt": 1640890617,
+  "formattedLastUpdatedAt": "12/30/2021",
+  "frontMatter": {
+    "id": "horizontalslideshow",
+    "title": "The Horizontal Slideshow Mural Item",
+    "sidebar_label": "Horizontal Slideshow"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Fullpage Video",
+    "permalink": "/docs/0.4.0/fullpagevideo"
+  },
+  "next": {
+    "title": "Image Audio",
+    "permalink": "/docs/0.4.0/imageaudio"
+  }
+}

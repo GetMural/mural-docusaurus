@@ -2,16 +2,16 @@
   "unversionedId": "fullpagevideo",
   "id": "fullpagevideo",
   "title": "The Fullpage Video Mural Item",
-  "description": "The Fullpage video item refers to a section of your Mural story where there is a video that takes up the entire screen, and which has a play/pause button.",
+  "description": "The Fullpage video item refers to a section of your Mural story where there is a video that takes up the entire screen with a play/pause button. There is less room for text in the Fullpage video item, usually a line or two, if any.",
   "source": "@site/../docs/FullpageVideo.md",
   "sourceDirName": ".",
   "slug": "/fullpagevideo",
-  "permalink": "/docs/fullpagevideo",
+  "permalink": "/docs/2.0.0/fullpagevideo",
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "Naomi Aro",
-  "lastUpdatedAt": 1640164423,
-  "formattedLastUpdatedAt": "12/22/2021",
+  "lastUpdatedBy": "Douglas Arellanes",
+  "lastUpdatedAt": 1641084816,
+  "formattedLastUpdatedAt": "1/1/2022",
   "frontMatter": {
     "id": "fullpagevideo",
     "title": "The Fullpage Video Mural Item",
@@ -20,10 +20,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Centred Text",
-    "permalink": "/docs/centredtext"
+    "permalink": "/docs/2.0.0/centredtext"
   },
   "next": {
     "title": "Horizontal Slideshow",
-    "permalink": "/docs/horizontalslideshow"
+    "permalink": "/docs/2.0.0/horizontalslideshow"
   }
 }

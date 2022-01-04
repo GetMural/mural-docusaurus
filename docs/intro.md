@@ -36,4 +36,4 @@ Mural is free and open source, and is licensed under the GNU Affero General Publ
 
 ## Funding
 
-Funding for the initial development of Mural was provided in Round 3 of Google's Digital News Initiative Prototype Fund.
+Funding for the initial development of Mural was provided in Round 3 of Google's Digital News Initiative Prototype Fund. Funding for Mural 2 was provided by a grant from Grant for the Web.

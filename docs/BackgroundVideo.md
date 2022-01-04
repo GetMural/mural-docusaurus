@@ -12,9 +12,13 @@ The Background Video item has video that is intended to play behind headline, su
 
 ![Mural's BackgroundVideo item on desktop](./assets/output/BackgroundVideo-desktop.png "Mural's BackgroundVideo item on desktop")
 
-## Fullpage
+## Video source
 
-This checkbox determines whether the final Mural story output will be more focused upon the video or the text. If the element is checked then your text will be forced towards the bottom of the Mural story window to allow more space for the video.
+Mural supports video from your computer or from a URL. Videos must be in the MP4 format. Apple .mov works as well, but you have to rename the file extension from .mov to .mp4.
+
+## Full page layout
+
+This checkbox determines whether the final Mural story layout will be more focused upon the video or the text. If the element is checked then your text will be forced towards the bottom of the Mural story window to allow more space for the video. If it's unchecked, the text appears in the upper left with a smaller headline.
 
 ## Title
 
@@ -22,27 +26,15 @@ This is where you write your title for the item, such as a headline.
 
 ## Subtitle
 
-If required you can have a subtitle for the item, such as a subheading.
+Text in this field appears in a smaller size below the main title.
 
 ## Text
 
 This is the main text of the Mural story output of this editor pane. It is in rich text and can be formatted to include links, bold, italicised, and other text modifications.
 
-## Video sources
-
-Both video formats have a preview window available. At least one format is required - these days all modern browsers play mp4 so webm is not strictly necessary.
-
-### MP4
-
-This is where you input your MP4 video file
-
-### Webm
-
-This is where you input your Webm video file
-
 ## Offset portrait video
 
-This lets you offset the video so that when a user holds their mobile phone vertically, the most important part of the video is shown to them. In all cases, the video will be stretched to fit the height of the mobile phone screen. There are four options to offset the video:
+This lets you offset the video so that when a user holds their mobile phone vertically, the most important part of the video is shown to them. In all cases, the video will be stretched to fit the height of the mobile phone screen. To see what the offset will do, we recommend that you stretch the Preview window to resemble the vertical alignment of a mobile phone. There are four options to offset the video:
 
 ### Left
 
@@ -62,18 +54,18 @@ lets you set an arbitrary value for your offset. This may take some trial and er
 
 ## Background Text Box
 
-![alt text](./assets/BackgroundTextBox.png "Background Text Box")
+![alt text](./assets/background-text-box-mural2.jpg "Background Text Box")
 
 You can set the colour and opacity of the text background box. This is especially helpful for improving text readability for videos where the colour includes both light and dark areas. By picking a background colour and opacity level, you can have a more consistent background for your text. The text box colour and opacity can be set when the `Active` checkbox is ticked.
 
-### Background Colour
+### Background Text Color
 
-You can set a background colour either by typing in the RGB color value in the form of three numbers between 0 and 255 separated by commas, or by clicking on a color using the color picker.
+You can set a background color either by selecting the RGB color from the picker or by typing in its hex value.
 
 ### Opacity
 
 You can set the level of opacity by moving the opacity slider. 0% opacity means the text background box is completely transparent and the background video is displayed at full intensity, while 100% opacity means that the text background box has a completely solid color.
 
-## Poster Image
+## Backup Image
 
-This is a still image that loads before the video and serves as an alternate.
+This is a still image that loads before the video and serves as an alternate in case your video doesn't play.

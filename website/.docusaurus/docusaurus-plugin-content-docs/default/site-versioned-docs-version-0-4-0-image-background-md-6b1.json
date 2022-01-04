@@ -1,0 +1,29 @@
+{
+  "unversionedId": "imagebackground",
+  "id": "version-0.4.0/imagebackground",
+  "title": "The Image Background Mural Item",
+  "description": "An Image Background item has a still image that takes up the entire screen, but which has title, subtitle, and body text over it as well as the possibility for looping audio. An Image Background item's image remains unmoving when a user scrolls until all of the text has scrolled. Then the story advances to the next item.",
+  "source": "@site/versioned_docs/version-0.4.0/ImageBackground.md",
+  "sourceDirName": ".",
+  "slug": "/imagebackground",
+  "permalink": "/docs/0.4.0/imagebackground",
+  "tags": [],
+  "version": "0.4.0",
+  "lastUpdatedBy": "Naomi Aro",
+  "lastUpdatedAt": 1640890617,
+  "formattedLastUpdatedAt": "12/30/2021",
+  "frontMatter": {
+    "id": "imagebackground",
+    "title": "The Image Background Mural Item",
+    "sidebar_label": "Image Background"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Image Audio",
+    "permalink": "/docs/0.4.0/imageaudio"
+  },
+  "next": {
+    "title": "Image Parallax",
+    "permalink": "/docs/0.4.0/imageparallax"
+  }
+}

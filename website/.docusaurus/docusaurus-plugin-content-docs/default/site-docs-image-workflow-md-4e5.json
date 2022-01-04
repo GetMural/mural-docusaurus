@@ -6,7 +6,7 @@
   "source": "@site/../docs/image-workflow.md",
   "sourceDirName": ".",
   "slug": "/image-workflow",
-  "permalink": "/docs/image-workflow",
+  "permalink": "/docs/2.0.0/image-workflow",
   "tags": [],
   "version": "current",
   "lastUpdatedBy": "naomiaro",
@@ -19,7 +19,7 @@
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Youtube",
-    "permalink": "/docs/youtube"
+    "title": "Embed Video",
+    "permalink": "/docs/2.0.0/embed"
   }
 }

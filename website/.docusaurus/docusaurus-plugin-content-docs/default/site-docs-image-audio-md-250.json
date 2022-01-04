@@ -2,16 +2,16 @@
   "unversionedId": "imageaudio",
   "id": "imageaudio",
   "title": "The Image Audio Mural Item",
-  "description": "An Image Audio item is a still image that can play audio in the background. This is useful for ambient, environmental sound, or for sound material with images attached. An audio file attached to an Image Audio item will loop until the user scrolls away to advance to the next item.",
+  "description": "An Image Audio item is a still image that can play audio in the background. This is useful for ambient, environmental sound, or for sound material with images attached. An audio file attached to an Image Audio item will play until the user scrolls away to advance to the next item. Audio files can be looped for continuous play until the user scrolls away.",
   "source": "@site/../docs/ImageAudio.md",
   "sourceDirName": ".",
   "slug": "/imageaudio",
-  "permalink": "/docs/imageaudio",
+  "permalink": "/docs/2.0.0/imageaudio",
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "Naomi Aro",
-  "lastUpdatedAt": 1640164423,
-  "formattedLastUpdatedAt": "12/22/2021",
+  "lastUpdatedBy": "Douglas Arellanes",
+  "lastUpdatedAt": 1641145297,
+  "formattedLastUpdatedAt": "1/2/2022",
   "frontMatter": {
     "id": "imageaudio",
     "title": "The Image Audio Mural Item",
@@ -20,10 +20,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Horizontal Slideshow",
-    "permalink": "/docs/horizontalslideshow"
+    "permalink": "/docs/2.0.0/horizontalslideshow"
   },
   "next": {
     "title": "Image Background",
-    "permalink": "/docs/imagebackground"
+    "permalink": "/docs/2.0.0/imagebackground"
   }
 }
