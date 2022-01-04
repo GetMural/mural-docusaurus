@@ -48,7 +48,7 @@ The author field is where the author of the Mural story's name is entered.
 
 ### Canonical URL
 
-If you know the final website address of your Mural story then this is where to enter that information.
+If you know the final website address of your Mural story then this is where to enter that information. The canonical URL is important because it is used to determine the path to the site image. The site image is then shared to social media platforms.
 
 ```html
 <meta
