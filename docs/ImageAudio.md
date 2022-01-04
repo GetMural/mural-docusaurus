@@ -4,7 +4,7 @@ title: The Image Audio Mural Item
 sidebar_label: Image Audio
 ---
 
-An Image Audio item is a still image that can play audio in the background. This is useful for ambient, environmental sound, or for sound material with images attached. An audio file attached to an Image Audio item will loop until the user scrolls away to advance to the next item.
+An Image Audio item is a still image that can play audio in the background. This is useful for ambient, environmental sound, or for sound material with images attached. An audio file attached to an Image Audio item will play until the user scrolls away to advance to the next item. Audio files can be looped for continuous play until the user scrolls away.
 
 ![Mural's Image Audio item on phone](./assets/output/ImageAudio-phone.png "Mural's Image Audio item on phone")
 
@@ -12,34 +12,40 @@ An Image Audio item is a still image that can play audio in the background. This
 
 ![Mural's Image Audio item on desktop](./assets/output/ImageAudio-desktop.png "Mural's Image Audio item on desktop")
 
-## Image Sources
+## File Sources
 
-### Small image
+### Upload image
 
-This image is for display on mobile. The small image works best at 1080 x 1920. (mobile portrait)
+This is where you upload the image in common formats such as .jpg, .png or .gif. You cannot use an image URL with this item.
 
-### Medium image
+### Choose audio
 
-This image will be for display on older computers with lower-resolution screens or tablets. The medium image works best at 768 x 1024. (tablet portrait)
+This is where you upload the audio file. The audio file must be in .mp3 format and must be uploaded from your computer's file system. You cannot use a URL for your audio file.
 
-### Large image
+### Loop audio
 
-This image will be for display on large and high-resolution screens. The large image works best at 1920 x 1080. (desktop landscape)
+Click this check box to enable your audio file to be looped when the item is viewed.
 
-The width in pixels of each breakpoint of a Mural story window are:
+### Black text on white background
 
-- 768px
-- 992px
-- 1200px
+Click this text box to enable black text on a white background. By default the image audio item uses white text on a black background.
 
-## Audio Sources
+## Title
 
-Both audio formats have a preview window available. At least one format is required - these days all modern browsers play mp3 so ogg is not strictly necessary. The audio file will loop infinitely.
+Type text into this window for your image's title. 
 
-### MP3
+## Image caption
 
-This is where you select the sound file you want that is in the MP3 format.
+Type text into this window for your image's caption text. The image caption text is intended to be relatively short. If you have longer text, consider using a background text item instead.
 
-### Ogg
+## Navigation
 
-This is where you select the sound file you want that is in the Ogg format.
+The text you type into this window will appear in the story's navigation menu.
+
+## Image credits
+
+Type text here to credit the image's creator.
+
+## Audio credits
+
+Type text here to credit the creator of the audio.
