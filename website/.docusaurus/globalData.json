@@ -77,7 +77,8 @@
             },
             {
               "id": "payments",
-              "path": "/docs/2.0.0/payments"
+              "path": "/docs/2.0.0/payments",
+              "sidebar": "docs"
             },
             {
               "id": "verticalslideshow",
@@ -86,7 +87,8 @@
             },
             {
               "id": "webmonetization",
-              "path": "/docs/2.0.0/webmonetization"
+              "path": "/docs/2.0.0/webmonetization",
+              "sidebar": "docs"
             }
           ]
         },

@@ -18,7 +18,7 @@ Turning this switch on enables payments on your story, and also creates a movabl
 
 ### Web monetization live payment
 
-This is where you type the name of the recipient of the web monetization payments, as well as their ILP payment pointer address. You can find out more about [how to set up your ILP payment pointer](webmonetization.md) here.
+This is where you type the name of the recipient of the web monetization payments, as well as their ILP payment pointer address. You can find out more about [how to set up your ILP payment pointer](./webmonetization.md).
 
 ### Support for multiple payment pointers
 

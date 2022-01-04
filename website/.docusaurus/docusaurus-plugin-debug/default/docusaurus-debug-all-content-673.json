@@ -77,7 +77,7 @@
               "unversionedId": "embed",
               "id": "embed",
               "title": "The Embed Video Mural Item",
-              "description": "A Video Embed item sets a video from YouTube, Vimeo or Daily Motion to play in a full frame in a Mural story. Playback is triggered automatically by scrolling down into the item, or by the user clicking on the YouTube “play” button in the center of the video.",
+              "description": "A Video Embed item sets a video from YouTube, Vimeo or Daily Motion to play in a full frame in a Mural story. Playback is triggered automatically by scrolling down into the item, or by the user clicking on the embed video's playback controls.",
               "source": "@site/../docs/EmbedVideo.md",
               "sourceDirName": ".",
               "slug": "/embed",
@@ -98,8 +98,8 @@
                 "permalink": "/docs/2.0.0/verticalslideshow"
               },
               "next": {
-                "title": "Image Workflow",
-                "permalink": "/docs/2.0.0/image-workflow"
+                "title": "What is web monetization?",
+                "permalink": "/docs/2.0.0/webmonetization"
               }
             },
             {
@@ -239,8 +239,8 @@
               },
               "sidebar": "docs",
               "previous": {
-                "title": "Embed Video",
-                "permalink": "/docs/2.0.0/embed"
+                "title": "Payments Menu",
+                "permalink": "/docs/2.0.0/payments"
               }
             },
             {
@@ -402,6 +402,15 @@
                 "id": "payments",
                 "title": "The Mural Payments Menu",
                 "sidebar_label": "Payments Menu"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "What is web monetization?",
+                "permalink": "/docs/2.0.0/webmonetization"
+              },
+              "next": {
+                "title": "Image Workflow",
+                "permalink": "/docs/2.0.0/image-workflow"
               }
             },
             {
@@ -451,6 +460,15 @@
                 "id": "webmonetization",
                 "title": "What is web monetization?",
                 "sidebar_label": "What is web monetization?"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Embed Video",
+                "permalink": "/docs/2.0.0/embed"
+              },
+              "next": {
+                "title": "Payments Menu",
+                "permalink": "/docs/2.0.0/payments"
               }
             }
           ],
@@ -521,6 +539,22 @@
                   {
                     "type": "doc",
                     "id": "embed"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "collapsed": true,
+                "collapsible": true,
+                "label": "Webmonetization",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "webmonetization"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "payments"
                   }
                 ]
               },

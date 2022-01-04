@@ -170,7 +170,7 @@ export default [
   },
   {
     path: '/docs/2.0.0/',
-    component: ComponentCreator('/docs/2.0.0/','966'),
+    component: ComponentCreator('/docs/2.0.0/','438'),
     routes: [
       {
         path: '/docs/2.0.0/backgroundvideo/',
@@ -252,8 +252,9 @@ export default [
       },
       {
         path: '/docs/2.0.0/payments/',
-        component: ComponentCreator('/docs/2.0.0/payments/','103'),
-        exact: true
+        component: ComponentCreator('/docs/2.0.0/payments/','865'),
+        exact: true,
+        'sidebar': "docs"
       },
       {
         path: '/docs/2.0.0/verticalslideshow/',
@@ -263,8 +264,9 @@ export default [
       },
       {
         path: '/docs/2.0.0/webmonetization/',
-        component: ComponentCreator('/docs/2.0.0/webmonetization/','16c'),
-        exact: true
+        component: ComponentCreator('/docs/2.0.0/webmonetization/','9b4'),
+        exact: true,
+        'sidebar': "docs"
       }
     ]
   },

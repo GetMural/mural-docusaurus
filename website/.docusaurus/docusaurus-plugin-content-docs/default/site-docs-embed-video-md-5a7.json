@@ -10,8 +10,8 @@
   "tags": [],
   "version": "current",
   "lastUpdatedBy": "Naomi Aro",
-  "lastUpdatedAt": 1641281964,
-  "formattedLastUpdatedAt": "1/3/2022",
+  "lastUpdatedAt": 1641283319,
+  "formattedLastUpdatedAt": "1/4/2022",
   "frontMatter": {
     "id": "embed",
     "title": "The Embed Video Mural Item",
@@ -23,7 +23,7 @@
     "permalink": "/docs/2.0.0/verticalslideshow"
   },
   "next": {
-    "title": "Image Workflow",
-    "permalink": "/docs/2.0.0/image-workflow"
+    "title": "What is web monetization?",
+    "permalink": "/docs/2.0.0/webmonetization"
   }
 }

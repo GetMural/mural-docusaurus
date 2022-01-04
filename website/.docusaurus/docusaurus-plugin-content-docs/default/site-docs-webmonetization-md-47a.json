@@ -16,5 +16,14 @@
     "id": "webmonetization",
     "title": "What is web monetization?",
     "sidebar_label": "What is web monetization?"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Embed Video",
+    "permalink": "/docs/2.0.0/embed"
+  },
+  "next": {
+    "title": "Payments Menu",
+    "permalink": "/docs/2.0.0/payments"
   }
 }

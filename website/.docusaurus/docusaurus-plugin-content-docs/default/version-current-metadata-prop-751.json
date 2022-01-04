@@ -106,6 +106,26 @@
         "type": "category",
         "collapsed": true,
         "collapsible": true,
+        "label": "Webmonetization",
+        "items": [
+          {
+            "type": "link",
+            "label": "What is web monetization?",
+            "href": "/docs/2.0.0/webmonetization",
+            "docId": "webmonetization"
+          },
+          {
+            "type": "link",
+            "label": "Payments Menu",
+            "href": "/docs/2.0.0/payments",
+            "docId": "payments"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "collapsed": true,
+        "collapsible": true,
         "label": "Workflow",
         "items": [
           {
@@ -201,7 +221,8 @@
     "payments": {
       "id": "payments",
       "title": "The Mural Payments Menu",
-      "description": "The Payments menu in Mural 2"
+      "description": "The Payments menu in Mural 2",
+      "sidebar": "docs"
     },
     "verticalslideshow": {
       "id": "verticalslideshow",
@@ -212,7 +233,8 @@
     "webmonetization": {
       "id": "webmonetization",
       "title": "What is web monetization?",
-      "description": "Support for web monetization in Mural"
+      "description": "Support for web monetization in Mural",
+      "sidebar": "docs"
     }
   }
 }

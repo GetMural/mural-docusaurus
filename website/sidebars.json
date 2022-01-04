@@ -13,6 +13,7 @@
       "verticalslideshow",
       "embed"
     ],
+    "Webmonetization": ["webmonetization", "payments"],
     "Workflow": ["image-workflow"]
   },
   "docs-other": {}

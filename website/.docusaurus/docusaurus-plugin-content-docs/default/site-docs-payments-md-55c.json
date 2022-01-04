@@ -16,5 +16,14 @@
     "id": "payments",
     "title": "The Mural Payments Menu",
     "sidebar_label": "Payments Menu"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "What is web monetization?",
+    "permalink": "/docs/2.0.0/webmonetization"
+  },
+  "next": {
+    "title": "Image Workflow",
+    "permalink": "/docs/2.0.0/image-workflow"
   }
 }
