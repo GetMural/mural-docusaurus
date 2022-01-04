@@ -12,32 +12,34 @@ A Vertical slideshow item refers to a collection of images with captions that ca
 
 ![Mural's Vertical Slideshow item on desktop](./assets/output/VerticalSlideshow-desktop.png "Mural's Vertical Slideshow item on desktop")
 
-`Slide [+]` Clicking this adds another slide to the slideshow. You can have as many slides in the slideshow as you want. For optimal results large slideshows are discouraged as currently all images for a slideshow are bulk loaded as a set.
+`Add item` Clicking this adds another item to the slideshow. You can have as many items in the slideshow as you want. For optimal results large slideshows are discouraged as currently all images for a slideshow are bulk loaded as a set.
 
 ## Title
 
-This is for the title of the individual slide
+This is for the title of the slideshow.
 
-## Credits
+## Navigation
 
-This is for the image credit
+This is for the text that will appear in the story's navigation menu.
 
-## Image Sources
+## Black text on white background
 
-### Small image
+This check box switches the color scheme. By default the slideshow uses white text on a black background.
 
-This image is for display on mobile. The small image works best at 1080 x 1920. (mobile portrait)
+## Add item
 
-### Medium image
+### Upload image
 
-This image will be for display on older computers with lower-resolution screens or tablets. The medium image works best at 768 x 1024. (tablet portrait)
+This is for uploading your image to the slideshow. Images can be in common formats such as .jpg and .gif. Images must be uploaded from your computer's file system - you cannot use image URLs in the slideshow.
 
-### Large image
+### Slide title
 
-This image will be for display on large and high-resolution screens. The large image works best at 1920 x 1080. (desktop landscape)
+This is where you can write the text that will be displayed with the individual image.
 
-The width in pixels of each breakpoint of a Mural story window are:
+### Slide credits
 
-- 768px
-- 992px
-- 1200px
+This is where you can write the text for the individual image credit.
+
+### Image alt text
+
+This is where you write the image's alt text.
