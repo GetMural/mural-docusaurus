@@ -6,7 +6,7 @@
   "source": "@site/../docs/getting-started.md",
   "sourceDirName": ".",
   "slug": "/getting-started",
-  "permalink": "/docs/getting-started",
+  "permalink": "/docs/2.0.0/getting-started",
   "tags": [],
   "version": "current",
   "lastUpdatedBy": "Naomi Aro",
@@ -20,10 +20,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "How Mural works",
-    "permalink": "/docs/how-it-works"
+    "permalink": "/docs/2.0.0/how-it-works"
   },
   "next": {
     "title": "Metadata",
-    "permalink": "/docs/metadata"
+    "permalink": "/docs/2.0.0/metadata"
   }
 }

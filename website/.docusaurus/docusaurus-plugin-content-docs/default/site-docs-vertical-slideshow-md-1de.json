@@ -6,12 +6,12 @@
   "source": "@site/../docs/VerticalSlideshow.md",
   "sourceDirName": ".",
   "slug": "/verticalslideshow",
-  "permalink": "/docs/verticalslideshow",
+  "permalink": "/docs/2.0.0/verticalslideshow",
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "Naomi Aro",
-  "lastUpdatedAt": 1640164423,
-  "formattedLastUpdatedAt": "12/22/2021",
+  "lastUpdatedBy": "Douglas Arellanes",
+  "lastUpdatedAt": 1641143823,
+  "formattedLastUpdatedAt": "1/2/2022",
   "frontMatter": {
     "id": "verticalslideshow",
     "title": "The Vertical Slideshow Mural Item",
@@ -19,11 +19,11 @@
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Image Parallax",
-    "permalink": "/docs/imageparallax"
+    "title": "Parallax Image",
+    "permalink": "/docs/2.0.0/imageparallax"
   },
   "next": {
-    "title": "Youtube",
-    "permalink": "/docs/youtube"
+    "title": "Embed Video",
+    "permalink": "/docs/2.0.0/embed"
   }
 }

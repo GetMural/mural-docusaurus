@@ -29,12 +29,22 @@ function Download() {
         {downloads && (
           <section>
             <div className="container">
-              <h1 className="margin-top--md">
-                Download the Mural editor 0.4.0
-              </h1>
+              <h1 className="margin-top--md">Download Mural 2</h1>
+              <p>
+                <a href="https://github.com/GetMural/Mural/releases/latest">
+                  Download the latest Mural release on Github
+                </a>{" "}
+                for Mac, Windows and Linux.
+              </p>
+              <p>
+                This is the newest version which has a new story editor
+                interface and webmonetization support.
+              </p>
+              <h2 className="margin-top--xl">Download Mural 0.4.0</h2>
+              <p>This is the older version of our story editor.</p>
               <p>
                 <a href="https://github.com/GetMural/Mural/blob/master/CHANGELOG.md">
-                  Release notes
+                  Release Notes
                 </a>
               </p>
               <ul role="list">
@@ -44,15 +54,6 @@ function Download() {
                   </li>
                 ))}
               </ul>
-              <h2 className="margin-top--xl">Download the Mural user manual</h2>
-              <p>
-                The newest manual is for Mural 0.3.0. It includes information on
-                the features available in Mural, as well as recommended apps to
-                use with it and tips on getting the most out of the tool.
-              </p>
-              <p>
-                <a href="Mural-manual-v0.3.0.pdf">Mural Manual v0.3.0+</a>
-              </p>
             </div>
           </section>
         )}

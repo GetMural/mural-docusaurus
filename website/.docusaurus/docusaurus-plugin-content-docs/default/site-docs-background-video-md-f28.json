@@ -6,12 +6,12 @@
   "source": "@site/../docs/BackgroundVideo.md",
   "sourceDirName": ".",
   "slug": "/backgroundvideo",
-  "permalink": "/docs/backgroundvideo",
+  "permalink": "/docs/2.0.0/backgroundvideo",
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "Naomi Aro",
-  "lastUpdatedAt": 1640167167,
-  "formattedLastUpdatedAt": "12/22/2021",
+  "lastUpdatedBy": "Douglas Arellanes",
+  "lastUpdatedAt": 1641062332,
+  "formattedLastUpdatedAt": "1/1/2022",
   "frontMatter": {
     "id": "backgroundvideo",
     "title": "The Background Video Mural Item",
@@ -20,10 +20,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Metadata",
-    "permalink": "/docs/metadata"
+    "permalink": "/docs/2.0.0/metadata"
   },
   "next": {
     "title": "Centred Text",
-    "permalink": "/docs/centredtext"
+    "permalink": "/docs/2.0.0/centredtext"
   }
 }

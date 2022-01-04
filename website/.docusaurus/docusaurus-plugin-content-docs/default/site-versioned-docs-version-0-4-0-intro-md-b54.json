@@ -1,0 +1,25 @@
+{
+  "unversionedId": "intro",
+  "id": "version-0.4.0/intro",
+  "title": "Introducing Mural",
+  "description": "Visual storytelling is different from writing in text only, and we believe it requires a purpose-built tool to work with the richness and power of multimedia.",
+  "source": "@site/versioned_docs/version-0.4.0/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/0.4.0/intro",
+  "tags": [],
+  "version": "0.4.0",
+  "lastUpdatedBy": "Naomi Aro",
+  "lastUpdatedAt": 1640890617,
+  "formattedLastUpdatedAt": "12/30/2021",
+  "frontMatter": {
+    "id": "intro",
+    "title": "Introducing Mural",
+    "sidebar_label": "Intro"
+  },
+  "sidebar": "docs",
+  "next": {
+    "title": "How Mural works",
+    "permalink": "/docs/0.4.0/how-it-works"
+  }
+}

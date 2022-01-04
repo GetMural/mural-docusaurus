@@ -6,12 +6,12 @@
   "source": "@site/../docs/ImageBackground.md",
   "sourceDirName": ".",
   "slug": "/imagebackground",
-  "permalink": "/docs/imagebackground",
+  "permalink": "/docs/2.0.0/imagebackground",
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "Naomi Aro",
-  "lastUpdatedAt": 1640164423,
-  "formattedLastUpdatedAt": "12/22/2021",
+  "lastUpdatedBy": "Douglas Arellanes",
+  "lastUpdatedAt": 1641146231,
+  "formattedLastUpdatedAt": "1/2/2022",
   "frontMatter": {
     "id": "imagebackground",
     "title": "The Image Background Mural Item",
@@ -20,10 +20,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Image Audio",
-    "permalink": "/docs/imageaudio"
+    "permalink": "/docs/2.0.0/imageaudio"
   },
   "next": {
-    "title": "Image Parallax",
-    "permalink": "/docs/imageparallax"
+    "title": "Parallax Image",
+    "permalink": "/docs/2.0.0/imageparallax"
   }
 }

@@ -1,0 +1,29 @@
+{
+  "unversionedId": "youtube",
+  "id": "version-0.4.0/youtube",
+  "title": "The Youtube Mural Item",
+  "description": "A YouTube item sets a YouTube video to play in a full frame in a Mural story. Playback is triggered automatically by scrolling down into the item, or by the user clicking on the YouTube “play” button in the center of the video.",
+  "source": "@site/versioned_docs/version-0.4.0/Youtube.md",
+  "sourceDirName": ".",
+  "slug": "/youtube",
+  "permalink": "/docs/0.4.0/youtube",
+  "tags": [],
+  "version": "0.4.0",
+  "lastUpdatedBy": "Naomi Aro",
+  "lastUpdatedAt": 1640890617,
+  "formattedLastUpdatedAt": "12/30/2021",
+  "frontMatter": {
+    "id": "youtube",
+    "title": "The Youtube Mural Item",
+    "sidebar_label": "Youtube"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Vertical Slideshow",
+    "permalink": "/docs/0.4.0/verticalslideshow"
+  },
+  "next": {
+    "title": "Image Workflow",
+    "permalink": "/docs/0.4.0/image-workflow"
+  }
+}

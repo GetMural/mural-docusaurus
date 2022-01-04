@@ -4,14 +4,13 @@
       "loadedVersions": [
         {
           "versionName": "current",
-          "versionLabel": "Next",
-          "versionPath": "/docs",
-          "tagsPath": "/docs/tags",
+          "versionLabel": "2.0.0",
+          "versionPath": "/docs/2.0.0",
+          "tagsPath": "/docs/2.0.0/tags",
           "versionBanner": null,
-          "versionBadge": false,
+          "versionBadge": true,
           "versionClassName": "docs-version-current",
           "isLast": true,
-          "routePriority": -1,
           "sidebarFilePath": "/Users/naomiaro/Code/mural-docusaurus/website/sidebars.json",
           "contentPath": "/Users/naomiaro/Code/mural-docusaurus/docs",
           "contentPathLocalized": "/Users/naomiaro/Code/mural-docusaurus/website/i18n/en/docusaurus-plugin-content-docs/current",
@@ -24,7 +23,7 @@
               "source": "@site/../docs/BackgroundVideo.md",
               "sourceDirName": ".",
               "slug": "/backgroundvideo",
-              "permalink": "/docs/backgroundvideo",
+              "permalink": "/docs/2.0.0/backgroundvideo",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -38,11 +37,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Metadata",
-                "permalink": "/docs/metadata"
+                "permalink": "/docs/2.0.0/metadata"
               },
               "next": {
                 "title": "Centred Text",
-                "permalink": "/docs/centredtext"
+                "permalink": "/docs/2.0.0/centredtext"
               }
             },
             {
@@ -53,7 +52,7 @@
               "source": "@site/../docs/CentredText.md",
               "sourceDirName": ".",
               "slug": "/centredtext",
-              "permalink": "/docs/centredtext",
+              "permalink": "/docs/2.0.0/centredtext",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -67,22 +66,51 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Background Video",
-                "permalink": "/docs/backgroundvideo"
+                "permalink": "/docs/2.0.0/backgroundvideo"
               },
               "next": {
                 "title": "Fullpage Video",
-                "permalink": "/docs/fullpagevideo"
+                "permalink": "/docs/2.0.0/fullpagevideo"
+              }
+            },
+            {
+              "unversionedId": "embed",
+              "id": "embed",
+              "title": "The Embed Video Mural Item",
+              "description": "A Video Embed item sets a video from YouTube, Vimeo or Daily Motion to play in a full frame in a Mural story. Playback is triggered automatically by scrolling down into the item, or by the user clicking on the YouTube “play” button in the center of the video.",
+              "source": "@site/../docs/EmbedVideo.md",
+              "sourceDirName": ".",
+              "slug": "/embed",
+              "permalink": "/docs/2.0.0/embed",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "frontMatter": {
+                "id": "embed",
+                "title": "The Embed Video Mural Item",
+                "sidebar_label": "Embed Video"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Vertical Slideshow",
+                "permalink": "/docs/2.0.0/verticalslideshow"
+              },
+              "next": {
+                "title": "Image Workflow",
+                "permalink": "/docs/2.0.0/image-workflow"
               }
             },
             {
               "unversionedId": "fullpagevideo",
               "id": "fullpagevideo",
               "title": "The Fullpage Video Mural Item",
-              "description": "The Fullpage video item refers to a section of your Mural story where there is a video that takes up the entire screen, and which has a play/pause button.",
+              "description": "The Fullpage video item refers to a section of your Mural story where there is a video that takes up the entire screen with a play/pause button. There is less room for text in the Fullpage video item, usually a line or two, if any.",
               "source": "@site/../docs/FullpageVideo.md",
               "sourceDirName": ".",
               "slug": "/fullpagevideo",
-              "permalink": "/docs/fullpagevideo",
+              "permalink": "/docs/2.0.0/fullpagevideo",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -96,11 +124,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Centred Text",
-                "permalink": "/docs/centredtext"
+                "permalink": "/docs/2.0.0/centredtext"
               },
               "next": {
                 "title": "Horizontal Slideshow",
-                "permalink": "/docs/horizontalslideshow"
+                "permalink": "/docs/2.0.0/horizontalslideshow"
               }
             },
             {
@@ -111,7 +139,7 @@
               "source": "@site/../docs/getting-started.md",
               "sourceDirName": ".",
               "slug": "/getting-started",
-              "permalink": "/docs/getting-started",
+              "permalink": "/docs/2.0.0/getting-started",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -125,11 +153,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "How Mural works",
-                "permalink": "/docs/how-it-works"
+                "permalink": "/docs/2.0.0/how-it-works"
               },
               "next": {
                 "title": "Metadata",
-                "permalink": "/docs/metadata"
+                "permalink": "/docs/2.0.0/metadata"
               }
             },
             {
@@ -140,7 +168,7 @@
               "source": "@site/../docs/HorizontalSlideshow.md",
               "sourceDirName": ".",
               "slug": "/horizontalslideshow",
-              "permalink": "/docs/horizontalslideshow",
+              "permalink": "/docs/2.0.0/horizontalslideshow",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -154,11 +182,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Fullpage Video",
-                "permalink": "/docs/fullpagevideo"
+                "permalink": "/docs/2.0.0/fullpagevideo"
               },
               "next": {
                 "title": "Image Audio",
-                "permalink": "/docs/imageaudio"
+                "permalink": "/docs/2.0.0/imageaudio"
               }
             },
             {
@@ -169,7 +197,7 @@
               "source": "@site/../docs/how-it-works.md",
               "sourceDirName": ".",
               "slug": "/how-it-works",
-              "permalink": "/docs/how-it-works",
+              "permalink": "/docs/2.0.0/how-it-works",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -183,11 +211,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Intro",
-                "permalink": "/docs/intro"
+                "permalink": "/docs/2.0.0/intro"
               },
               "next": {
                 "title": "Getting Started",
-                "permalink": "/docs/getting-started"
+                "permalink": "/docs/2.0.0/getting-started"
               }
             },
             {
@@ -198,7 +226,7 @@
               "source": "@site/../docs/image-workflow.md",
               "sourceDirName": ".",
               "slug": "/image-workflow",
-              "permalink": "/docs/image-workflow",
+              "permalink": "/docs/2.0.0/image-workflow",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -211,19 +239,19 @@
               },
               "sidebar": "docs",
               "previous": {
-                "title": "Youtube",
-                "permalink": "/docs/youtube"
+                "title": "Embed Video",
+                "permalink": "/docs/2.0.0/embed"
               }
             },
             {
               "unversionedId": "imageaudio",
               "id": "imageaudio",
               "title": "The Image Audio Mural Item",
-              "description": "An Image Audio item is a still image that can play audio in the background. This is useful for ambient, environmental sound, or for sound material with images attached. An audio file attached to an Image Audio item will loop until the user scrolls away to advance to the next item.",
+              "description": "An Image Audio item is a still image that can play audio in the background. This is useful for ambient, environmental sound, or for sound material with images attached. An audio file attached to an Image Audio item will play until the user scrolls away to advance to the next item. Audio files can be looped for continuous play until the user scrolls away.",
               "source": "@site/../docs/ImageAudio.md",
               "sourceDirName": ".",
               "slug": "/imageaudio",
-              "permalink": "/docs/imageaudio",
+              "permalink": "/docs/2.0.0/imageaudio",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -237,11 +265,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Horizontal Slideshow",
-                "permalink": "/docs/horizontalslideshow"
+                "permalink": "/docs/2.0.0/horizontalslideshow"
               },
               "next": {
                 "title": "Image Background",
-                "permalink": "/docs/imagebackground"
+                "permalink": "/docs/2.0.0/imagebackground"
               }
             },
             {
@@ -252,7 +280,7 @@
               "source": "@site/../docs/ImageBackground.md",
               "sourceDirName": ".",
               "slug": "/imagebackground",
-              "permalink": "/docs/imagebackground",
+              "permalink": "/docs/2.0.0/imagebackground",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -266,22 +294,22 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Image Audio",
-                "permalink": "/docs/imageaudio"
+                "permalink": "/docs/2.0.0/imageaudio"
               },
               "next": {
-                "title": "Image Parallax",
-                "permalink": "/docs/imageparallax"
+                "title": "Parallax Image",
+                "permalink": "/docs/2.0.0/imageparallax"
               }
             },
             {
               "unversionedId": "imageparallax",
               "id": "imageparallax",
-              "title": "The Image Parallax Mural Item",
-              "description": "A Parallax image with text item has a still image with text that has a parallax scrolling effect, meaning that the text seems to move at a different speed than the image behind it. Select your image and input the text you want to display with it.",
+              "title": "The Parallax Image Mural Item",
+              "description": "A Parallax image with text item has a still image with text that has a parallax scrolling effect, meaning that the text seems to move at a different speed than the image behind it. Select your image and input the text you want to display with it. The Parallax Image item is not intended for large amounts of text; for longer texts, consider using the Image Background item instead.",
               "source": "@site/../docs/ImageParallax.md",
               "sourceDirName": ".",
               "slug": "/imageparallax",
-              "permalink": "/docs/imageparallax",
+              "permalink": "/docs/2.0.0/imageparallax",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -289,17 +317,17 @@
               "formattedLastUpdatedAt": "10/14/2018",
               "frontMatter": {
                 "id": "imageparallax",
-                "title": "The Image Parallax Mural Item",
-                "sidebar_label": "Image Parallax"
+                "title": "The Parallax Image Mural Item",
+                "sidebar_label": "Parallax Image"
               },
               "sidebar": "docs",
               "previous": {
                 "title": "Image Background",
-                "permalink": "/docs/imagebackground"
+                "permalink": "/docs/2.0.0/imagebackground"
               },
               "next": {
                 "title": "Vertical Slideshow",
-                "permalink": "/docs/verticalslideshow"
+                "permalink": "/docs/2.0.0/verticalslideshow"
               }
             },
             {
@@ -310,7 +338,7 @@
               "source": "@site/../docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/docs/intro",
+              "permalink": "/docs/2.0.0/intro",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -324,7 +352,7 @@
               "sidebar": "docs",
               "next": {
                 "title": "How Mural works",
-                "permalink": "/docs/how-it-works"
+                "permalink": "/docs/2.0.0/how-it-works"
               }
             },
             {
@@ -335,7 +363,7 @@
               "source": "@site/../docs/meta.md",
               "sourceDirName": ".",
               "slug": "/metadata",
-              "permalink": "/docs/metadata",
+              "permalink": "/docs/2.0.0/metadata",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -349,11 +377,31 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Getting Started",
-                "permalink": "/docs/getting-started"
+                "permalink": "/docs/2.0.0/getting-started"
               },
               "next": {
                 "title": "Background Video",
-                "permalink": "/docs/backgroundvideo"
+                "permalink": "/docs/2.0.0/backgroundvideo"
+              }
+            },
+            {
+              "unversionedId": "payments",
+              "id": "payments",
+              "title": "The Mural Payments Menu",
+              "description": "The Payments menu in Mural 2",
+              "source": "@site/../docs/payments.md",
+              "sourceDirName": ".",
+              "slug": "/payments",
+              "permalink": "/docs/2.0.0/payments",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "frontMatter": {
+                "id": "payments",
+                "title": "The Mural Payments Menu",
+                "sidebar_label": "Payments Menu"
               }
             },
             {
@@ -364,7 +412,7 @@
               "source": "@site/../docs/VerticalSlideshow.md",
               "sourceDirName": ".",
               "slug": "/verticalslideshow",
-              "permalink": "/docs/verticalslideshow",
+              "permalink": "/docs/2.0.0/verticalslideshow",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -377,25 +425,516 @@
               },
               "sidebar": "docs",
               "previous": {
+                "title": "Parallax Image",
+                "permalink": "/docs/2.0.0/imageparallax"
+              },
+              "next": {
+                "title": "Embed Video",
+                "permalink": "/docs/2.0.0/embed"
+              }
+            },
+            {
+              "unversionedId": "webmonetization",
+              "id": "webmonetization",
+              "title": "What is web monetization?",
+              "description": "Support for web monetization in Mural",
+              "source": "@site/../docs/webmonetization.md",
+              "sourceDirName": ".",
+              "slug": "/webmonetization",
+              "permalink": "/docs/2.0.0/webmonetization",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "frontMatter": {
+                "id": "webmonetization",
+                "title": "What is web monetization?",
+                "sidebar_label": "What is web monetization?"
+              }
+            }
+          ],
+          "sidebars": {
+            "docs": [
+              {
+                "type": "category",
+                "collapsed": true,
+                "collapsible": true,
+                "label": "Intro",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "how-it-works"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "getting-started"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "collapsed": true,
+                "collapsible": true,
+                "label": "Mural Items",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "metadata"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "backgroundvideo"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "centredtext"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "fullpagevideo"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "horizontalslideshow"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "imageaudio"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "imagebackground"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "imageparallax"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "verticalslideshow"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "embed"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "collapsed": true,
+                "collapsible": true,
+                "label": "Workflow",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "image-workflow"
+                  }
+                ]
+              }
+            ],
+            "docs-other": []
+          },
+          "mainDocId": "intro",
+          "categoryGeneratedIndices": []
+        },
+        {
+          "versionName": "0.4.0",
+          "versionLabel": "0.4.0",
+          "versionPath": "/docs/0.4.0",
+          "tagsPath": "/docs/0.4.0/tags",
+          "versionBanner": "unmaintained",
+          "versionBadge": true,
+          "versionClassName": "docs-version-0.4.0",
+          "isLast": false,
+          "sidebarFilePath": "/Users/naomiaro/Code/mural-docusaurus/website/versioned_sidebars/version-0.4.0-sidebars.json",
+          "contentPath": "/Users/naomiaro/Code/mural-docusaurus/website/versioned_docs/version-0.4.0",
+          "contentPathLocalized": "/Users/naomiaro/Code/mural-docusaurus/website/i18n/en/docusaurus-plugin-content-docs/version-0.4.0",
+          "docs": [
+            {
+              "unversionedId": "backgroundvideo",
+              "id": "version-0.4.0/backgroundvideo",
+              "title": "The Background Video Mural Item",
+              "description": "The Background Video item has video that is intended to play behind headline, subtitle, and/or body text. Background videos do not have player controls, and by default will continuously loop their playback.",
+              "source": "@site/versioned_docs/version-0.4.0/BackgroundVideo.md",
+              "sourceDirName": ".",
+              "slug": "/backgroundvideo",
+              "permalink": "/docs/0.4.0/backgroundvideo",
+              "tags": [],
+              "version": "0.4.0",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "frontMatter": {
+                "id": "backgroundvideo",
+                "title": "The Background Video Mural Item",
+                "sidebar_label": "Background Video"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Metadata",
+                "permalink": "/docs/0.4.0/metadata"
+              },
+              "next": {
+                "title": "Centred Text",
+                "permalink": "/docs/0.4.0/centredtext"
+              }
+            },
+            {
+              "unversionedId": "centredtext",
+              "id": "version-0.4.0/centredtext",
+              "title": "The Centred Text Mural Item",
+              "description": "A Centred text item handles a large amount of text, laid out in the center of the screen, and can have images on left, right, or middle of the text column. This is good for the parts of your story which have long texts.",
+              "source": "@site/versioned_docs/version-0.4.0/CentredText.md",
+              "sourceDirName": ".",
+              "slug": "/centredtext",
+              "permalink": "/docs/0.4.0/centredtext",
+              "tags": [],
+              "version": "0.4.0",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "frontMatter": {
+                "id": "centredtext",
+                "title": "The Centred Text Mural Item",
+                "sidebar_label": "Centred Text"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Background Video",
+                "permalink": "/docs/0.4.0/backgroundvideo"
+              },
+              "next": {
+                "title": "Fullpage Video",
+                "permalink": "/docs/0.4.0/fullpagevideo"
+              }
+            },
+            {
+              "unversionedId": "fullpagevideo",
+              "id": "version-0.4.0/fullpagevideo",
+              "title": "The Fullpage Video Mural Item",
+              "description": "The Fullpage video item refers to a section of your Mural story where there is a video that takes up the entire screen, and which has a play/pause button.",
+              "source": "@site/versioned_docs/version-0.4.0/FullpageVideo.md",
+              "sourceDirName": ".",
+              "slug": "/fullpagevideo",
+              "permalink": "/docs/0.4.0/fullpagevideo",
+              "tags": [],
+              "version": "0.4.0",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "frontMatter": {
+                "id": "fullpagevideo",
+                "title": "The Fullpage Video Mural Item",
+                "sidebar_label": "Fullpage Video"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Centred Text",
+                "permalink": "/docs/0.4.0/centredtext"
+              },
+              "next": {
+                "title": "Horizontal Slideshow",
+                "permalink": "/docs/0.4.0/horizontalslideshow"
+              }
+            },
+            {
+              "unversionedId": "getting-started",
+              "id": "version-0.4.0/getting-started",
+              "title": "How to get started using Mural",
+              "description": "Mural is shipped with one sample story Searching for Spring in Stromovka created by us here at Mural.",
+              "source": "@site/versioned_docs/version-0.4.0/getting-started.md",
+              "sourceDirName": ".",
+              "slug": "/getting-started",
+              "permalink": "/docs/0.4.0/getting-started",
+              "tags": [],
+              "version": "0.4.0",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "frontMatter": {
+                "id": "getting-started",
+                "title": "How to get started using Mural",
+                "sidebar_label": "Getting Started"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "How Mural works",
+                "permalink": "/docs/0.4.0/how-it-works"
+              },
+              "next": {
+                "title": "Metadata",
+                "permalink": "/docs/0.4.0/metadata"
+              }
+            },
+            {
+              "unversionedId": "horizontalslideshow",
+              "id": "version-0.4.0/horizontalslideshow",
+              "title": "The Horizontal Slideshow Mural Item",
+              "description": "A Horizontal slideshow item refers to a collection of images that can be displayed in a slideshow with controls on the left and right, and where the images advance horizontally when a user clicks on the control.",
+              "source": "@site/versioned_docs/version-0.4.0/HorizontalSlideshow.md",
+              "sourceDirName": ".",
+              "slug": "/horizontalslideshow",
+              "permalink": "/docs/0.4.0/horizontalslideshow",
+              "tags": [],
+              "version": "0.4.0",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "frontMatter": {
+                "id": "horizontalslideshow",
+                "title": "The Horizontal Slideshow Mural Item",
+                "sidebar_label": "Horizontal Slideshow"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Fullpage Video",
+                "permalink": "/docs/0.4.0/fullpagevideo"
+              },
+              "next": {
+                "title": "Image Audio",
+                "permalink": "/docs/0.4.0/imageaudio"
+              }
+            },
+            {
+              "unversionedId": "how-it-works",
+              "id": "version-0.4.0/how-it-works",
+              "title": "How Mural Works",
+              "description": "alt text",
+              "source": "@site/versioned_docs/version-0.4.0/how-it-works.md",
+              "sourceDirName": ".",
+              "slug": "/how-it-works",
+              "permalink": "/docs/0.4.0/how-it-works",
+              "tags": [],
+              "version": "0.4.0",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "frontMatter": {
+                "id": "how-it-works",
+                "title": "How Mural Works",
+                "sidebar_label": "How Mural works"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Intro",
+                "permalink": "/docs/0.4.0/intro"
+              },
+              "next": {
+                "title": "Getting Started",
+                "permalink": "/docs/0.4.0/getting-started"
+              }
+            },
+            {
+              "unversionedId": "image-workflow",
+              "id": "version-0.4.0/image-workflow",
+              "title": "How to work with images in Mural",
+              "description": "Mural does not have internal image editing functions. This means you have to use an external image editing program such as Photoshop, GIMP or others.",
+              "source": "@site/versioned_docs/version-0.4.0/image-workflow.md",
+              "sourceDirName": ".",
+              "slug": "/image-workflow",
+              "permalink": "/docs/0.4.0/image-workflow",
+              "tags": [],
+              "version": "0.4.0",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "frontMatter": {
+                "id": "image-workflow",
+                "title": "How to work with images in Mural",
+                "sidebar_label": "Image Workflow"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Youtube",
+                "permalink": "/docs/0.4.0/youtube"
+              }
+            },
+            {
+              "unversionedId": "imageaudio",
+              "id": "version-0.4.0/imageaudio",
+              "title": "The Image Audio Mural Item",
+              "description": "An Image Audio item is a still image that can play audio in the background. This is useful for ambient, environmental sound, or for sound material with images attached. An audio file attached to an Image Audio item will loop until the user scrolls away to advance to the next item.",
+              "source": "@site/versioned_docs/version-0.4.0/ImageAudio.md",
+              "sourceDirName": ".",
+              "slug": "/imageaudio",
+              "permalink": "/docs/0.4.0/imageaudio",
+              "tags": [],
+              "version": "0.4.0",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "frontMatter": {
+                "id": "imageaudio",
+                "title": "The Image Audio Mural Item",
+                "sidebar_label": "Image Audio"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Horizontal Slideshow",
+                "permalink": "/docs/0.4.0/horizontalslideshow"
+              },
+              "next": {
+                "title": "Image Background",
+                "permalink": "/docs/0.4.0/imagebackground"
+              }
+            },
+            {
+              "unversionedId": "imagebackground",
+              "id": "version-0.4.0/imagebackground",
+              "title": "The Image Background Mural Item",
+              "description": "An Image Background item has a still image that takes up the entire screen, but which has title, subtitle, and body text over it as well as the possibility for looping audio. An Image Background item's image remains unmoving when a user scrolls until all of the text has scrolled. Then the story advances to the next item.",
+              "source": "@site/versioned_docs/version-0.4.0/ImageBackground.md",
+              "sourceDirName": ".",
+              "slug": "/imagebackground",
+              "permalink": "/docs/0.4.0/imagebackground",
+              "tags": [],
+              "version": "0.4.0",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "frontMatter": {
+                "id": "imagebackground",
+                "title": "The Image Background Mural Item",
+                "sidebar_label": "Image Background"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Image Audio",
+                "permalink": "/docs/0.4.0/imageaudio"
+              },
+              "next": {
                 "title": "Image Parallax",
-                "permalink": "/docs/imageparallax"
+                "permalink": "/docs/0.4.0/imageparallax"
+              }
+            },
+            {
+              "unversionedId": "imageparallax",
+              "id": "version-0.4.0/imageparallax",
+              "title": "The Image Parallax Mural Item",
+              "description": "A Parallax image with text item has a still image with text that has a parallax scrolling effect, meaning that the text seems to move at a different speed than the image behind it. Select your image and input the text you want to display with it.",
+              "source": "@site/versioned_docs/version-0.4.0/ImageParallax.md",
+              "sourceDirName": ".",
+              "slug": "/imageparallax",
+              "permalink": "/docs/0.4.0/imageparallax",
+              "tags": [],
+              "version": "0.4.0",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "frontMatter": {
+                "id": "imageparallax",
+                "title": "The Image Parallax Mural Item",
+                "sidebar_label": "Image Parallax"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Image Background",
+                "permalink": "/docs/0.4.0/imagebackground"
+              },
+              "next": {
+                "title": "Vertical Slideshow",
+                "permalink": "/docs/0.4.0/verticalslideshow"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "version-0.4.0/intro",
+              "title": "Introducing Mural",
+              "description": "Visual storytelling is different from writing in text only, and we believe it requires a purpose-built tool to work with the richness and power of multimedia.",
+              "source": "@site/versioned_docs/version-0.4.0/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/0.4.0/intro",
+              "tags": [],
+              "version": "0.4.0",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "frontMatter": {
+                "id": "intro",
+                "title": "Introducing Mural",
+                "sidebar_label": "Intro"
+              },
+              "sidebar": "docs",
+              "next": {
+                "title": "How Mural works",
+                "permalink": "/docs/0.4.0/how-it-works"
+              }
+            },
+            {
+              "unversionedId": "metadata",
+              "id": "version-0.4.0/metadata",
+              "title": "Story Metadata",
+              "description": "The metadata screen is where the information that describes the story to external sources is presented. This information is important to search engines and social media platforms as this is where the short description and image you see on Google and Facebook or Twitter comes from. It is also where you can add your Google Analytics identification number if you want.",
+              "source": "@site/versioned_docs/version-0.4.0/meta.md",
+              "sourceDirName": ".",
+              "slug": "/metadata",
+              "permalink": "/docs/0.4.0/metadata",
+              "tags": [],
+              "version": "0.4.0",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "frontMatter": {
+                "id": "metadata",
+                "title": "Story Metadata",
+                "sidebar_label": "Metadata"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/docs/0.4.0/getting-started"
+              },
+              "next": {
+                "title": "Background Video",
+                "permalink": "/docs/0.4.0/backgroundvideo"
+              }
+            },
+            {
+              "unversionedId": "verticalslideshow",
+              "id": "version-0.4.0/verticalslideshow",
+              "title": "The Vertical Slideshow Mural Item",
+              "description": "A Vertical slideshow item refers to a collection of images with captions that can be scrolled through in a set - each slide \"sticking\" to the top of the screen until the following slide replaces it.",
+              "source": "@site/versioned_docs/version-0.4.0/VerticalSlideshow.md",
+              "sourceDirName": ".",
+              "slug": "/verticalslideshow",
+              "permalink": "/docs/0.4.0/verticalslideshow",
+              "tags": [],
+              "version": "0.4.0",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "frontMatter": {
+                "id": "verticalslideshow",
+                "title": "The Vertical Slideshow Mural Item",
+                "sidebar_label": "Vertical Slideshow"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Image Parallax",
+                "permalink": "/docs/0.4.0/imageparallax"
               },
               "next": {
                 "title": "Youtube",
-                "permalink": "/docs/youtube"
+                "permalink": "/docs/0.4.0/youtube"
               }
             },
             {
               "unversionedId": "youtube",
-              "id": "youtube",
+              "id": "version-0.4.0/youtube",
               "title": "The Youtube Mural Item",
               "description": "A YouTube item sets a YouTube video to play in a full frame in a Mural story. Playback is triggered automatically by scrolling down into the item, or by the user clicking on the YouTube “play” button in the center of the video.",
-              "source": "@site/../docs/Youtube.md",
+              "source": "@site/versioned_docs/version-0.4.0/Youtube.md",
               "sourceDirName": ".",
               "slug": "/youtube",
-              "permalink": "/docs/youtube",
+              "permalink": "/docs/0.4.0/youtube",
               "tags": [],
-              "version": "current",
+              "version": "0.4.0",
               "lastUpdatedBy": "Author",
               "lastUpdatedAt": 1539502055,
               "formattedLastUpdatedAt": "10/14/2018",
@@ -407,11 +946,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Vertical Slideshow",
-                "permalink": "/docs/verticalslideshow"
+                "permalink": "/docs/0.4.0/verticalslideshow"
               },
               "next": {
                 "title": "Image Workflow",
-                "permalink": "/docs/image-workflow"
+                "permalink": "/docs/0.4.0/image-workflow"
               }
             }
           ],

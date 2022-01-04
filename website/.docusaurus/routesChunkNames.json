@@ -86,65 +86,133 @@
     "component": "d1ed7352",
     "config": "5e9f5e1a"
   },
-  "/docs/-25b": {
+  "/docs/0.4.0/-61a": {
+    "component": "1be78505",
+    "versionMetadata": "db82a1c0"
+  },
+  "/docs/0.4.0/backgroundvideo/-2d7": {
+    "component": "17896441",
+    "content": "14e56c94"
+  },
+  "/docs/0.4.0/centredtext/-aa6": {
+    "component": "17896441",
+    "content": "aced6fd4"
+  },
+  "/docs/0.4.0/fullpagevideo/-9f2": {
+    "component": "17896441",
+    "content": "a053437f"
+  },
+  "/docs/0.4.0/getting-started/-193": {
+    "component": "17896441",
+    "content": "3a961f2c"
+  },
+  "/docs/0.4.0/horizontalslideshow/-769": {
+    "component": "17896441",
+    "content": "6ebab3fd"
+  },
+  "/docs/0.4.0/how-it-works/-519": {
+    "component": "17896441",
+    "content": "4ca62831"
+  },
+  "/docs/0.4.0/image-workflow/-206": {
+    "component": "17896441",
+    "content": "5668b097"
+  },
+  "/docs/0.4.0/imageaudio/-984": {
+    "component": "17896441",
+    "content": "306aced7"
+  },
+  "/docs/0.4.0/imagebackground/-502": {
+    "component": "17896441",
+    "content": "6b11f303"
+  },
+  "/docs/0.4.0/imageparallax/-bc1": {
+    "component": "17896441",
+    "content": "6d45c4c7"
+  },
+  "/docs/0.4.0/intro/-2fc": {
+    "component": "17896441",
+    "content": "b548b5e0"
+  },
+  "/docs/0.4.0/metadata/-dd9": {
+    "component": "17896441",
+    "content": "d9bab3a0"
+  },
+  "/docs/0.4.0/verticalslideshow/-46f": {
+    "component": "17896441",
+    "content": "3cd28d97"
+  },
+  "/docs/0.4.0/youtube/-829": {
+    "component": "17896441",
+    "content": "b0ba9878"
+  },
+  "/docs/2.0.0/-966": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
   },
-  "/docs/backgroundvideo/-299": {
+  "/docs/2.0.0/backgroundvideo/-24e": {
     "component": "17896441",
     "content": "f2866f83"
   },
-  "/docs/centredtext/-234": {
+  "/docs/2.0.0/centredtext/-43b": {
     "component": "17896441",
     "content": "c7aedd49"
   },
-  "/docs/fullpagevideo/-6b2": {
+  "/docs/2.0.0/embed/-52d": {
+    "component": "17896441",
+    "content": "5a7b4c14"
+  },
+  "/docs/2.0.0/fullpagevideo/-902": {
     "component": "17896441",
     "content": "acf19f19"
   },
-  "/docs/getting-started/-26e": {
+  "/docs/2.0.0/getting-started/-68d": {
     "component": "17896441",
     "content": "8d0344ba"
   },
-  "/docs/horizontalslideshow/-8e7": {
+  "/docs/2.0.0/horizontalslideshow/-4f7": {
     "component": "17896441",
     "content": "19e044ce"
   },
-  "/docs/how-it-works/-b9c": {
+  "/docs/2.0.0/how-it-works/-1c6": {
     "component": "17896441",
     "content": "5cc1c77f"
   },
-  "/docs/image-workflow/-7f6": {
+  "/docs/2.0.0/image-workflow/-a2f": {
     "component": "17896441",
     "content": "4e555b1c"
   },
-  "/docs/imageaudio/-c2b": {
+  "/docs/2.0.0/imageaudio/-197": {
     "component": "17896441",
     "content": "2509d01c"
   },
-  "/docs/imagebackground/-1ca": {
+  "/docs/2.0.0/imagebackground/-3b5": {
     "component": "17896441",
     "content": "5b73639a"
   },
-  "/docs/imageparallax/-73e": {
+  "/docs/2.0.0/imageparallax/-0ae": {
     "component": "17896441",
     "content": "0b3b56cf"
   },
-  "/docs/intro/-8f4": {
+  "/docs/2.0.0/intro/-517": {
     "component": "17896441",
     "content": "f6d69ff8"
   },
-  "/docs/metadata/-941": {
+  "/docs/2.0.0/metadata/-e0e": {
     "component": "17896441",
     "content": "182adbc3"
   },
-  "/docs/verticalslideshow/-fba": {
+  "/docs/2.0.0/payments/-103": {
+    "component": "17896441",
+    "content": "55ccfffa"
+  },
+  "/docs/2.0.0/verticalslideshow/-7b4": {
     "component": "17896441",
     "content": "1deebc0a"
   },
-  "/docs/youtube/-8f2": {
+  "/docs/2.0.0/webmonetization/-16c": {
     "component": "17896441",
-    "content": "5a8123fc"
+    "content": "47aaa7c7"
   },
   "/-deb": {
     "component": "c4f5d8e4",

@@ -5,79 +5,166 @@
       "versions": [
         {
           "name": "current",
-          "label": "Next",
+          "label": "2.0.0",
           "isLast": true,
-          "path": "/docs",
+          "path": "/docs/2.0.0",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "backgroundvideo",
-              "path": "/docs/backgroundvideo",
+              "path": "/docs/2.0.0/backgroundvideo",
               "sidebar": "docs"
             },
             {
               "id": "centredtext",
-              "path": "/docs/centredtext",
+              "path": "/docs/2.0.0/centredtext",
+              "sidebar": "docs"
+            },
+            {
+              "id": "embed",
+              "path": "/docs/2.0.0/embed",
               "sidebar": "docs"
             },
             {
               "id": "fullpagevideo",
-              "path": "/docs/fullpagevideo",
+              "path": "/docs/2.0.0/fullpagevideo",
               "sidebar": "docs"
             },
             {
               "id": "getting-started",
-              "path": "/docs/getting-started",
+              "path": "/docs/2.0.0/getting-started",
               "sidebar": "docs"
             },
             {
               "id": "horizontalslideshow",
-              "path": "/docs/horizontalslideshow",
+              "path": "/docs/2.0.0/horizontalslideshow",
               "sidebar": "docs"
             },
             {
               "id": "how-it-works",
-              "path": "/docs/how-it-works",
+              "path": "/docs/2.0.0/how-it-works",
               "sidebar": "docs"
             },
             {
               "id": "image-workflow",
-              "path": "/docs/image-workflow",
+              "path": "/docs/2.0.0/image-workflow",
               "sidebar": "docs"
             },
             {
               "id": "imageaudio",
-              "path": "/docs/imageaudio",
+              "path": "/docs/2.0.0/imageaudio",
               "sidebar": "docs"
             },
             {
               "id": "imagebackground",
-              "path": "/docs/imagebackground",
+              "path": "/docs/2.0.0/imagebackground",
               "sidebar": "docs"
             },
             {
               "id": "imageparallax",
-              "path": "/docs/imageparallax",
+              "path": "/docs/2.0.0/imageparallax",
               "sidebar": "docs"
             },
             {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/docs/2.0.0/intro",
               "sidebar": "docs"
             },
             {
               "id": "metadata",
-              "path": "/docs/metadata",
+              "path": "/docs/2.0.0/metadata",
+              "sidebar": "docs"
+            },
+            {
+              "id": "payments",
+              "path": "/docs/2.0.0/payments"
+            },
+            {
+              "id": "verticalslideshow",
+              "path": "/docs/2.0.0/verticalslideshow",
+              "sidebar": "docs"
+            },
+            {
+              "id": "webmonetization",
+              "path": "/docs/2.0.0/webmonetization"
+            }
+          ]
+        },
+        {
+          "name": "0.4.0",
+          "label": "0.4.0",
+          "isLast": false,
+          "path": "/docs/0.4.0",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "backgroundvideo",
+              "path": "/docs/0.4.0/backgroundvideo",
+              "sidebar": "docs"
+            },
+            {
+              "id": "centredtext",
+              "path": "/docs/0.4.0/centredtext",
+              "sidebar": "docs"
+            },
+            {
+              "id": "fullpagevideo",
+              "path": "/docs/0.4.0/fullpagevideo",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started",
+              "path": "/docs/0.4.0/getting-started",
+              "sidebar": "docs"
+            },
+            {
+              "id": "horizontalslideshow",
+              "path": "/docs/0.4.0/horizontalslideshow",
+              "sidebar": "docs"
+            },
+            {
+              "id": "how-it-works",
+              "path": "/docs/0.4.0/how-it-works",
+              "sidebar": "docs"
+            },
+            {
+              "id": "image-workflow",
+              "path": "/docs/0.4.0/image-workflow",
+              "sidebar": "docs"
+            },
+            {
+              "id": "imageaudio",
+              "path": "/docs/0.4.0/imageaudio",
+              "sidebar": "docs"
+            },
+            {
+              "id": "imagebackground",
+              "path": "/docs/0.4.0/imagebackground",
+              "sidebar": "docs"
+            },
+            {
+              "id": "imageparallax",
+              "path": "/docs/0.4.0/imageparallax",
+              "sidebar": "docs"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/0.4.0/intro",
+              "sidebar": "docs"
+            },
+            {
+              "id": "metadata",
+              "path": "/docs/0.4.0/metadata",
               "sidebar": "docs"
             },
             {
               "id": "verticalslideshow",
-              "path": "/docs/verticalslideshow",
+              "path": "/docs/0.4.0/verticalslideshow",
               "sidebar": "docs"
             },
             {
               "id": "youtube",
-              "path": "/docs/youtube",
+              "path": "/docs/0.4.0/youtube",
               "sidebar": "docs"
             }
           ]

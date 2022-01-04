@@ -12,7 +12,6 @@ A Centred text item handles a large amount of text, laid out in the center of th
 
 ![Mural's Centred Text item on desktop](./assets/output/CentredText-desktop.png "Mural's Centred Text item on desktop")
 
-
 ## Title
 
 This is where you write your title for the item, such as a headline.
@@ -25,11 +24,11 @@ This is where you write the subtitle for the item
 
 This is where you write the main text for your item.
 
-![Add image popup](./assets/output/image-upload.png "Mural's image upload popup menu")
+![Add image popup](./assets/image-upload.png "Mural's image upload popup menu")
 
 ## Add image
 
-To add an image, click the Image button in the text editor field. You can either upload an image or add a URL. 
+To add an image, click the Image button in the text editor field. You can either upload an image or add a URL.
 
 ### Alt text
 

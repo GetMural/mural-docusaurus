@@ -1,0 +1,29 @@
+{
+  "unversionedId": "backgroundvideo",
+  "id": "version-0.4.0/backgroundvideo",
+  "title": "The Background Video Mural Item",
+  "description": "The Background Video item has video that is intended to play behind headline, subtitle, and/or body text. Background videos do not have player controls, and by default will continuously loop their playback.",
+  "source": "@site/versioned_docs/version-0.4.0/BackgroundVideo.md",
+  "sourceDirName": ".",
+  "slug": "/backgroundvideo",
+  "permalink": "/docs/0.4.0/backgroundvideo",
+  "tags": [],
+  "version": "0.4.0",
+  "lastUpdatedBy": "Naomi Aro",
+  "lastUpdatedAt": 1640890617,
+  "formattedLastUpdatedAt": "12/30/2021",
+  "frontMatter": {
+    "id": "backgroundvideo",
+    "title": "The Background Video Mural Item",
+    "sidebar_label": "Background Video"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Metadata",
+    "permalink": "/docs/0.4.0/metadata"
+  },
+  "next": {
+    "title": "Centred Text",
+    "permalink": "/docs/0.4.0/centredtext"
+  }
+}

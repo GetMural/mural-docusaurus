@@ -1,9 +1,9 @@
 {
   "pluginId": "default",
   "version": "current",
-  "label": "Next",
+  "label": "2.0.0",
   "banner": null,
-  "badge": false,
+  "badge": true,
   "className": "docs-version-current",
   "isLast": true,
   "docsSidebars": {
@@ -17,19 +17,19 @@
           {
             "type": "link",
             "label": "Intro",
-            "href": "/docs/intro",
+            "href": "/docs/2.0.0/intro",
             "docId": "intro"
           },
           {
             "type": "link",
             "label": "How Mural works",
-            "href": "/docs/how-it-works",
+            "href": "/docs/2.0.0/how-it-works",
             "docId": "how-it-works"
           },
           {
             "type": "link",
             "label": "Getting Started",
-            "href": "/docs/getting-started",
+            "href": "/docs/2.0.0/getting-started",
             "docId": "getting-started"
           }
         ]
@@ -43,62 +43,62 @@
           {
             "type": "link",
             "label": "Metadata",
-            "href": "/docs/metadata",
+            "href": "/docs/2.0.0/metadata",
             "docId": "metadata"
           },
           {
             "type": "link",
             "label": "Background Video",
-            "href": "/docs/backgroundvideo",
+            "href": "/docs/2.0.0/backgroundvideo",
             "docId": "backgroundvideo"
           },
           {
             "type": "link",
             "label": "Centred Text",
-            "href": "/docs/centredtext",
+            "href": "/docs/2.0.0/centredtext",
             "docId": "centredtext"
           },
           {
             "type": "link",
             "label": "Fullpage Video",
-            "href": "/docs/fullpagevideo",
+            "href": "/docs/2.0.0/fullpagevideo",
             "docId": "fullpagevideo"
           },
           {
             "type": "link",
             "label": "Horizontal Slideshow",
-            "href": "/docs/horizontalslideshow",
+            "href": "/docs/2.0.0/horizontalslideshow",
             "docId": "horizontalslideshow"
           },
           {
             "type": "link",
             "label": "Image Audio",
-            "href": "/docs/imageaudio",
+            "href": "/docs/2.0.0/imageaudio",
             "docId": "imageaudio"
           },
           {
             "type": "link",
             "label": "Image Background",
-            "href": "/docs/imagebackground",
+            "href": "/docs/2.0.0/imagebackground",
             "docId": "imagebackground"
           },
           {
             "type": "link",
-            "label": "Image Parallax",
-            "href": "/docs/imageparallax",
+            "label": "Parallax Image",
+            "href": "/docs/2.0.0/imageparallax",
             "docId": "imageparallax"
           },
           {
             "type": "link",
             "label": "Vertical Slideshow",
-            "href": "/docs/verticalslideshow",
+            "href": "/docs/2.0.0/verticalslideshow",
             "docId": "verticalslideshow"
           },
           {
             "type": "link",
-            "label": "Youtube",
-            "href": "/docs/youtube",
-            "docId": "youtube"
+            "label": "Embed Video",
+            "href": "/docs/2.0.0/embed",
+            "docId": "embed"
           }
         ]
       },
@@ -111,7 +111,7 @@
           {
             "type": "link",
             "label": "Image Workflow",
-            "href": "/docs/image-workflow",
+            "href": "/docs/2.0.0/image-workflow",
             "docId": "image-workflow"
           }
         ]
@@ -132,10 +132,16 @@
       "description": "A Centred text item handles a large amount of text, laid out in the center of the screen, and can have images on left, right, or middle of the text column. This is good for the parts of your story which have long texts.",
       "sidebar": "docs"
     },
+    "embed": {
+      "id": "embed",
+      "title": "The Embed Video Mural Item",
+      "description": "A Video Embed item sets a video from YouTube, Vimeo or Daily Motion to play in a full frame in a Mural story. Playback is triggered automatically by scrolling down into the item, or by the user clicking on the YouTube “play” button in the center of the video.",
+      "sidebar": "docs"
+    },
     "fullpagevideo": {
       "id": "fullpagevideo",
       "title": "The Fullpage Video Mural Item",
-      "description": "The Fullpage video item refers to a section of your Mural story where there is a video that takes up the entire screen, and which has a play/pause button.",
+      "description": "The Fullpage video item refers to a section of your Mural story where there is a video that takes up the entire screen with a play/pause button. There is less room for text in the Fullpage video item, usually a line or two, if any.",
       "sidebar": "docs"
     },
     "getting-started": {
@@ -165,7 +171,7 @@
     "imageaudio": {
       "id": "imageaudio",
       "title": "The Image Audio Mural Item",
-      "description": "An Image Audio item is a still image that can play audio in the background. This is useful for ambient, environmental sound, or for sound material with images attached. An audio file attached to an Image Audio item will loop until the user scrolls away to advance to the next item.",
+      "description": "An Image Audio item is a still image that can play audio in the background. This is useful for ambient, environmental sound, or for sound material with images attached. An audio file attached to an Image Audio item will play until the user scrolls away to advance to the next item. Audio files can be looped for continuous play until the user scrolls away.",
       "sidebar": "docs"
     },
     "imagebackground": {
@@ -176,8 +182,8 @@
     },
     "imageparallax": {
       "id": "imageparallax",
-      "title": "The Image Parallax Mural Item",
-      "description": "A Parallax image with text item has a still image with text that has a parallax scrolling effect, meaning that the text seems to move at a different speed than the image behind it. Select your image and input the text you want to display with it.",
+      "title": "The Parallax Image Mural Item",
+      "description": "A Parallax image with text item has a still image with text that has a parallax scrolling effect, meaning that the text seems to move at a different speed than the image behind it. Select your image and input the text you want to display with it. The Parallax Image item is not intended for large amounts of text; for longer texts, consider using the Image Background item instead.",
       "sidebar": "docs"
     },
     "intro": {
@@ -192,17 +198,21 @@
       "description": "The metadata screen is where the information that describes the story to external sources is presented. This information is important to search engines and social media platforms as this is where the short description and image you see on Google and Facebook or Twitter comes from. It is also where you can add your Google Analytics identification number if you want.",
       "sidebar": "docs"
     },
+    "payments": {
+      "id": "payments",
+      "title": "The Mural Payments Menu",
+      "description": "The Payments menu in Mural 2"
+    },
     "verticalslideshow": {
       "id": "verticalslideshow",
       "title": "The Vertical Slideshow Mural Item",
       "description": "A Vertical slideshow item refers to a collection of images with captions that can be scrolled through in a set - each slide \"sticking\" to the top of the screen until the following slide replaces it.",
       "sidebar": "docs"
     },
-    "youtube": {
-      "id": "youtube",
-      "title": "The Youtube Mural Item",
-      "description": "A YouTube item sets a YouTube video to play in a full frame in a Mural story. Playback is triggered automatically by scrolling down into the item, or by the user clicking on the YouTube “play” button in the center of the video.",
-      "sidebar": "docs"
+    "webmonetization": {
+      "id": "webmonetization",
+      "title": "What is web monetization?",
+      "description": "Support for web monetization in Mural"
     }
   }
 }

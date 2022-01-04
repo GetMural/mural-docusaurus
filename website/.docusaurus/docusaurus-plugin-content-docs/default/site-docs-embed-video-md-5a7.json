@@ -1,0 +1,26 @@
+{
+  "unversionedId": "embed",
+  "id": "embed",
+  "title": "The Embed Video Mural Item",
+  "description": "A Video Embed item sets a video from YouTube, Vimeo or Daily Motion to play in a full frame in a Mural story. Playback is triggered automatically by scrolling down into the item, or by the user clicking on the YouTube “play” button in the center of the video.",
+  "source": "@site/../docs/EmbedVideo.md",
+  "sourceDirName": ".",
+  "slug": "/embed",
+  "permalink": "/docs/2.0.0/embed",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "embed",
+    "title": "The Embed Video Mural Item",
+    "sidebar_label": "Embed Video"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Vertical Slideshow",
+    "permalink": "/docs/2.0.0/verticalslideshow"
+  },
+  "next": {
+    "title": "Image Workflow",
+    "permalink": "/docs/2.0.0/image-workflow"
+  }
+}

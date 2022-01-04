@@ -6,12 +6,12 @@
   "source": "@site/../docs/meta.md",
   "sourceDirName": ".",
   "slug": "/metadata",
-  "permalink": "/docs/metadata",
+  "permalink": "/docs/2.0.0/metadata",
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "Edouard",
-  "lastUpdatedAt": 1625638983,
-  "formattedLastUpdatedAt": "7/6/2021",
+  "lastUpdatedBy": "Douglas Arellanes",
+  "lastUpdatedAt": 1641147012,
+  "formattedLastUpdatedAt": "1/2/2022",
   "frontMatter": {
     "id": "metadata",
     "title": "Story Metadata",
@@ -20,10 +20,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Getting Started",
-    "permalink": "/docs/getting-started"
+    "permalink": "/docs/2.0.0/getting-started"
   },
   "next": {
     "title": "Background Video",
-    "permalink": "/docs/backgroundvideo"
+    "permalink": "/docs/2.0.0/backgroundvideo"
   }
 }
