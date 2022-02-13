@@ -6,12 +6,12 @@
   "source": "@site/../docs/ImageAudio.md",
   "sourceDirName": ".",
   "slug": "/imageaudio",
-  "permalink": "/docs/2.0.0/imageaudio",
+  "permalink": "/docs/imageaudio",
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "Douglas Arellanes",
-  "lastUpdatedAt": 1641145297,
-  "formattedLastUpdatedAt": "1/2/2022",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "frontMatter": {
     "id": "imageaudio",
     "title": "The Image Audio Mural Item",
@@ -20,10 +20,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Horizontal Slideshow",
-    "permalink": "/docs/2.0.0/horizontalslideshow"
+    "permalink": "/docs/horizontalslideshow"
   },
   "next": {
     "title": "Image Background",
-    "permalink": "/docs/2.0.0/imagebackground"
+    "permalink": "/docs/imagebackground"
   }
 }

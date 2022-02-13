@@ -6,12 +6,12 @@
   "source": "@site/../docs/CentredText.md",
   "sourceDirName": ".",
   "slug": "/centredtext",
-  "permalink": "/docs/2.0.0/centredtext",
+  "permalink": "/docs/centredtext",
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "Naomi Aro",
-  "lastUpdatedAt": 1641281964,
-  "formattedLastUpdatedAt": "1/3/2022",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "frontMatter": {
     "id": "centredtext",
     "title": "The Centred Text Mural Item",
@@ -20,10 +20,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Background Video",
-    "permalink": "/docs/2.0.0/backgroundvideo"
+    "permalink": "/docs/backgroundvideo"
   },
   "next": {
     "title": "Fullpage Video",
-    "permalink": "/docs/2.0.0/fullpagevideo"
+    "permalink": "/docs/fullpagevideo"
   }
 }

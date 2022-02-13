@@ -6,12 +6,12 @@
   "source": "@site/../docs/EmbedVideo.md",
   "sourceDirName": ".",
   "slug": "/embed",
-  "permalink": "/docs/2.0.0/embed",
+  "permalink": "/docs/embed",
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "Naomi Aro",
-  "lastUpdatedAt": 1641283319,
-  "formattedLastUpdatedAt": "1/4/2022",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "frontMatter": {
     "id": "embed",
     "title": "The Embed Video Mural Item",
@@ -20,10 +20,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Vertical Slideshow",
-    "permalink": "/docs/2.0.0/verticalslideshow"
+    "permalink": "/docs/verticalslideshow"
   },
   "next": {
     "title": "What is web monetization?",
-    "permalink": "/docs/2.0.0/webmonetization"
+    "permalink": "/docs/webmonetization"
   }
 }

@@ -6,12 +6,12 @@
   "source": "@site/../docs/image-workflow.md",
   "sourceDirName": ".",
   "slug": "/image-workflow",
-  "permalink": "/docs/2.0.0/image-workflow",
+  "permalink": "/docs/image-workflow",
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "naomiaro",
-  "lastUpdatedAt": 1600631907,
-  "formattedLastUpdatedAt": "9/20/2020",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "frontMatter": {
     "id": "image-workflow",
     "title": "How to work with images in Mural",
@@ -20,6 +20,6 @@
   "sidebar": "docs",
   "previous": {
     "title": "Payments Menu",
-    "permalink": "/docs/2.0.0/payments"
+    "permalink": "/docs/payments"
   }
 }

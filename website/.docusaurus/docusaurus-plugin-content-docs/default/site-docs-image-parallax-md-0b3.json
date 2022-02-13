@@ -6,12 +6,12 @@
   "source": "@site/../docs/ImageParallax.md",
   "sourceDirName": ".",
   "slug": "/imageparallax",
-  "permalink": "/docs/2.0.0/imageparallax",
+  "permalink": "/docs/imageparallax",
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "Douglas Arellanes",
-  "lastUpdatedAt": 1641146759,
-  "formattedLastUpdatedAt": "1/2/2022",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "frontMatter": {
     "id": "imageparallax",
     "title": "The Parallax Image Mural Item",
@@ -20,10 +20,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Image Background",
-    "permalink": "/docs/2.0.0/imagebackground"
+    "permalink": "/docs/imagebackground"
   },
   "next": {
     "title": "Vertical Slideshow",
-    "permalink": "/docs/2.0.0/verticalslideshow"
+    "permalink": "/docs/verticalslideshow"
   }
 }

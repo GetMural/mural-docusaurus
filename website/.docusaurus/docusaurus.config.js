@@ -32,8 +32,7 @@ export default {
           "lastVersion": "current",
           "versions": {
             "current": {
-              "label": "2.0.0",
-              "path": "2.0.0"
+              "label": "2.0.0"
             },
             "0.4.0": {
               "label": "0.4.0",
@@ -73,7 +72,7 @@ export default {
           "position": "left"
         },
         {
-          "to": "docs/2.0.0/intro",
+          "to": "docs/intro",
           "label": "Docs",
           "position": "left"
         },

@@ -6,12 +6,12 @@
   "source": "@site/../docs/webmonetization.md",
   "sourceDirName": ".",
   "slug": "/webmonetization",
-  "permalink": "/docs/2.0.0/webmonetization",
+  "permalink": "/docs/webmonetization",
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "Douglas Arellanes",
-  "lastUpdatedAt": 1641149732,
-  "formattedLastUpdatedAt": "1/2/2022",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "frontMatter": {
     "id": "webmonetization",
     "title": "What is web monetization?",
@@ -20,10 +20,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Embed Video",
-    "permalink": "/docs/2.0.0/embed"
+    "permalink": "/docs/embed"
   },
   "next": {
     "title": "Payments Menu",
-    "permalink": "/docs/2.0.0/payments"
+    "permalink": "/docs/payments"
   }
 }

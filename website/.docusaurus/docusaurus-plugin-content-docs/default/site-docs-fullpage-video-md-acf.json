@@ -6,12 +6,12 @@
   "source": "@site/../docs/FullpageVideo.md",
   "sourceDirName": ".",
   "slug": "/fullpagevideo",
-  "permalink": "/docs/2.0.0/fullpagevideo",
+  "permalink": "/docs/fullpagevideo",
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "Douglas Arellanes",
-  "lastUpdatedAt": 1641084816,
-  "formattedLastUpdatedAt": "1/1/2022",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "frontMatter": {
     "id": "fullpagevideo",
     "title": "The Fullpage Video Mural Item",
@@ -20,10 +20,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Centred Text",
-    "permalink": "/docs/2.0.0/centredtext"
+    "permalink": "/docs/centredtext"
   },
   "next": {
     "title": "Horizontal Slideshow",
-    "permalink": "/docs/2.0.0/horizontalslideshow"
+    "permalink": "/docs/horizontalslideshow"
   }
 }

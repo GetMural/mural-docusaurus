@@ -5,12 +5,13 @@
         {
           "versionName": "current",
           "versionLabel": "2.0.0",
-          "versionPath": "/docs/2.0.0",
-          "tagsPath": "/docs/2.0.0/tags",
+          "versionPath": "/docs",
+          "tagsPath": "/docs/tags",
           "versionBanner": null,
           "versionBadge": true,
           "versionClassName": "docs-version-current",
           "isLast": true,
+          "routePriority": -1,
           "sidebarFilePath": "/Users/naomiaro/Code/mural-docusaurus/website/sidebars.json",
           "contentPath": "/Users/naomiaro/Code/mural-docusaurus/docs",
           "contentPathLocalized": "/Users/naomiaro/Code/mural-docusaurus/website/i18n/en/docusaurus-plugin-content-docs/current",
@@ -23,7 +24,7 @@
               "source": "@site/../docs/BackgroundVideo.md",
               "sourceDirName": ".",
               "slug": "/backgroundvideo",
-              "permalink": "/docs/2.0.0/backgroundvideo",
+              "permalink": "/docs/backgroundvideo",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -37,11 +38,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Metadata",
-                "permalink": "/docs/2.0.0/metadata"
+                "permalink": "/docs/metadata"
               },
               "next": {
                 "title": "Centred Text",
-                "permalink": "/docs/2.0.0/centredtext"
+                "permalink": "/docs/centredtext"
               }
             },
             {
@@ -52,7 +53,7 @@
               "source": "@site/../docs/CentredText.md",
               "sourceDirName": ".",
               "slug": "/centredtext",
-              "permalink": "/docs/2.0.0/centredtext",
+              "permalink": "/docs/centredtext",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -66,11 +67,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Background Video",
-                "permalink": "/docs/2.0.0/backgroundvideo"
+                "permalink": "/docs/backgroundvideo"
               },
               "next": {
                 "title": "Fullpage Video",
-                "permalink": "/docs/2.0.0/fullpagevideo"
+                "permalink": "/docs/fullpagevideo"
               }
             },
             {
@@ -81,7 +82,7 @@
               "source": "@site/../docs/EmbedVideo.md",
               "sourceDirName": ".",
               "slug": "/embed",
-              "permalink": "/docs/2.0.0/embed",
+              "permalink": "/docs/embed",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -95,11 +96,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Vertical Slideshow",
-                "permalink": "/docs/2.0.0/verticalslideshow"
+                "permalink": "/docs/verticalslideshow"
               },
               "next": {
                 "title": "What is web monetization?",
-                "permalink": "/docs/2.0.0/webmonetization"
+                "permalink": "/docs/webmonetization"
               }
             },
             {
@@ -110,7 +111,7 @@
               "source": "@site/../docs/FullpageVideo.md",
               "sourceDirName": ".",
               "slug": "/fullpagevideo",
-              "permalink": "/docs/2.0.0/fullpagevideo",
+              "permalink": "/docs/fullpagevideo",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -124,11 +125,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Centred Text",
-                "permalink": "/docs/2.0.0/centredtext"
+                "permalink": "/docs/centredtext"
               },
               "next": {
                 "title": "Horizontal Slideshow",
-                "permalink": "/docs/2.0.0/horizontalslideshow"
+                "permalink": "/docs/horizontalslideshow"
               }
             },
             {
@@ -139,7 +140,7 @@
               "source": "@site/../docs/getting-started.md",
               "sourceDirName": ".",
               "slug": "/getting-started",
-              "permalink": "/docs/2.0.0/getting-started",
+              "permalink": "/docs/getting-started",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -153,11 +154,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "How Mural works",
-                "permalink": "/docs/2.0.0/how-it-works"
+                "permalink": "/docs/how-it-works"
               },
               "next": {
                 "title": "Metadata",
-                "permalink": "/docs/2.0.0/metadata"
+                "permalink": "/docs/metadata"
               }
             },
             {
@@ -168,7 +169,7 @@
               "source": "@site/../docs/HorizontalSlideshow.md",
               "sourceDirName": ".",
               "slug": "/horizontalslideshow",
-              "permalink": "/docs/2.0.0/horizontalslideshow",
+              "permalink": "/docs/horizontalslideshow",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -182,11 +183,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Fullpage Video",
-                "permalink": "/docs/2.0.0/fullpagevideo"
+                "permalink": "/docs/fullpagevideo"
               },
               "next": {
                 "title": "Image Audio",
-                "permalink": "/docs/2.0.0/imageaudio"
+                "permalink": "/docs/imageaudio"
               }
             },
             {
@@ -197,7 +198,7 @@
               "source": "@site/../docs/how-it-works.md",
               "sourceDirName": ".",
               "slug": "/how-it-works",
-              "permalink": "/docs/2.0.0/how-it-works",
+              "permalink": "/docs/how-it-works",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -211,11 +212,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Intro",
-                "permalink": "/docs/2.0.0/intro"
+                "permalink": "/docs/intro"
               },
               "next": {
                 "title": "Getting Started",
-                "permalink": "/docs/2.0.0/getting-started"
+                "permalink": "/docs/getting-started"
               }
             },
             {
@@ -226,7 +227,7 @@
               "source": "@site/../docs/image-workflow.md",
               "sourceDirName": ".",
               "slug": "/image-workflow",
-              "permalink": "/docs/2.0.0/image-workflow",
+              "permalink": "/docs/image-workflow",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -240,7 +241,7 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Payments Menu",
-                "permalink": "/docs/2.0.0/payments"
+                "permalink": "/docs/payments"
               }
             },
             {
@@ -251,7 +252,7 @@
               "source": "@site/../docs/ImageAudio.md",
               "sourceDirName": ".",
               "slug": "/imageaudio",
-              "permalink": "/docs/2.0.0/imageaudio",
+              "permalink": "/docs/imageaudio",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -265,11 +266,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Horizontal Slideshow",
-                "permalink": "/docs/2.0.0/horizontalslideshow"
+                "permalink": "/docs/horizontalslideshow"
               },
               "next": {
                 "title": "Image Background",
-                "permalink": "/docs/2.0.0/imagebackground"
+                "permalink": "/docs/imagebackground"
               }
             },
             {
@@ -280,7 +281,7 @@
               "source": "@site/../docs/ImageBackground.md",
               "sourceDirName": ".",
               "slug": "/imagebackground",
-              "permalink": "/docs/2.0.0/imagebackground",
+              "permalink": "/docs/imagebackground",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -294,11 +295,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Image Audio",
-                "permalink": "/docs/2.0.0/imageaudio"
+                "permalink": "/docs/imageaudio"
               },
               "next": {
                 "title": "Parallax Image",
-                "permalink": "/docs/2.0.0/imageparallax"
+                "permalink": "/docs/imageparallax"
               }
             },
             {
@@ -309,7 +310,7 @@
               "source": "@site/../docs/ImageParallax.md",
               "sourceDirName": ".",
               "slug": "/imageparallax",
-              "permalink": "/docs/2.0.0/imageparallax",
+              "permalink": "/docs/imageparallax",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -323,11 +324,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Image Background",
-                "permalink": "/docs/2.0.0/imagebackground"
+                "permalink": "/docs/imagebackground"
               },
               "next": {
                 "title": "Vertical Slideshow",
-                "permalink": "/docs/2.0.0/verticalslideshow"
+                "permalink": "/docs/verticalslideshow"
               }
             },
             {
@@ -338,7 +339,7 @@
               "source": "@site/../docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/docs/2.0.0/intro",
+              "permalink": "/docs/intro",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -352,7 +353,7 @@
               "sidebar": "docs",
               "next": {
                 "title": "How Mural works",
-                "permalink": "/docs/2.0.0/how-it-works"
+                "permalink": "/docs/how-it-works"
               }
             },
             {
@@ -363,7 +364,7 @@
               "source": "@site/../docs/meta.md",
               "sourceDirName": ".",
               "slug": "/metadata",
-              "permalink": "/docs/2.0.0/metadata",
+              "permalink": "/docs/metadata",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -377,11 +378,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Getting Started",
-                "permalink": "/docs/2.0.0/getting-started"
+                "permalink": "/docs/getting-started"
               },
               "next": {
                 "title": "Background Video",
-                "permalink": "/docs/2.0.0/backgroundvideo"
+                "permalink": "/docs/backgroundvideo"
               }
             },
             {
@@ -392,7 +393,7 @@
               "source": "@site/../docs/payments.md",
               "sourceDirName": ".",
               "slug": "/payments",
-              "permalink": "/docs/2.0.0/payments",
+              "permalink": "/docs/payments",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -406,11 +407,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "What is web monetization?",
-                "permalink": "/docs/2.0.0/webmonetization"
+                "permalink": "/docs/webmonetization"
               },
               "next": {
                 "title": "Image Workflow",
-                "permalink": "/docs/2.0.0/image-workflow"
+                "permalink": "/docs/image-workflow"
               }
             },
             {
@@ -421,7 +422,7 @@
               "source": "@site/../docs/VerticalSlideshow.md",
               "sourceDirName": ".",
               "slug": "/verticalslideshow",
-              "permalink": "/docs/2.0.0/verticalslideshow",
+              "permalink": "/docs/verticalslideshow",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -435,11 +436,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Parallax Image",
-                "permalink": "/docs/2.0.0/imageparallax"
+                "permalink": "/docs/imageparallax"
               },
               "next": {
                 "title": "Embed Video",
-                "permalink": "/docs/2.0.0/embed"
+                "permalink": "/docs/embed"
               }
             },
             {
@@ -450,7 +451,7 @@
               "source": "@site/../docs/webmonetization.md",
               "sourceDirName": ".",
               "slug": "/webmonetization",
-              "permalink": "/docs/2.0.0/webmonetization",
+              "permalink": "/docs/webmonetization",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -464,11 +465,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Embed Video",
-                "permalink": "/docs/2.0.0/embed"
+                "permalink": "/docs/embed"
               },
               "next": {
                 "title": "Payments Menu",
-                "permalink": "/docs/2.0.0/payments"
+                "permalink": "/docs/payments"
               }
             }
           ],

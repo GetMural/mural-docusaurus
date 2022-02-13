@@ -6,12 +6,12 @@
   "source": "@site/../docs/payments.md",
   "sourceDirName": ".",
   "slug": "/payments",
-  "permalink": "/docs/2.0.0/payments",
+  "permalink": "/docs/payments",
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "Douglas Arellanes",
-  "lastUpdatedAt": 1641152215,
-  "formattedLastUpdatedAt": "1/2/2022",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "frontMatter": {
     "id": "payments",
     "title": "The Mural Payments Menu",
@@ -20,10 +20,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "What is web monetization?",
-    "permalink": "/docs/2.0.0/webmonetization"
+    "permalink": "/docs/webmonetization"
   },
   "next": {
     "title": "Image Workflow",
-    "permalink": "/docs/2.0.0/image-workflow"
+    "permalink": "/docs/image-workflow"
   }
 }

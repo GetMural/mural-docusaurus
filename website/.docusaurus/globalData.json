@@ -7,87 +7,87 @@
           "name": "current",
           "label": "2.0.0",
           "isLast": true,
-          "path": "/docs/2.0.0",
+          "path": "/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "backgroundvideo",
-              "path": "/docs/2.0.0/backgroundvideo",
+              "path": "/docs/backgroundvideo",
               "sidebar": "docs"
             },
             {
               "id": "centredtext",
-              "path": "/docs/2.0.0/centredtext",
+              "path": "/docs/centredtext",
               "sidebar": "docs"
             },
             {
               "id": "embed",
-              "path": "/docs/2.0.0/embed",
+              "path": "/docs/embed",
               "sidebar": "docs"
             },
             {
               "id": "fullpagevideo",
-              "path": "/docs/2.0.0/fullpagevideo",
+              "path": "/docs/fullpagevideo",
               "sidebar": "docs"
             },
             {
               "id": "getting-started",
-              "path": "/docs/2.0.0/getting-started",
+              "path": "/docs/getting-started",
               "sidebar": "docs"
             },
             {
               "id": "horizontalslideshow",
-              "path": "/docs/2.0.0/horizontalslideshow",
+              "path": "/docs/horizontalslideshow",
               "sidebar": "docs"
             },
             {
               "id": "how-it-works",
-              "path": "/docs/2.0.0/how-it-works",
+              "path": "/docs/how-it-works",
               "sidebar": "docs"
             },
             {
               "id": "image-workflow",
-              "path": "/docs/2.0.0/image-workflow",
+              "path": "/docs/image-workflow",
               "sidebar": "docs"
             },
             {
               "id": "imageaudio",
-              "path": "/docs/2.0.0/imageaudio",
+              "path": "/docs/imageaudio",
               "sidebar": "docs"
             },
             {
               "id": "imagebackground",
-              "path": "/docs/2.0.0/imagebackground",
+              "path": "/docs/imagebackground",
               "sidebar": "docs"
             },
             {
               "id": "imageparallax",
-              "path": "/docs/2.0.0/imageparallax",
+              "path": "/docs/imageparallax",
               "sidebar": "docs"
             },
             {
               "id": "intro",
-              "path": "/docs/2.0.0/intro",
+              "path": "/docs/intro",
               "sidebar": "docs"
             },
             {
               "id": "metadata",
-              "path": "/docs/2.0.0/metadata",
+              "path": "/docs/metadata",
               "sidebar": "docs"
             },
             {
               "id": "payments",
-              "path": "/docs/2.0.0/payments",
+              "path": "/docs/payments",
               "sidebar": "docs"
             },
             {
               "id": "verticalslideshow",
-              "path": "/docs/2.0.0/verticalslideshow",
+              "path": "/docs/verticalslideshow",
               "sidebar": "docs"
             },
             {
               "id": "webmonetization",
-              "path": "/docs/2.0.0/webmonetization",
+              "path": "/docs/webmonetization",
               "sidebar": "docs"
             }
           ]

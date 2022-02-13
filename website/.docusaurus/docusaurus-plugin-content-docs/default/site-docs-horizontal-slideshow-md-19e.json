@@ -6,12 +6,12 @@
   "source": "@site/../docs/HorizontalSlideshow.md",
   "sourceDirName": ".",
   "slug": "/horizontalslideshow",
-  "permalink": "/docs/2.0.0/horizontalslideshow",
+  "permalink": "/docs/horizontalslideshow",
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "Douglas Arellanes",
-  "lastUpdatedAt": 1641141577,
-  "formattedLastUpdatedAt": "1/2/2022",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "frontMatter": {
     "id": "horizontalslideshow",
     "title": "The Horizontal Slideshow Mural Item",
@@ -20,10 +20,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Fullpage Video",
-    "permalink": "/docs/2.0.0/fullpagevideo"
+    "permalink": "/docs/fullpagevideo"
   },
   "next": {
     "title": "Image Audio",
-    "permalink": "/docs/2.0.0/imageaudio"
+    "permalink": "/docs/imageaudio"
   }
 }

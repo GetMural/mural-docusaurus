@@ -17,19 +17,19 @@
           {
             "type": "link",
             "label": "Intro",
-            "href": "/docs/2.0.0/intro",
+            "href": "/docs/intro",
             "docId": "intro"
           },
           {
             "type": "link",
             "label": "How Mural works",
-            "href": "/docs/2.0.0/how-it-works",
+            "href": "/docs/how-it-works",
             "docId": "how-it-works"
           },
           {
             "type": "link",
             "label": "Getting Started",
-            "href": "/docs/2.0.0/getting-started",
+            "href": "/docs/getting-started",
             "docId": "getting-started"
           }
         ]
@@ -43,61 +43,61 @@
           {
             "type": "link",
             "label": "Metadata",
-            "href": "/docs/2.0.0/metadata",
+            "href": "/docs/metadata",
             "docId": "metadata"
           },
           {
             "type": "link",
             "label": "Background Video",
-            "href": "/docs/2.0.0/backgroundvideo",
+            "href": "/docs/backgroundvideo",
             "docId": "backgroundvideo"
           },
           {
             "type": "link",
             "label": "Centred Text",
-            "href": "/docs/2.0.0/centredtext",
+            "href": "/docs/centredtext",
             "docId": "centredtext"
           },
           {
             "type": "link",
             "label": "Fullpage Video",
-            "href": "/docs/2.0.0/fullpagevideo",
+            "href": "/docs/fullpagevideo",
             "docId": "fullpagevideo"
           },
           {
             "type": "link",
             "label": "Horizontal Slideshow",
-            "href": "/docs/2.0.0/horizontalslideshow",
+            "href": "/docs/horizontalslideshow",
             "docId": "horizontalslideshow"
           },
           {
             "type": "link",
             "label": "Image Audio",
-            "href": "/docs/2.0.0/imageaudio",
+            "href": "/docs/imageaudio",
             "docId": "imageaudio"
           },
           {
             "type": "link",
             "label": "Image Background",
-            "href": "/docs/2.0.0/imagebackground",
+            "href": "/docs/imagebackground",
             "docId": "imagebackground"
           },
           {
             "type": "link",
             "label": "Parallax Image",
-            "href": "/docs/2.0.0/imageparallax",
+            "href": "/docs/imageparallax",
             "docId": "imageparallax"
           },
           {
             "type": "link",
             "label": "Vertical Slideshow",
-            "href": "/docs/2.0.0/verticalslideshow",
+            "href": "/docs/verticalslideshow",
             "docId": "verticalslideshow"
           },
           {
             "type": "link",
             "label": "Embed Video",
-            "href": "/docs/2.0.0/embed",
+            "href": "/docs/embed",
             "docId": "embed"
           }
         ]
@@ -111,13 +111,13 @@
           {
             "type": "link",
             "label": "What is web monetization?",
-            "href": "/docs/2.0.0/webmonetization",
+            "href": "/docs/webmonetization",
             "docId": "webmonetization"
           },
           {
             "type": "link",
             "label": "Payments Menu",
-            "href": "/docs/2.0.0/payments",
+            "href": "/docs/payments",
             "docId": "payments"
           }
         ]
@@ -131,7 +131,7 @@
           {
             "type": "link",
             "label": "Image Workflow",
-            "href": "/docs/2.0.0/image-workflow",
+            "href": "/docs/image-workflow",
             "docId": "image-workflow"
           }
         ]
