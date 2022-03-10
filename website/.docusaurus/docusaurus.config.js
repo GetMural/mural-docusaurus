@@ -55,6 +55,12 @@ export default {
   ],
   "plugins": [],
   "themeConfig": {
+    "metadata": [
+      {
+        "name": "monetization",
+        "content": "$ilp.uphold.com/e9EyJQYXGNHE"
+      }
+    ],
     "navbar": {
       "title": "Mural",
       "logo": {
@@ -195,7 +201,6 @@ export default {
     "docs": {
       "versionPersistence": "localStorage"
     },
-    "metadata": [],
     "prism": {
       "additionalLanguages": []
     },

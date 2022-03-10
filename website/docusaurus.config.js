@@ -53,6 +53,9 @@ module.exports = {
   ],
   plugins: [],
   themeConfig: {
+    metadata: [
+      { name: "monetization", content: "$ilp.uphold.com/e9EyJQYXGNHE" },
+    ],
     navbar: {
       title: "Mural",
       logo: {
